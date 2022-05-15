@@ -1,0 +1,5 @@
+{
+    "emoji": "emoji.toString()",
+    "old_emoji_name": "oldEmoji.name",
+    "new_emoji_name": "newEmoji.name"
+}
