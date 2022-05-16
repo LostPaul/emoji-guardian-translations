@@ -227,6 +227,12 @@ module.exports = {
       },
       {
         "type": 1,
+        "name": "list_auto_update_remove",
+        "description": "Disable the auto update of the emoji list",
+        "options": null
+      },
+      {
+        "type": 1,
         "name": "list",
         "description": "Create an list of the emojis from your server with the emoji ids",
         "options": [
