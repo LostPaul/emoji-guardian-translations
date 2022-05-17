@@ -1,5 +1,5 @@
 {
-    "emoji": "emoji.toString()",
-    "old_emoji_name": "oldEmoji.name",
-    "new_emoji_name": "newEmoji.name"
+    "emoji": "args.oldEmoji.toString()",
+    "old_emoji_name": "args.oldEmoji.name",
+    "new_emoji_name_interaction": "args.interaction.options.get('name').value"
 }
