@@ -2,5 +2,6 @@
     "emoji": "args.oldEmoji.toString()",
     "old_emoji_name": "args.oldEmoji.name",
     "new_emoji_name_interaction": "args.interaction.options.get('name').value",
-    "error": "args.error"
+    "error": "args.error",
+    "user_tag" : "args.user.tag"
 }
