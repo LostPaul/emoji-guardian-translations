@@ -1,0 +1,33 @@
+{
+    "embed": {
+        "color": "0x0099ff",
+        "title": "{old_emoji_name}",
+        "url": "https://discord.js.org",
+        "author": {
+            "name": "Some name",
+            "icon_url": "https://i.imgur.com/AfFp7pu.png",
+            "url": "https://discord.js.org"
+        },
+        "description": "Some description here",
+        "thumbnail": {
+            "url": "https://i.imgur.com/AfFp7pu.png"
+        },
+        "fields": [
+            {
+                "name": "Regular field title",
+                "value": "Role: {
+            }
+        ],
+        "image": {
+            "url": "https://i.imgur.com/AfFp7pu.png"
+        },
+        "timestamp": "{new Date()}",
+        "footer": {
+            "text": "Some footer text here"
+        }
+    },
+    "footer": {
+        "text": "Some footer text here",
+        "icon_url": "https://i.imgur.com/AfFp7pu.png"
+    }
+}

@@ -1,7 +1,10 @@
 {
+    "no_args": "",
+    "old_emoji_roles": "args.oldEmoji?._roles",
     "emoji": "args.oldEmoji.toString()",
     "old_emoji_name": "args.oldEmoji.name",
-    "new_emoji_name_interaction": "args.interaction.options.get('name').value",
+    "new_emoji_name": "args.newEmoji.name",
+    "new_emoji_name_interaction": "args.interaction.options?.get('name').value",
     "error": "args.error",
     "user_tag" : "args.user.tag"
 }
