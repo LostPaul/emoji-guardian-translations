@@ -1,15 +1,17 @@
 {
     "no_args": "",
     "emoji": "args.currentEmoji.toString()",
-    "current_emoji_roles": "args.rolesCurrentEmoji == 'Nothing'  ? args.rolesCurrentEmoji : args.rolescurrentEmoji?.join(', ')",
+    "current_emoji_roles": "args.rolesCurrentEmoji == 'Nothing'  ? args.rolesCurrentEmoji : args.rolesCurrentEmoji?.join(', ')",
     "current_emoji_id": "args.currentEmoji?.id",
     "current_emoji_name": "args.currentEmoji.name",
-    "current_emoji_author": "args.currentEmoji.fetchAuthor()?.tag",
+    "current_emoji_author": "let author = await args.currentEmoji.fetchAuthor(); return author.username + '#' + author.discriminator",
     "current_emoji_creation_timestamp": "Math.floor(args.currentEmoji.createdTimestamp / 1000)",
     "current_emoji_url": "args.currentEmoji.url",
     "current_emoji_managed": "args.currentEmoji.managed.toString()",
     "new_emoji_name": "args.newEmoji.name",
     "new_emoji_name_interaction": "args.interaction.options?.get('name').value",
+    "new_language_interaction": "args.interaction.options?.get('language')?.value",
+    "new_language": "client.supportedLanguages.get(args.interaction.options?.get('language')?.value)?.language_name",
     "error": "args.error",
     "user_tag" : "args.user.tag"
 }
