@@ -1,7 +1,8 @@
 {
+    "nothing": "Nichts",
     "embed": {
         "color": "2f3136",
-        "title": "Emoji info", 
+        "title": "Emoji Informationen", 
         "thumbnail": {
             "url": "{current_emoji_url}"
         },
@@ -17,28 +18,28 @@
                 "inline": true
             },
             {
-                "name": "Manged:",
+                "name": "Verwaltet:",
                 "value": "{current_emoji_managed}",
                 "inline": true
             },
             {
-                "name": "Locked to:",
+                "name": "Rollen die zugriff auf das Emoji haben:",
                 "value": "{current_emoji_roles}",
                 "inline": false
             },
             {
-                "name": "Created at:",
+                "name": "Erstellt am:",
                 "value": "<t:{current_emoji_creation_timestamp}:D>",
                 "inline": true
             },
             {
-                "name": "Uploaded by:",
+                "name": "Hochgeladen von:",
                 "value": "{current_emoji_author}",
                 "inline": true
             },
             {
                 "name": "Download link:",
-                "value": "[Click here]({current_emoji_url})",
+                "value": "[Klick hier]({current_emoji_url})",
                 "inline": true
             }
         ]

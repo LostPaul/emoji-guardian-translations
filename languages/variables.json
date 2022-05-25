@@ -1,7 +1,7 @@
 {
     "no_args": "",
     "emoji": "args.currentEmoji.toString()",
-    "current_emoji_roles": "args.rolesCurrentEmoji == 'Nothing'  ? args.rolesCurrentEmoji : args.rolesCurrentEmoji?.join(', ')",
+    "current_emoji_roles": " let roles = (args.rolesCurrentEmoji == 'Nothing'  ?  await client.getLanguage.getCommandContent('emoji-info', ['interactions', 'slash_commands'], interaction, { 'type': 'nothing', 'interaction': interaction}) : args.rolesCurrentEmoji?.join(', ')); return roles",
     "current_emoji_id": "args.currentEmoji?.id",
     "current_emoji_name": "args.currentEmoji.name",
     "current_emoji_author": "let author = await args.currentEmoji.fetchAuthor(); return author.username + '#' + author.discriminator",

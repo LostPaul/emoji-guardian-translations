@@ -1,7 +1,8 @@
 {
+    "nothing": "Nothing",
     "embed": {
         "color": "2f3136",
-        "title": "Emoji Informationen", 
+        "title": "Emoji info", 
         "thumbnail": {
             "url": "{current_emoji_url}"
         },
