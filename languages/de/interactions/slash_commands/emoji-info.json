@@ -1,5 +1,7 @@
 {
-    "nothing": "Nichts",
+    "nothing": "Jede Rolle",
+    "true": "Ja",
+    "false": "Nein",
     "embed": {
         "color": "2f3136",
         "title": "Emoji Informationen", 

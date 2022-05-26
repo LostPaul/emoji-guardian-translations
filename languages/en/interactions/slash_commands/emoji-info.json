@@ -1,5 +1,7 @@
 {
     "nothing": "Nothing",
+    "true": "True",
+    "false": "False",
     "embed": {
         "color": "2f3136",
         "title": "Emoji info", 

@@ -8,6 +8,6 @@ module.exports = {
     },
     "type": 3,
     "dm_permission": false,
-    "default_member_permissions": "268435456",
+    "default_member_permissions": "1073741824",
   }
 }
