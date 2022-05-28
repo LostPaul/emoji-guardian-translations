@@ -46,8 +46,8 @@ module.exports = {
         "description": "Create an emoji on your server by using a link",
         "options": [
           {
-            "type": 3,
-            "name": "image_link",
+            "type": 11,
+            "name": "image",
             "description": "The emoji you want to create",
             "required": true,
             "choices": []

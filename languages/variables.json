@@ -5,6 +5,7 @@
     "interaction_options_channel": "interaction.options?.get('channel')?.value",
     "interaction_channel": "interaction.options?.get('channel')?.value || interaction.channel?.id",
     "permissions": "args.permissions",
+    "blacklist_emojis": "args.blacklistEmojis",
     "emoji": "args.currentEmoji.toString()",
     "current_emoji_roles": " let roles = (args.rolesCurrentEmoji == 'Nothing'  ?  await client.getLanguage.getCommandContent('emoji-info', ['interactions', 'slash_commands'], interaction, { 'type': 'nothing', 'interaction': interaction}) : args.rolesCurrentEmoji?.join(', ')); return roles",
     "current_emoji_id": "args.currentEmoji?.id",
@@ -18,5 +19,9 @@
     "new_language_interaction": "args.interaction.options?.get('language')?.value",
     "new_language": "client.supportedLanguages.get(args.interaction.options?.get('language')?.value)?.language_name",
     "error": "args.error",
-    "user_tag" : "args.user.tag"
+    "user_tag": "args.user?.tag || args.interaction.user?.tag",
+    "interaction_guild_name_blacklist": "interaction.guild.name.length > 60 ? interaction.guild.name.slice(0, -40) : interaction.guild.name",
+    "blacklisted_emojis": "args.blacklistedEmojis",
+    "interaction_guild_icon": "interaction.guild.iconURL({ dynamic: true })",
+    "attachment_name": "args.attachment?.name"
 }

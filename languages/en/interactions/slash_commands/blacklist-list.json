@@ -1,3 +1,14 @@
 {
-    "content": ""
+    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
+    "embed": {
+        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
+        "color": "2f3136",
+        "thumbnail": {
+            "url": "{interaction_guild_icon}"
+        },
+        "footer": {
+            "text": "Used by {user_tag}"
+        },
+        "description": "{blacklisted_emojis}"
+    }
 }
