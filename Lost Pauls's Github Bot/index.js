@@ -37,8 +37,9 @@ module.exports = (app) => {
   });
   app.on("push", async (context) => {
 
-    var newFiles = new Map()
+    let newFiles = new Map()
     let deleteFiles = new Map()
+    let newFolders = new Map()
     let sha
     let languageFolder
     await context.octokit.repos
@@ -53,6 +54,7 @@ module.exports = (app) => {
       });
     for (const commit of context.payload.commits) {
       for (const value of commit.added) {
+        console.log(value)
         if (value.startsWith("languages/en/")) {
           let file = await fetch("https://raw.githubusercontent.com/LostPaul/emoji-guardian-translations/main/" + value)
           file = await file.text()
