@@ -2,6 +2,7 @@
  * This is the main entrypoint to your Probot app
  * @param {import('probot').Probot} app
  */
+require("dotenv").config();
 const Raven = require("raven");
 Raven.config(process.env.Raven).install();
 const fetch = require('node-fetch');
@@ -15,7 +16,7 @@ module.exports = (app) => {
   app.recentActions = new Map()
 
   function notDoneYet(string) {
-    let fileName = string.slice(string.lastIndexOf("/")+1)
+    let fileName = string.slice(string.lastIndexOf("/") + 1)
     let directory = string.slice(0, string.lastIndexOf("/"))
     return `${directory}/not-done-yet#${fileName}`
   }
@@ -62,7 +63,7 @@ module.exports = (app) => {
       }
       for (const value of commit.removed) {
         if (value.startsWith("languages/en/")) {
-          deleteFiles.set(value, { path: value.slice(value.indexOf("/en/") + 4)})
+          deleteFiles.set(value, { path: value.slice(value.indexOf("/en/") + 4) })
         }
       }
     }
