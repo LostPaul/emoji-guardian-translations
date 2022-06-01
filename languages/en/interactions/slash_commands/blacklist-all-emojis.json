@@ -1,3 +1,12 @@
 {
-    "content": "You blacklisted all emojis from this server from being added with Emoji Guardian."
+    "content": "You blacklisted all emojis from this server from being added with Emoji Guardian.",
+    "log": {
+        "title": "All Emojis got blacklisted",
+        "color": "74698c",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586469801994/eg_blacklist.png"
+        },
+        "description": "Blacklisted by\nUser Tag: ${interaction.user.tag}\nUser ID: ${interaction.user.id}\nComment: ${interaction_options_comment}\nCreator: ${interaction_options_creator}`",
+        "timestamp": "{timestamp}"
+    }
 }

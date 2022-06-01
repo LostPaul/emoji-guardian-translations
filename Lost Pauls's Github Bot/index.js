@@ -91,7 +91,7 @@ module.exports = (app) => {
               owner: "LostPaul",
               repo: "emoji-guardian-translations",
               path: folder.path + "/" + notDoneYet(value.path),
-              message: `Sync translation folders created ${value.path.slice(0, value.path.lastIndexOf("/"))}`,
+              message: `Sync translation folders | created ${value.path.slice(value.path.lastIndexOf("/") + 1)}`,
               content: value.content,
               sha: sha,
             })
@@ -120,7 +120,7 @@ module.exports = (app) => {
               owner: "LostPaul",
               repo: "emoji-guardian-translations",
               path: folder.path + "/" + notDoneYet(value.path),
-              message: `Sync translation folders deleted ${value.path.slice(0, value.path.lastIndexOf("/"))}`,
+              message: `Sync translation folders | deleted ${value.path.slice(value.path.lastIndexOf("/") + 1)}`,
               sha: sha,
             })
           })
