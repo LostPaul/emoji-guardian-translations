@@ -1,0 +1,4 @@
+{
+    "content": "You enabled the autolock for {autolock_roles}",
+    "log": "{interaction_user_tag} Enabled the autolock for {autolock_roles}"
+}

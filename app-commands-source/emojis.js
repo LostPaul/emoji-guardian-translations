@@ -156,7 +156,27 @@ module.exports = {
             "name": "role",
             "description": "The role to be added to the emojis",
             "required": true
-          }
+          },
+          {
+            "type": 8,
+            "name": "role2",
+            "description": "The second role to be added to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role3",
+            "description": "The third role to be added to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role4",
+            "description": "The fourth role to be added to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role5",
+            "description": "The fifth role to be added to the emojis.",
+          },
         ]
       },
       {
@@ -173,9 +193,29 @@ module.exports = {
           {
             "type": 8,
             "name": "role",
-            "description": "The role to be removed from the emojis",
+            "description": "The role to be unlocked to the emojis",
             "required": true
-          }
+          },
+          {
+            "type": 8,
+            "name": "role2",
+            "description": "The second role to be unlocked to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role3",
+            "description": "The third role to be unlocked to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role4",
+            "description": "The fourth role to be unlocked to the emojis.",
+          },
+          {
+            "type": 8,
+            "name": "role5",
+            "description": "The fifth role to be unlocked to the emojis.",
+          },
         ]
       },
       {

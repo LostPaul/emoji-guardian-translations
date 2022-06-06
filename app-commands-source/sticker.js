@@ -90,7 +90,7 @@ module.exports = {
         "description": "Create a sticker to your server by using a image url.",
         "options": [
           {
-            "type": 3,
+            "type": 11,
             "name": "image",
             "description": "The image you want to add as sticker",
             "required": true

@@ -1,0 +1,49 @@
+{
+    "nothing": "Jede Rolle",
+    "true": "Ja",
+    "false": "Nein",
+    "embed": {
+        "color": "2f3136",
+        "title": "Emoji Informationen", 
+        "thumbnail": {
+            "url": "{current_emoji_url}"
+        },
+        "fields": [
+            {
+                "name": "Name:",
+                "value": "{current_emoji_name}",
+                "inline": true
+            },
+            {
+                "name": "ID:",
+                "value": "{current_emoji_id}",
+                "inline": true
+            },
+            {
+                "name": "Verwaltet:",
+                "value": "{current_emoji_managed}",
+                "inline": true
+            },
+            {
+                "name": "Rollen die zugriff auf das Emoji haben:",
+                "value": "{current_emoji_roles}",
+                "inline": false
+            },
+            {
+                "name": "Erstellt am:",
+                "value": "<t:{current_emoji_creation_timestamp}:D>",
+                "inline": true
+            },
+            {
+                "name": "Hochgeladen von:",
+                "value": "{current_emoji_author}",
+                "inline": true
+            },
+            {
+                "name": "Download link:",
+                "value": "[Klick hier]({current_emoji_url})",
+                "inline": true
+            }
+        ]
+    }
+}
