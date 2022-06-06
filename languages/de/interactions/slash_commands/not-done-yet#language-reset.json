@@ -1,0 +1,23 @@
+{
+    "content": "Reset the language of the Bot to English.\n\"**This guild**\" means that every message from this Bot that is visible to all is not translated anymore.\n\"**Every guild**\" means that every message from this Bot that only you see is not being translated anymore.",
+    "not-enough-perms": "You reset the language of the bot to English.",
+    "components": [
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 2,
+                    "label": "This guild",
+                    "style": 1,
+                    "custom_id": "[\"languagereset\", \"guild\"]"
+                },
+                {
+                    "type": 2,
+                    "label": "Every guild",
+                    "style": 2,
+                    "custom_id": "[\"languagereset\", \"user\"]"
+                }
+            ]
+        }
+    ]
+}
