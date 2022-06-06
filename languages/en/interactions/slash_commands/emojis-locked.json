@@ -1,3 +1,14 @@
 {
-    "content": ""
+    "content": "These emojis are locked to a role.",
+    "embed": {
+        "color": "2f3136",
+        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "description": "{text}",
+        "thumbnail": {
+            "url": "{interaction_guild_icon}"
+        },
+        "footer": {
+            "text": "Used by {user_tag}"
+        }
+    }
 }

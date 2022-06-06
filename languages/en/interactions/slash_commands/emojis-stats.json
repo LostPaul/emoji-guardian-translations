@@ -1,3 +1,7 @@
 {
-    "content": ""
+    "static": "{boolean_emoji} Static Emojis: {count}\n",
+    "animated": "{boolean_emoji} Animated Emojis: {count}\n",
+    "all": "{boolean_emoji} All Emojis: {count}\n",
+    "locked": "{boolean_emoji} Locked Emojis: {count}\n",
+    "stickers": "{boolean_emoji} Stickers: {count}\n"
 }
