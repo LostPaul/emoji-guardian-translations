@@ -6,7 +6,7 @@ module.exports = {
     "description": "Emoji related",
     "type": 1,
     "dm_permission": false,
-    "default_member_permissions": "268435456",
+    "default_member_permissions": "1073741824",
     "options": [
       {
         "type": 1,
