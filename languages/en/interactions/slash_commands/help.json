@@ -1,7 +1,9 @@
 {
-    "info_content": "",
+    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Information about \"{placeholder}\"",
+        "color": "2f3136",
+        "description": "{text}"
     },
     "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
@@ -35,7 +37,7 @@
             "components": [
                 {
                     "type": 3,
-                    "custom_id": "helpe",
+                    "custom_id": "help",
                     "options": [
                         {
                             "label": "Help Page",
