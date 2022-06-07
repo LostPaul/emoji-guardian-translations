@@ -1,0 +1,5 @@
+{
+    "description": "The new description for the sticker `{sticker_name}` is {interaction_options_description}\n",
+    "name": "The new name for the sticker `{sticker_name}` is {interaction_options_name}\n",
+    "emoji": "The new related emoji for the sticker `{sticker_name}` is {interaction_options_emoji}\n"
+}
