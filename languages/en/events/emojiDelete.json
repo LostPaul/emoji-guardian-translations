@@ -1,0 +1,12 @@
+{
+    "compact": "`{current_emoji_name}` Has been deleted by {text} [{reason_option}with the reason ]{reason}",
+    "embed": {
+        "color": "de3163",
+        "title": "Emoji deleted",
+        "thumbnail": {
+            "url": "{placeholder}"
+        },
+        "description": "Name: `{current_emoji_name}`\nID: `{current_emoji_id}`\nDeleted by {text}[{reason_option}\nReason: ]{reason}",
+        "timestamp": "{timestamp}"
+    }
+}

@@ -1,3 +1,12 @@
 {
-    "content": "You blacklisted the emojis {blacklist_emojis}"
+    "content": "You blacklisted the emojis {blacklist_emojis}",
+    "log": {
+        "title": "Emojis got blacklisted",
+        "color": "74698c",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586469801994/eg_blacklist.png"
+        },
+        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}",
+        "timestamp": "{timestamp}"
+    }
 }

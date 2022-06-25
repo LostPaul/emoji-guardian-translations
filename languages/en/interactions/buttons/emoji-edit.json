@@ -1,5 +1,5 @@
 {
-    "model": {
+    "modal": {
         "title": "Choose a new name for the emoji",
         "custom_id": "[\"emoji edit\", \"{text}\"]",
         "components": [

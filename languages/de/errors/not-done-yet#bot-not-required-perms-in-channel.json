@@ -1,3 +1,0 @@
-{
-    "content": "I don't have the required permissions `{permissions}` in the channel <#{interaction_channel}> to perform this action."
-}

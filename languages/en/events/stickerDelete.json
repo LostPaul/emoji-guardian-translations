@@ -1,0 +1,11 @@
+{
+    "embed": {
+        "color": "bd00fe",
+        "title": "Sticker deleted",
+        "thumbnail": {
+            "url": "{placeholder}"
+        },
+        "description": "Name: {current_sticker_name}\nRelated emoji: {current_sticker_tags}[{sticker_description_option}\nDescription: ]{current_sticker_description}\nRemoved by: {text}[{reason_option}\nReason: ]{reason}",
+        "timestamp": "{timestamp}"    
+    }
+}
