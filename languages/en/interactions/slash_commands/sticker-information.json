@@ -1,0 +1,56 @@
+{
+    "no_description": "No description",
+    "true": "True",
+    "false": "False",
+    "embeds": [
+        {
+            "color": "2f3136",
+            "title": "Information about a sticker",
+            "thumbnail": {
+                "url": "{text}"
+            },
+            "fields": [
+                {
+                    "name": "Name:",
+                    "value": "{current_sticker_name}",
+                    "inline": true
+                },
+                {
+                    "name": "Sticker ID:",
+                    "value": "{current_sticker_id}",
+                    "inline": true
+                },
+                {
+                    "name": "Format:",
+                    "value": "{current_sticker_format}",
+                    "inline": true
+                },
+                {
+                    "name": "Description:",
+                    "value": "{current_sticker_description_info}",
+                    "inline": true
+                },
+                {
+                    "name": "Tags:",
+                    "value": "{current_sticker_tags}",
+                    "inline": true
+                },
+                {
+                    "name": "Available:",
+                    "value": "{current_sticker_available}",
+                    "inline": true
+                },
+                {
+                    "name": "Created at:",
+                    "value": "{placeholder}",
+                    "inline": true
+                },
+                {
+                    "name": "Created by:",
+                    "value": "{current_sticker_author}",
+                    "inline": true
+                }
+            ]
+        }
+    ]
+}

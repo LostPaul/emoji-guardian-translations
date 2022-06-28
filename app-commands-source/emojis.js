@@ -274,7 +274,7 @@ module.exports = {
       {
         "type": 1,
         "name": "list",
-        "description": "Create an list of the emojis from your server with the emoji ids",
+        "description": "Create a list of the emojis from your server with the emoji ids",
         "options": [
           {
             "type": 5,

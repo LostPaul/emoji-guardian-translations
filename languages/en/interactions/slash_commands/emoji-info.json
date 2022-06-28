@@ -20,7 +20,7 @@
                 "inline": true
             },
             {
-                "name": "Manged:",
+                "name": "Managed:",
                 "value": "{current_emoji_managed}",
                 "inline": true
             },
