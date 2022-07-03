@@ -1,0 +1,12 @@
+{
+    "content": "You removed the emojis {blacklist_emojis} from the blacklist",
+    "log": {
+        "title": "Emojis got removed from the blacklist",
+        "color": "ff7331",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586658533386/eg_unblacklist.png"
+        },
+        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}",
+        "timestamp": "{timestamp}"
+    }
+}

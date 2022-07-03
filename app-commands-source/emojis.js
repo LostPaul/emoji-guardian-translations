@@ -130,6 +130,21 @@ module.exports = {
       },
       {
         "type": 1,
+        "name": "delete_latest",
+        "description": "Delete the latest emojis uploaded to your server",
+        "options": [
+          {
+            "type": 4,
+            "name": "amount",
+            "min_value": 1,
+            "max_value": 50,
+            "required": true,
+            "description": "The amount of emojis you want to delete"
+          }
+        ]
+      },
+      {
+        "type": 1,
         "name": "roles_reset",
         "description": "Reset the roles of every emoji from this server",
         "options": [
@@ -290,22 +305,20 @@ module.exports = {
             "type": 3,
             "name": "sort_after",
             "description": "Sort the emojis alphabetically or after the creation date",
+            "autocomplete": true
+          },
+          {
+            "type": 3,
+            "name": "exclude_non_or_animated_emojis",
+            "description": "Exclude animated or non animated emojis from the list",
             "choices": [
               {
-                "name": "Creation date from top to bottom",
-                "value": "creation_date_top"
+                "name": "Exclude animated emojis",
+                "value": "animated"
               },
               {
-                "name": "Creation date from bottom to top",
-                "value": "creation_date_bottom"
-              },
-              {
-                "name": "Alphabet from top to bottom",
-                "value": "alphabet_top"
-              },
-              {
-                "name": "Alphabet from bottom to top",
-                "value": "alphabet_bottom"
+                "name": "Exclude non animated emojis",
+                "value": "non_animated"
               }
             ]
           },
@@ -348,7 +361,42 @@ module.exports = {
             "type": 5,
             "name": "update_timestamp",
             "description": "Choose if you want to have a timestamp under the emojis list or not"
-          }
+          },
+          {
+            "type": 3,
+            "name": "update_timestamp_type",
+            "description": "Choose the type of timestamp you want to use",
+            "choices": [
+              {
+                "name": "Short Time	example 9:12 PM",
+                "value": "short time"
+              },
+              {
+                "name": "Long Time example 9:12:30 PM",
+                "value": "long time"
+              },
+              {
+                "name": "Short Date example 06/29/2022",
+                "value": "short date"
+              },
+              {
+                "name": "Long Date example June 29, 2022",
+                "value": "long date"
+              },
+              {
+                "name": "Short Date/Time example June 29, 2022 9:12 PM",
+                "value": "short date/time"
+              },
+              {
+                "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
+                "value": "long date/time"
+              },
+              {
+                "name": "Relative Time example a few seconds ago",
+                "value": "relative time"
+              }
+            ]
+          },
         ]
       }
     ]
