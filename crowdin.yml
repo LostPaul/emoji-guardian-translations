@@ -1,0 +1,3 @@
+files:
+  - source: /crowdin-translations/*.json
+    translation: /crowdin-translations/translations/%two_letters_code%/%file_name%.%file_extension%
