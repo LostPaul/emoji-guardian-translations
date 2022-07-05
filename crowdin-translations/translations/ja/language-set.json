@@ -1,0 +1,12 @@
+{
+    "content": "Change the language of the Bot.\n\"**This guild**\" means that every message from this Bot that is visible to all is translated.\n\"**Every guild**\" means that every message from this Bot that only you see is being translated.",
+    "not-enough-perms": "You changed the language of the bot to {new_language}",
+    "components": [
+        {
+            "label": "This guild"
+        },
+        {
+            "label": "Every guild"
+        }
+    ]
+}
