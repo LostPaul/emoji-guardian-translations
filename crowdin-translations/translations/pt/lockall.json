@@ -1,0 +1,5 @@
+{
+    "unlock": "You unlocked all emojis from {placeholder}",
+    "lock": "You locked all emojis to {placeholder}",
+    "cancel": "The action was canceled."
+}
