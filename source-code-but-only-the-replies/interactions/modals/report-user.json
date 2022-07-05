@@ -1,26 +1,26 @@
 {
-    "content": "You reported the user `{user_tag}`",
+    "content": "client.I18n.get(locale, 'report-user', 'content')",
     "embed": {
-        "title": "User report",
+        "title": "client.I18n.get(locale, 'report-user', 'embed.title')",
         "color": "2f3136",
         "thumbnail": {
             "url": "{placeholder}"
         },
         "fields": [
             {
-                "name": "Reporter",
+                "name": "client.I18n.get(locale, 'report-user', 'embed.fields', 'array[0].name')",
                 "value": "{reporter}"
             },
             {
-                "name": "Reported user",
+                "name": "client.I18n.get(locale, 'report-user', 'embed.fields', 'array[1].name')",
                 "value": "{text}"
             },
             {
-                "name": "Reason",
+                "name": "client.I18n.get(locale, 'report-user', 'embed.fields', 'array[2].name')",
                 "value": "{reason}"
             },
             {
-                "name": "Images",
+                "name": "client.I18n.get(locale, 'report-user', 'embed.fields', 'array[3].name')",
                 "value": "{images}"
             }
         ]
@@ -31,7 +31,7 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Approve",
+                    "label": "client.I18n.get(locale, 'report-user', 'components', 'array[0].label')",
                     "style": 3,
                     "custom_id": "[\"Approve\", \"{user_id}\", \"user\"]",
                     "emoji": {
@@ -40,7 +40,7 @@
                 },
                 {
                     "type": 2,
-                    "label": "Blacklist reporter",
+                    "label": "client.I18n.get(locale, 'report-user', 'components', 'array[1].label')",
                     "style": 4,
                     "custom_id": "[\"Deny\", \"{interaction_user_id}\"]",
                     "emoji": {

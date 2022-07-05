@@ -1,30 +1,30 @@
 {
-    "content": "You reported the server `{server_name}`",
+    "content": "client.I18n.get(locale, 'report-server', 'content')",
     "embed": {
-        "title": "Server report",
+        "title": "client.I18n.get(locale, 'report-server', 'embed.title')",
         "color": "2f3136",
         "thumbnail": {
             "url": "{placeholder}"
         },
         "fields": [
             {
-                "name": "Reporter",
+                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[0].name')",
                 "value": "{reporter}"
             },
             {
-                "name": "Reported server",
+                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[1].name')",
                 "value": "{text}"
             },
             {
-                "name": "Reason",
+                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[2].name')",
                 "value": "{reason}"
             },
             {
-                "name": "Server invite",
+                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[3].name')",
                 "value": "{server_invite}"
             },
             {
-                "name": "Images",
+                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[4].name')",
                 "value": "{images}"
             }
         ]
@@ -35,7 +35,7 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Approve",
+                    "label": "client.I18n.get(locale, 'report-server', 'components', 'array[0].label')",
                     "style": 3,
                     "custom_id": "[\"Approve\", \"{server_id}\", \"server\"]",
                     "emoji": {
@@ -44,7 +44,7 @@
                 },
                 {
                     "type": 2,
-                    "label": "Blacklist reporter",
+                    "label": "client.I18n.get(locale, 'report-server', 'components', 'array[1].label')",
                     "style": 4,
                     "custom_id": "[\"Deny\", \"{interaction_user_id}\"]",
                     "emoji": {
