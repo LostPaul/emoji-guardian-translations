@@ -1,0 +1,28 @@
+{
+    "content": "You reported the user `{user_tag}`",
+    "embed": {
+        "title": "User report",
+        "fields": [
+            {
+                "name": "Reporter"
+            },
+            {
+                "name": "Reported user"
+            },
+            {
+                "name": "Reason"
+            },
+            {
+                "name": "Images"
+            }
+        ]
+    },
+    "components": [
+        {
+            "label": "Approve"
+        },
+        {
+            "label": "Blacklist reporter"
+        }
+    ]
+}
