@@ -5,27 +5,27 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Delete Emoji",
+                    "label": "client.I18n.get(locale, 'emojiCreate', 'components', 'array[0].label')",
                     "style": 4,
                     "custom_id": "[\"delete\", \"Emoji\", \"{current_emoji_id}\"]"
                 },
                 {
                     "type": 2,
-                    "label": "Edit Emoji name",
+                    "label": "client.I18n.get(locale, 'emojiCreate', 'components', 'array[1].label')",
                     "style": 1,
                     "custom_id": "[\"emoji edit\", \"{current_emoji_id}\"]"
                 }
             ]
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "client.I18n.get(locale, 'emojiCreate', 'compact')",
     "embed": {
         "color": "49ff97",
-        "title": "Emoji created",
+        "title": "client.I18n.get(locale, 'emojiCreate', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}",
+        "description": "client.I18n.get(locale, 'emojiCreate', 'embed.description')",
         "timestamp": "{timestamp}"
     }
 }

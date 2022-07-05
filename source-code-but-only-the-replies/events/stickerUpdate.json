@@ -5,7 +5,7 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Delete Sticker",
+                    "label": "client.I18n.get(locale, 'stickerUpdate', 'components', 'array[0].label')",
                     "style": 4,
                     "custom_id": "[\"delete\", \"Sticker\", \"{current_sticker_id}\"]"
                 }
@@ -14,11 +14,11 @@
     ],
     "embed": {
         "color": "ee0669",
-        "title": "Sticker updated",
+        "title": "client.I18n.get(locale, 'stickerUpdate', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}Old related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}",
+        "description": "client.I18n.get(locale, 'stickerUpdate', 'embed.description')",
         "timestamp": "{timestamp}"
     }
 }

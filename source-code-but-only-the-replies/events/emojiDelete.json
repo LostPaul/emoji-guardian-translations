@@ -1,12 +1,12 @@
 {
-    "compact": "`{current_emoji_name}` Has been deleted by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "client.I18n.get(locale, 'emojiDelete', 'compact')",
     "embed": {
         "color": "de3163",
-        "title": "Emoji deleted",
+        "title": "client.I18n.get(locale, 'emojiDelete', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "Name: `{current_emoji_name}`\nID: `{current_emoji_id}`\nDeleted by {text}[{reason_option}\nReason: ]{reason}",
+        "description": "client.I18n.get(locale, 'emojiDelete', 'embed.description')",
         "timestamp": "{timestamp}"
     }
 }

@@ -5,7 +5,7 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Delete Sticker",
+                    "label": "client.I18n.get(locale, 'stickerCreate', 'components', 'array[0].label')",
                     "style": 4,
                     "custom_id": "[\"delete\", \"Sticker\", \"{current_sticker_id}\"]"
                 }
@@ -14,11 +14,11 @@
     ],
     "embed": {
         "color": "49ff97",
-        "title": "Sticker created",
+        "title": "client.I18n.get(locale, 'stickerCreate', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "Name: {current_sticker_name}\nRelated emoji: {current_sticker_tags}[{sticker_description_option}:\nDescription: ]{current_sticker_description}\nAdded by: {text}[{reason_option}\nReason: ]{reason}",
+        "description": "client.I18n.get(locale, 'stickerCreate', 'embed.description')",
         "timestamp": "{timestamp}"    
     }
 }

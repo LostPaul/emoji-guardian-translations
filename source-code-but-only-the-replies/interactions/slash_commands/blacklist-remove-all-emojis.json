@@ -1,7 +1,7 @@
 {
-    "content": "You removed all emojis from this server from the blacklist",
+    "content": "client.I18n.get(locale, 'blacklist-remove-all-emojis', 'content')",
     "log": {
-        "title": "All Emojis got removed from the blacklist",
+        "title": "client.I18n.get(locale, 'blacklist-remove-all-emojis', 'content')",
         "color": "ff7331",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586658533386/eg_unblacklist.png"

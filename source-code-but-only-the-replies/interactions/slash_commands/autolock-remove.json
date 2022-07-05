@@ -1,4 +1,4 @@
 {
-    "content": "You disabled the autolock for emojis for this server.",
-    "log": "{interaction_user_tag} Disabled the autolock for the emojis."
+    "content": "client.I18n.get(locale, 'autolock-remove', 'content')",
+    "log": "client.I18n.get(locale, 'autolock-remove', 'log')"
 }

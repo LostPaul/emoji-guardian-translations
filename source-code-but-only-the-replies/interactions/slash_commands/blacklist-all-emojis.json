@@ -1,12 +1,12 @@
 {
-    "content": "You blacklisted all emojis from this server from being added with Emoji Guardian.",
+    "content": "client.I18n.get(locale, 'blacklist-all-emojis', 'content')",
     "log": {
-        "title": "All Emojis got blacklisted",
+        "title": "client.I18n.get(locale, 'blacklist-all-emojis', 'log.title')",
         "color": "74698c",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586469801994/eg_blacklist.png"
         },
-        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}",
+        "description": "client.I18n.get(locale, 'blacklist-all-emojis', 'log.description')",
         "timestamp": "{timestamp}"
     }
 }
