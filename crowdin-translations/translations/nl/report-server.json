@@ -1,0 +1,31 @@
+{
+    "content": "You reported the server `{server_name}`",
+    "embed": {
+        "title": "Server report",
+        "fields": [
+            {
+                "name": "Reporter"
+            },
+            {
+                "name": "Reported server"
+            },
+            {
+                "name": "Reason"
+            },
+            {
+                "name": "Server invite"
+            },
+            {
+                "name": "Images"
+            }
+        ]
+    },
+    "components": [
+        {
+            "label": "Approve"
+        },
+        {
+            "label": "Blacklist reporter"
+        }
+    ]
+}
