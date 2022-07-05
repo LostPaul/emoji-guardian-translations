@@ -1,5 +1,5 @@
 {
-    "start": "Zipping {guild_name}'s emojis",
-    "progress": "Zipping {guild_name}'s emojis {count}",
-    "done": "Zipped {guild_name}'s emojis"
+    "start": "client.I18n.get(locale, 'zip', 'start')",
+    "progress": "client.I18n.get(locale, 'zip', 'progress')",
+    "done": "client.I18n.get(locale, 'zip', 'done')"
 }

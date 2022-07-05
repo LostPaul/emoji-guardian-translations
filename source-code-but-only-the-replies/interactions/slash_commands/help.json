@@ -1,33 +1,29 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "client.I18n.get(locale, 'help', 'info_content')",
     "info": {
-        "title": "Information about \"{placeholder}\"",
+        "title": "client.I18n.get(locale, 'help', 'info.title')",
         "color": "2f3136",
         "description": "{text}"
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "client.I18n.get(locale, 'help', 'content')",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "client.I18n.get(locale, 'help', 'embed.title')",
         "color": "2f3136",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/947877196561793034/EG_Logo.png"
         },
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[0].name')",
+                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[0].value')"
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the context menu and select a command category."
+                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[1].name')",
+                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[1].value')"
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` & `Danu#4422`"
-            },
-            {
-                "name": "{emoji_crown}Bot owners",
-                "value": "> Lost Paul#3453\n> Danu#4422"
+                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].name')",
+                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].value')"
             }
         ]
     },
@@ -40,27 +36,27 @@
                     "custom_id": "help",
                     "options": [
                         {
-                            "label": "Help Page",
+                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[0].label')",
                             "value": "help",
-                            "description": "The main help page"
+                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[0].description')"
                         },
                         {
-                            "label": "Single emoji commands",
+                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[1].label')",
                             "value": "single",
-                            "description": "Commands which work with only one emoji"
+                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[1].description')"
                         },
                         {
-                            "label": "Multiple emojis commands",
+                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[2].label')",
                             "value": "multiple",
-                            "description": "Command which work with more than one emoji"
+                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[2].description')"
                         },
                         {
-                            "label": "Blacklist/Other commands",
+                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[3].label')",
                             "value": "other",
-                            "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[3].description')"
                         }
                     ],
-                    "placeholder": "Select a category"
+                    "placeholder": "client.I18n.get(locale, 'help', 'components', 'array[0].placeholder')"
                 }
             ]
         },
@@ -69,19 +65,19 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "Support server",
+                    "label": "client.I18n.get(locale, 'help', 'components', 'array[1].label')",
                     "style": 5,
                     "url": "https://discord.gg/EbBsuxVNYT"
                 },
                 {
                     "type": 2,
-                    "label": "Invite link",
+                    "label": "client.I18n.get(locale, 'help', 'components', 'array[2].label')",
                     "style": 5,
                     "url": "https://discord.com/api/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands"
                 },
                 {
                     "type": 2,
-                    "label": "Documentation",
+                    "label": "client.I18n.get(locale, 'help', 'components', 'array[3].label')",
                     "style": 5,
                     "url": "https://docs.emojiguardian.xyz/documentation/"
                 }

@@ -1,5 +1,5 @@
 {
-    "unlock": "You unlocked all emojis from {placeholder}",
-    "lock": "You locked all emojis to {placeholder}",
-    "cancel": "The action was canceled."
+    "unlock": "client.I18n.get(locale, 'lockall', 'unlock')",
+    "lock": "client.I18n.get(locale, 'lockall', 'lock')",
+    "cancel": "client.I18n.get(locale, 'lockall', 'cancel')"
 }

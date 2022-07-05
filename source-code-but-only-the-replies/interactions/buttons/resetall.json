@@ -1,4 +1,4 @@
 {
-    "reset": "You reset all roles from the emojis.",
-    "cancel": "The action was canceled."
+    "reset": "client.I18n.get(locale, 'resetall', 'reset')",
+    "cancel": "client.I18n.get(locale, 'resetall', 'cancel')"
 }

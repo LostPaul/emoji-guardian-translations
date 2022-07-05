@@ -1,4 +1,4 @@
 {
-    "content": "You created the emojis {emojis}",
-    "reason": "Created by {user_tag} ({user_id})"
+    "content": "client.I18n.get(locale, 'emojis-add-multiple', 'content')",
+    "reason": "client.I18n.get(locale, 'emojis-add-multiple', 'reason')"
 }

@@ -1,4 +1,4 @@
 {
-    "content": "You removed the log channel from this server.",
-    "log": "{user_tag} reset the log for this server."
+    "content": "client.I18n.get(locale, 'log-remove', 'content')",
+    "log": "client.I18n.get(locale, 'log-remove', 'log')"
 }

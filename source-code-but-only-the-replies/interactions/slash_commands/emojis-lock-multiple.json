@@ -1,4 +1,4 @@
 {
-    "content": "You locked {emojis} to {lock_roles}",
-    "reason": "Locked by {user_tag} ({user_id})"
+    "content": "client.I18n.get(locale, 'emojis-lock-multiple', 'content')",
+    "reason": "client.I18n.get(locale, 'emojis-lock-multiple', 'reason')"
 }

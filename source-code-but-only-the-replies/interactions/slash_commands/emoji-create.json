@@ -1,4 +1,4 @@
 {
-    "content": "You created the emoji {attachment_url}",
-    "reason": "Created by {user_tag} ({user_id})"
+    "content": "client.I18n.get(locale, 'emoji-create', 'content')",
+    "reason": "client.I18n.get(locale, 'emoji-create', 'reason')"
 }

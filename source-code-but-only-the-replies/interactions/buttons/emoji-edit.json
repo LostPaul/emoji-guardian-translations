@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "Choose a new name for the emoji",
+        "title": "client.I18n.get(locale, 'emoji-edit-buttons', 'modal.title')",
         "custom_id": "[\"emoji edit\", \"{text}\"]",
         "components": [
             {
@@ -9,11 +9,11 @@
                     {
                         "type": 4,
                         "custom_id": "name",
-                        "label": "Emoji Name",
+                        "label": "client.I18n.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].label')",
                         "style": 1,
                         "min_length": 2,
                         "max_length": 32,
-                        "placeholder": "Insert the new name for the emoji here.",
+                        "placeholder": "client.I18n.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].placeholder')",
                         "required": true
                     }
                 ]

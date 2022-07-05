@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "Server report form",
+        "title": "client.I18n.get(locale, 'report-server-button', 'modal.title')",
         "custom_id": "[\"report server\", \"{placeholder}\"]",
         "components": [
             {
@@ -9,11 +9,11 @@
                     {
                         "type": 4,
                         "custom_id": "serverid",
-                        "label": "Server ID",
+                        "label": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[0].label')",
                         "style": 1,
                         "min_length": 10,
                         "max_length": 24,
-                        "placeholder": "Insert the ID from the server ID here.",
+                        "placeholder": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[0].placeholder')",
                         "required": true
                     }
                 ]
@@ -24,11 +24,11 @@
                     {
                         "type": 4,
                         "custom_id": "reason",
-                        "label": "The reason for the report",
+                        "label": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[1].label')",
                         "style": 2,
                         "min_length": 30,
                         "max_length": 1000,
-                        "placeholder": "Insert the reason for your report here.",
+                        "placeholder": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[1].placeholder')",
                         "required": true
                     }
                 ]
@@ -39,11 +39,11 @@
                     {
                         "type": 4,
                         "custom_id": "server_invite",
-                        "label": "Invite link for the server",
+                        "label": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[2].label')",
                         "style": 2,
                         "min_length": 15,
                         "max_length": 40,
-                        "placeholder": "Insert the invite to the server here.",
+                        "placeholder": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[2].placeholder')",
                         "required": false
                     }
                 ]
@@ -54,11 +54,11 @@
                     {
                         "type": 4,
                         "custom_id": "image",
-                        "label": "Image url related to the report",
+                        "label": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[3].label')",
                         "style": 2,
                         "min_length": 10,
                         "max_length": 500,
-                        "placeholder": "Insert images related to the report here.",
+                        "placeholder": "client.I18n.get(locale, 'report-server-button', 'modal.components', 'array[3].placeholder')",
                         "required": false
                     }
                 ]

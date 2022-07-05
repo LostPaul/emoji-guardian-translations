@@ -1,4 +1,4 @@
 {
-    "guild": "You reset the bot's language for this guild to English.",
-    "user": "You reset the language of the bot to English."
+    "guild": "client.I18n.get(locale, 'languagereset', 'guild')",
+    "user": "client.I18n.get(locale, 'languagereset', 'user')"
 }

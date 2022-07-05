@@ -1,14 +1,14 @@
 {
-    "content": "These emojis are locked to a role.",
+    "content": "client.I18n.get(locale, 'emojis-locked', 'content')",
     "embed": {
         "color": "2f3136",
-        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "title": "client.I18n.get(locale, 'emojis-locked', 'embed.title')",
         "description": "{text}",
         "thumbnail": {
             "url": "{interaction_guild_icon}"
         },
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "client.I18n.get(locale, 'emojis-locked', 'embed.footer.text')"
         }
     }
 }
