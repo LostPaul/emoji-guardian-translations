@@ -1,4 +1,4 @@
 {
-    "content": "You enabled the autolock for {autolock_roles}",
-    "log": "{interaction_user_tag} Enabled the autolock for {autolock_roles}"
+    "content": "Otomatik kitlemeyi {autolock_roles} rolleri için etkinleştirdin",
+    "log": "{interaction_user_tag} kullanıcısı {autolock_roles} rolleri için otomatik kitlemeyi etkinleştirdi"
 }
