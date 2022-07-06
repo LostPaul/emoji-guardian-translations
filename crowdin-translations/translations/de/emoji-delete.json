@@ -1,4 +1,4 @@
 {
-    "content": "You deleted the emoji {emoji}",
-    "reason": "Deleted by {user_tag} ({user_id})"
+    "content": "Du hast den Emoji {emoji} gelöscht",
+    "reason": "Gelöscht von {user_tag} ({user_id})"
 }
