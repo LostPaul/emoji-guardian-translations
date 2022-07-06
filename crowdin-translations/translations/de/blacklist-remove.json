@@ -2,6 +2,6 @@
     "content": "Du hast die Emojis {blacklist_emojis} von der Blacklist entfernt",
     "log": {
         "title": "Emojis wurden von der Blacklist entfernt",
-        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
+        "description": "Emojis: {text}\nGesperrt von\nBenutzer Tag: {user_tag}\nBenutzer ID: {interaction_user_id}"
     }
 }
