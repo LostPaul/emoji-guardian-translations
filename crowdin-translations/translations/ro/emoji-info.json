@@ -15,10 +15,10 @@
                 "name": "Managed:"
             },
             {
-                "name": "Locked to:"
+                "name": "Roles that have access to the emoji:"
             },
             {
-                "name": "Created at:"
+                "name": "Uploaded at:"
             },
             {
                 "name": "Uploaded by:"
