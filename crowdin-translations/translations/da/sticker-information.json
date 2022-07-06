@@ -1,0 +1,36 @@
+{
+    "no_description": "No description",
+    "true": "True",
+    "false": "False",
+    "embeds": [
+        {
+            "title": "Information about a sticker",
+            "fields": [
+                {
+                    "name": "Name:"
+                },
+                {
+                    "name": "Sticker ID:"
+                },
+                {
+                    "name": "Format:"
+                },
+                {
+                    "name": "Description:"
+                },
+                {
+                    "name": "Tags:"
+                },
+                {
+                    "name": "Available:"
+                },
+                {
+                    "name": "Created at:"
+                },
+                {
+                    "name": "Created by:"
+                }
+            ]
+        }
+    ]
+}

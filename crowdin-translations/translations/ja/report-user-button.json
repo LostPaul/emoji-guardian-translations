@@ -1,0 +1,19 @@
+{
+    "modal": {
+        "title": "User report form",
+        "components": [
+            {
+                "label": "User ID",
+                "placeholder": "Insert the ID from the user ID here."
+            },
+            {
+                "label": "The reason for the report",
+                "placeholder": "Insert the reason for your report here."
+            },
+            {
+                "label": "Image url related to the report",
+                "placeholder": "Insert images related to the report here."
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "content": "Bu emojileri kara listeye aldın {blacklist_emojis}",
+    "log": {
+        "title": "Emojiler kara listeye alındı",
+        "description": "Emojiler: {text}\nKara listeye alan\nKullanıcı ismi: {user_tag}\nKullanıcı IDsi: {interaction_user_id}\nYorum: {interaction_options_comment}\nYaratan: {interaction_options_creator}"
+    }
+}

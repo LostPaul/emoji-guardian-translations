@@ -1,4 +1,4 @@
 {
-    "content": "You enabled the autolock for {autolock_roles}",
-    "log": "{interaction_user_tag} Enabled the autolock for {autolock_roles}"
+    "content": "Du hast den Autolock für {autolock_roles} aktiviert",
+    "log": "{interaction_user_tag} hat den Autolock für {autolock_roles} aktiviert"
 }
