@@ -4,7 +4,7 @@
         "components": [
             {
                 "label": "Server ID",
-                "placeholder": "Insert the ID from the server here."
+                "placeholder": "Füge hier die ID vom Server ein."
             },
             {
                 "label": "Der Grund für die Meldung",
@@ -15,7 +15,7 @@
                 "placeholder": "Füge hier die Einladung zum Server ein."
             },
             {
-                "label": "Image url related to the report",
+                "label": "Bild-URL für die Meldung",
                 "placeholder": "Füge hier Bilder im Zusammenhang mit der Meldung ein."
             }
         ]
