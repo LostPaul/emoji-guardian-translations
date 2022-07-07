@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "Server report form",
+        "title": "Server-Meldeformular",
         "components": [
             {
                 "label": "Server ID",
