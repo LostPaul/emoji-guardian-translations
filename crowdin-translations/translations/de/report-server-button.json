@@ -7,8 +7,8 @@
                 "placeholder": "Insert the ID from the server ID here."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Der Grund für die Meldung",
+                "placeholder": "Füge hier den Grund für die Meldung ein."
             },
             {
                 "label": "Invite link for the server",
