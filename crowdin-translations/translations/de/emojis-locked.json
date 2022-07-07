@@ -1,7 +1,7 @@
 {
-    "content": "These emojis are locked to a role.",
+    "content": "Diese Emojis sind an einer Rolle gebunden.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "title": "{interaction_guild_name_blacklist} gesperrte Emojis",
         "footer": {
             "text": "Verwendet von {user_tag}"
         }
