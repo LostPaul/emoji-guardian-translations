@@ -4,7 +4,7 @@
         "components": [
             {
                 "label": "User ID",
-                "placeholder": "Insert the ID from the user ID here."
+                "placeholder": "Insert the ID from the user here."
             },
             {
                 "label": "The reason for the report",
