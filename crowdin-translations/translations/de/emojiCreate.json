@@ -10,6 +10,6 @@
     "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
     "embed": {
         "title": "Emoji erstellt",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "description": "`{emoji}` \nHinzugefügt von {text}[{reason_option}\nGrund: ]{reason}"
     }
 }
