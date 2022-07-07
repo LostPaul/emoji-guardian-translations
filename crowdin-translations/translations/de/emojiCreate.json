@@ -1,7 +1,7 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Emoji löschen"
         },
         {
             "label": "Edit Emoji name"
@@ -9,7 +9,7 @@
     ],
     "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
     "embed": {
-        "title": "Emoji created",
+        "title": "Emoji erstellt",
         "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
     }
 }
