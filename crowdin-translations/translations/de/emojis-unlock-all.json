@@ -2,10 +2,10 @@
     "content": "Are you sure that you want to unlock all emojis from a role?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Bestätigen"
         },
         {
-            "label": "Cancel"
+            "label": "Abbrechen"
         }
     ]
 }
