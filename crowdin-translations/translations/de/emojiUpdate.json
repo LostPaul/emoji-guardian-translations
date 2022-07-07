@@ -5,12 +5,12 @@
             "label": "Emoji löschen"
         },
         {
-            "label": "Edit Emoji Name"
+            "label": "Emoji-Name bearbeiten"
         }
     ],
     "components_with_unlock": [
         {
-            "label": "Unlock Emoji"
+            "label": "Emoji freischalten"
         }
     ],
     "embed": {
