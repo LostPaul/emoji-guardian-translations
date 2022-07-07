@@ -4,19 +4,19 @@
         "components": [
             {
                 "label": "Server ID",
-                "placeholder": "Insert the ID from the server ID here."
+                "placeholder": "Insert the ID from the server here."
             },
             {
                 "label": "Der Grund für die Meldung",
                 "placeholder": "Füge hier den Grund für die Meldung ein."
             },
             {
-                "label": "Invite link for the server",
-                "placeholder": "Insert the invite to the server here."
+                "label": "Einladungslink für den Server",
+                "placeholder": "Füge hier die Einladung zum Server ein."
             },
             {
                 "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "placeholder": "Füge hier Bilder im Zusammenhang mit der Meldung ein."
             }
         ]
     }
