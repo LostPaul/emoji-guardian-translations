@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "User report form",
+        "title": "Benutzer-Meldeformular",
         "components": [
             {
-                "label": "User ID",
-                "placeholder": "Insert the ID from the user ID here."
+                "label": "Benutzer ID",
+                "placeholder": "Füg hier die ID des Benutzers ein."
             },
             {
-                "label": "The reason for the report",
+                "label": "Der Grund für die Meldung",
                 "placeholder": "Insert the reason for your report here."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "Bild-URL für die Meldung",
+                "placeholder": "Fügen Sie hier Bilder im Zusammenhang mit der Meldung ein."
             }
         ]
     }
