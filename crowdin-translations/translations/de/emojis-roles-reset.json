@@ -2,10 +2,10 @@
     "content": "Are you sure that you want to reset the roles of all the emojis?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Bestätigen"
         },
         {
-            "label": "Cancel"
+            "label": "Abbrechen"
         }
     ]
 }
