@@ -5,5 +5,4 @@
         "title": "Failed attempt to steal an emoji",
         "description": "Someone tried to add an emoji from this server with Emoji Guardian\n\nFailed attempt by: {user_tag_or_mention}\nEmoji: {emoji}"
     }
-
 }
