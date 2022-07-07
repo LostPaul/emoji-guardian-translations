@@ -1,5 +1,5 @@
 {
-    "audit_log": "Unlocked by {user_tag}",
+    "audit_log": "Freigeschaltet von {user_tag}",
     "components": [
         {
             "label": "Entsperrt"
