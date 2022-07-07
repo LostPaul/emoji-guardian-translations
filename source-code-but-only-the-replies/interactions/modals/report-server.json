@@ -1,30 +1,30 @@
 {
     "content": "client.I18n.get(locale, 'report-server', 'content')",
     "embed": {
-        "title": "client.I18n.get(locale, 'report-server', 'embed.title')",
+        "title": "Server report",
         "color": "2f3136",
         "thumbnail": {
             "url": "{placeholder}"
         },
         "fields": [
             {
-                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[0].name')",
+                "name": "Reporter",
                 "value": "{reporter}"
             },
             {
-                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[1].name')",
+                "name": "Reported server",
                 "value": "{text}"
             },
             {
-                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[2].name')",
+                "name": "Reason",
                 "value": "{reason}"
             },
             {
-                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[3].name')",
+                "name": "Server invite",
                 "value": "{server_invite}"
             },
             {
-                "name": "client.I18n.get(locale, 'report-server', 'embed.fields', 'array[4].name')",
+                "name": "Images",
                 "value": "{images}"
             }
         ]
@@ -35,7 +35,7 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'report-server', 'components', 'array[0].label')",
+                    "label": "Approve",
                     "style": 3,
                     "custom_id": "[\"Approve\", \"{server_id}\", \"server\"]",
                     "emoji": {
@@ -44,7 +44,7 @@
                 },
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'report-server', 'components', 'array[1].label')",
+                    "label": "Blacklist reporter",
                     "style": 4,
                     "custom_id": "[\"Deny\", \"{interaction_user_id}\"]",
                     "emoji": {
