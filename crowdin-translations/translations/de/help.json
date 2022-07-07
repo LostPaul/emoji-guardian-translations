@@ -25,32 +25,32 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Hilfe-Seite",
+                    "description": "Die Hilfe-Seite"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Einzelne Emoji Befehle",
+                    "description": "Befehle, die nur mit einem Emoji funktionieren"
                 },
                 {
                     "label": "Multiple emojis commands",
                     "description": "Command which work with more than one emoji"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Blacklist/Andere Befehle",
+                    "description": "Blacklist-Befehle und andere Befehle als einzelne und mehrere Emojis-Befehle"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Wähle eine Kategorie"
         },
         {
-            "label": "Support server"
+            "label": "Support Server"
         },
         {
-            "label": "Invite link"
+            "label": "Einladungslink"
         },
         {
-            "label": "Documentation"
+            "label": "Dokumentation"
         }
     ]
 }
