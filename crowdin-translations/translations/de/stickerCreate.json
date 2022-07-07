@@ -1,11 +1,11 @@
 {
     "components": [
         {
-            "label": "Delete Sticker"
+            "label": "Sticker löschen"
         }
     ],
     "embed": {
-        "title": "Sticker created",
+        "title": "Sticker erstellt",
         "description": "Name: {current_sticker_name}\nRelated emoji: {current_sticker_tags}[{sticker_description_option}:\nDescription: ]{current_sticker_description}\nAdded by: {text}[{reason_option}\nReason: ]{reason}"
     }
 }
