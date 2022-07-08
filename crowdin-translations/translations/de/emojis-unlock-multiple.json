@@ -1,3 +1,3 @@
 {
-    "content": "You unlocked the emojis {emojis} from {lock_roles}"
+    "content": "Du hast die Emojis {emojis} von {lock_roles} entsperrt, was bedeutet, dass die Rollen nicht mehr auf die Emojis zugreifen können, es sei denn, die Emojis haben keine Rollen mehr."
 }

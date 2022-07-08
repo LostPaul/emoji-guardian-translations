@@ -1,10 +1,10 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Keine Beschreibung",
+    "true": "Ja",
+    "false": "Nein",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Informationen über einen Sticker",
             "fields": [
                 {
                     "name": "Name:"
@@ -16,19 +16,19 @@
                     "name": "Format:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Beschreibung:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Stichworte:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Verfügbar:"
                 },
                 {
-                    "name": "Created at:"
+                    "name": "Hochgeladen am:"
                 },
                 {
-                    "name": "Created by:"
+                    "name": "Hochgeladen von:"
                 }
             ]
         }

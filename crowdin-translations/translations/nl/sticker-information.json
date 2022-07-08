@@ -25,10 +25,10 @@
                     "name": "Available:"
                 },
                 {
-                    "name": "Created at:"
+                    "name": "Uploaded at:"
                 },
                 {
-                    "name": "Created by:"
+                    "name": "Uploaded by:"
                 }
             ]
         }

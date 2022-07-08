@@ -1,5 +1,5 @@
 {
-    "unlock": "You unlocked all emojis from {placeholder}",
-    "lock": "You locked all emojis to {placeholder}",
-    "cancel": "The action was canceled."
+    "unlock": "Du hast alle Emojis von {placeholder} freigeschaltet, die Rollen können die Emojis nicht mehr verwenden, außer die Emojis haben keine Rollen mehr.",
+    "lock": "Du hast alle Emojis zu {placeholder} gesperrt, was bedeutet, dass nur Benutzer von diesem Server mit einer der Rollen auf die Emojis zugreifen können.",
+    "cancel": "Die Aktion wurde abgebrochen."
 }

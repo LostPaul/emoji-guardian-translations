@@ -12,16 +12,16 @@
                 "name": "ID:"
             },
             {
-                "name": "Managed:"
+                "name": "Verwaltet:"
             },
             {
-                "name": "Locked to:"
+                "name": "Rollen, die Zugriff auf den Emoji haben:"
             },
             {
-                "name": "Created at:"
+                "name": "Hochgeladen am:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "Hochgeladen von:"
             },
             {
                 "name": "Download link:"
