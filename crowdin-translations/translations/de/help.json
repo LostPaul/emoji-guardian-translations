@@ -1,23 +1,23 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Du kannst nur diese Nachricht und nicht das Embed sehen?\nLies dann das https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Informationen über \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Du kannst nur diese Nachricht und nicht das Embed sehen?\nLies dann das https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
         "title": "Emoji Guardian Hilfeseite",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}Über Emoji Guardian",
+                "value": "> Emoji Guardian ist ein Bot speziell für Emoji Server.\n> Mit dem Bot kannst du viel mit Emojis tun, wie ein Emoji zu einer Rolle zu sperren und vieles mehr."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the context menu and select a command category."
+                "name": "{emoji_tools}Wie kann ich die Befehle sehen?",
+                "value": "> Klick unter den Buttons auf das Auswahlmenü und wähle eine Befehlskategorie."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Wie erhalte ich Support?",
+                "value": "> Du kannst [Support Server](https://discord.gg/EbBsuxVNYT) beitreten oder du kannst `Lost Paul#3453` oder `Danu#4422` anschreiben"
             }
         ]
     },
@@ -33,8 +33,8 @@
                     "description": "Befehle, die nur mit einem Emoji funktionieren"
                 },
                 {
-                    "label": "Multiple emojis commands",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Mehrere Emojis Befehle",
+                    "description": "Befehle, die mehr mit als nur einem Emoji funktionieren."
                 },
                 {
                     "label": "Blacklist/Andere Befehle",
