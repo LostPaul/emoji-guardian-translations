@@ -56,6 +56,8 @@ module.exports = {
             "type": 3,
             "name": "name",
             "description": "The name for the emoji you want to create",
+            "min_length": 2,
+            "max_length": 32,
             "required": true
           }
         ]
@@ -90,6 +92,8 @@ module.exports = {
             "type": 3,
             "name": "name",
             "description": "The name you want for the emoji",
+            "min_length": 2,
+            "max_length": 32,
             "required": true
           }
         ]

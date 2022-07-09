@@ -29,12 +29,15 @@ module.exports = {
           {
             "type": 3,
             "name": "name",
-            "description": "The name you want for the sticker"
+            "description": "The name you want for the sticker",
+            "min_length": 2,
+            "max_length": 30
           },
           {
             "type": 3,
             "name": "description",
-            "description": "The description you want for the sticker"
+            "description": "The description you want for the sticker",
+            "max_length": 100
           }
         ]
       },
@@ -68,12 +71,15 @@ module.exports = {
             "type": 3,
             "name": "description",
             "description": "The description of the sticker",
+            "max_length": 100,
             "required": false
           },
           {
             "type": 3,
             "name": "name",
             "description": "The name of the sticker",
+            "min_length": 2,
+            "max_length": 30,
             "required": false
           },
           {
@@ -105,11 +111,14 @@ module.exports = {
             "type": 3,
             "name": "name",
             "description": "The name you want for the sticker",
+            "min_length": 2,
+            "max_length": 30,
             "required": true
           },
           {
             "type": 3,
             "name": "description",
+            "max_length": 100,
             "description": "The description you want for the sticker"
           }
         ]

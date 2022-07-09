@@ -270,6 +270,7 @@ module.exports = {
           {
             "type": 3,
             "name": "webhook_name",
+            "max_length": 80,
             "description": "Use a custom name for the webhook message",
           },
           {
@@ -340,6 +341,7 @@ module.exports = {
           {
             "type": 3,
             "name": "webhook_name",
+            "max_length": 80,
             "description": "Use a custom name for the webhook message",
           },
           {
