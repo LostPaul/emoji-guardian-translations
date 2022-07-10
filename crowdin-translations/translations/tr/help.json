@@ -1,14 +1,14 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Gömülü mesajı göremiyor musun?\nO zaman bunu oku https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "{placeholder} hakkında bilgiler"
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Sadece tuşları ve menüyü mü görüyorsun?\nO zaman bunu oku https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Emoji Guardian Yardım Sayfası",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
+                "name": "{emoji_bot}Emoji Guardian Hakkında",
                 "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
             },
             {
@@ -20,8 +20,8 @@
                 "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't their? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Botun dilini nasıl değiştiririm?",
+                "value": "> `/language set` komutunu kullanarak botun dilini değiştirebilirsin\n> Orada dilin yok mu? O zaman çevirmeye başlayabilirsin. https://translate.emojiguardian.xyz/"
             }
         ]
     },
