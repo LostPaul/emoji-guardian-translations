@@ -17,6 +17,10 @@
             {
                 "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].name')",
                 "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].value')"
+            },
+            {
+                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[3].name')",
+                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[3].value')"
             }
         ]
     },
