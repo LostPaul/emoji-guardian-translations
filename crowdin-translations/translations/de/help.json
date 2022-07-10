@@ -20,8 +20,8 @@
                 "value": "> Du kannst [Support Server](https://discord.gg/EbBsuxVNYT) beitreten oder du kannst `Lost Paul#3453` oder `Danu#4422` anschreiben"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't their? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Wie kann ich die Sprache des Bots ändern?",
+                "value": "> Du kannst die Sprache des Bots ändern, indem du den Befehl `/language set` benutzst\n> Deine Sprache ist nicht dabei? Dann kannst du sie unter https://translate.emojiguardian.xyz/ übersetzen"
             }
         ]
     },
