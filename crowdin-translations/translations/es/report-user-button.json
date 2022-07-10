@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "User report form",
+        "title": "Formulario de reporte de usuario",
         "components": [
             {
-                "label": "User ID",
-                "placeholder": "Insert the ID from the user here."
+                "label": "ID de usuario",
+                "placeholder": "Introduzca el ID del usuario aquí."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "La razón del reporte",
+                "placeholder": "Introduzca aquí la razón de su reporte."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "URL de la imagen relacionada con el reporte",
+                "placeholder": "Insertá imágenes relacionadas con el reporte aquí."
             }
         ]
     }
