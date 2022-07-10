@@ -2,6 +2,6 @@
     "content": "Вы занесли эмодзи {blacklist_emojis} в черный список",
     "log": {
         "title": "Эмодзи были добавлены в чёрный список",
-        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
+        "description": "Эмодзи: {text}\nВнесено в черный список\nТег пользователя: {user_tag}\nID пользователя: {interaction_user_id}\nКомментарий: {interaction_options_comment}\nАвтор: {interaction_options_creator}"
     }
 }
