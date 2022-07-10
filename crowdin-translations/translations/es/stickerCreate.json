@@ -1,11 +1,11 @@
 {
     "components": [
         {
-            "label": "Delete Sticker"
+            "label": "Eliminar pegatina"
         }
     ],
     "embed": {
-        "title": "Sticker created",
-        "description": "Name: {current_sticker_name}\nRelated emoji: {current_sticker_tags}[{sticker_description_option}:\nDescription: ]{current_sticker_description}\nAdded by: {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Pegatina creada",
+        "description": "Nombre: {current_sticker_name}\nEmojis relacionados: {current_sticker_tags}[{sticker_description_option}:\nDescripción: ]{current_sticker_description}\nAñadido por: {text}[{reason_option}\nRazón: ]{reason}"
     }
 }
