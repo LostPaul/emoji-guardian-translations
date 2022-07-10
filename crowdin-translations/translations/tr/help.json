@@ -9,15 +9,15 @@
         "fields": [
             {
                 "name": "{emoji_bot}Emoji Guardian Hakkında",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "value": "> Emoji Guardian özellikle emoji sunucuları içindir.\n> Bu Bot ile, emojileri bir role kitlemek gibi birçok işlem yapabilirsiniz."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}Komutları nasıl görebilirim?",
+                "value": "> Tuşların altındaki menüyü seçin ve ilgili kategoriye tıklayın."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Nasıl destek alabilirim?",
+                "value": "> Hem [destek sunucusuna](https://discord.gg/EbBsuxVNYT) katılabilir hemde `Lost Paul#3453` veya `Danu#4422`'ya DM atabilirsiniz"
             },
             {
                 "name": "{emoji_translate}Botun dilini nasıl değiştiririm?",
@@ -29,32 +29,32 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Yardım Sayfası",
+                    "description": "Ana yardım sayfası"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Tek emojili komutlar",
+                    "description": "Sadece bir emoji üstünde çalışan komutlar"
                 },
                 {
-                    "label": "Multiple emojis commands",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Çoklu emojili komutlar",
+                    "description": "Birden fazla emojiyle çalışan komutlar"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Karaliste/Diğer komutlar",
+                    "description": "Karaliste komutları ve diğer emoji komutları"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Bir kategori seç"
         },
         {
-            "label": "Support server"
+            "label": "Destek sunucusu"
         },
         {
-            "label": "Invite link"
+            "label": "Davet linki"
         },
         {
-            "label": "Website"
+            "label": "İnternet sitesi"
         }
     ]
 }
