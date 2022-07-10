@@ -17,7 +17,11 @@
             },
             {
                 "name": "{emoji_support}Wie erhalte ich Support?",
-                "value": "> Du kannst dem [Support Server](https://discord.gg/EbBsuxVNYT) beitreten oder du kannst `Lost Paul#3453` oder `Danu#4422` anschreiben"
+                "value": "> Du kannst [Support Server](https://discord.gg/EbBsuxVNYT) beitreten oder du kannst `Lost Paul#3453` oder `Danu#4422` anschreiben"
+            },
+            {
+                "name": "{emoji_translate}How can I change the language of the bot?",
+                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't their? Then you can start translating it at https://translate.emojiguardian.xyz/"
             }
         ]
     },
