@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "¿Solo puedes ver este mensaje y no el embed?\nEntonces lee este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Información sobre \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "¿Solo puedes ver la lista y los botones?\nEntonces lee este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Página de ayuda de Emoji Guardian",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}Sobre Emoji Guardian",
+                "value": "> Emoji Guardian es un bot para los servidores que se usan para emojis.\n> Con el bot, puedes hacer un montón de cosas con los emojis como bloquear un emoji a un rol y mucho más."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}¿Cómo puedo ver los comandos?",
+                "value": "> Haga clic bajo los botones del menú de selección y selecciona una categoría de comandos."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}¿Cómo puedo obtener soporte?",
+                "value": "> Puedes unirte al [servidor de ayuda](https://discord.gg/EbBsuxVNYT) o puedes enviar un mensaje directo a `Lost Paul#3453` o `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't their? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}¿Cómo puedo cambiar el idioma del bot?",
+                "value": "> Puedes cambiar el idioma del bot usando el comando `/language set`\n> ¿Tu idioma no está? Entonces puedes empezar a traducirlo en https://translate.emojiguardian.xyz/"
             }
         ]
     },
@@ -29,32 +29,32 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Página de ayuda",
+                    "description": "La página principal de ayuda"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Comandos de emoji individuales",
+                    "description": "Comandos que funcionan con un solo emoji"
                 },
                 {
-                    "label": "Multiple emojis commands",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Comandos de múltiples emojis",
+                    "description": "Comandos que funcionan con más de un emoji"
                 },
                 {
-                    "label": "Blacklist/Other commands",
+                    "label": "Lista negra/Otros comandos",
                     "description": "Blacklist commands and other commands than single and multiple emojis commands"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Selecciona una categoría"
         },
         {
-            "label": "Support server"
+            "label": "Servidor de ayuda"
         },
         {
-            "label": "Invite link"
+            "label": "Enlace de invitación"
         },
         {
-            "label": "Website"
+            "label": "Sitio web"
         }
     ]
 }
