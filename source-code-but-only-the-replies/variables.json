@@ -17,6 +17,7 @@
     "emoji_tools": "checkEmoji(args.canUseEmoji, client.replyEmojis['tools'])",
     "emoji_support": "checkEmoji(args.canUseEmoji, client.replyEmojis['support'])",
     "emoji_crown": "checkEmoji(args.canUseEmoji, client.replyEmojis['crown'])",
+    "emoji_translate": "checkEmoji(args.canUseEmoji, client.replyEmojis['translate'])",
     "autolock_roles": "args.autoLockRoles",
     "text": "args.text",
     "current_emoji_url": "args.currentEmoji?.url || args.currentEmoji?.image",
