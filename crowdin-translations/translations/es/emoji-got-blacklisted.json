@@ -1,8 +1,8 @@
 {
-    "content_without_creator": "The emoji {emoji} got blacklisted by {user_tag_or_mention}\nIf you think this is wrong you can dm a mod in the [Support server](https://discord.gg/EbBsuxVNYT)\n**Comment from the user:**\n{blacklisted_emoji_comment}",
-    "content_with_creator": "The emoji {emoji} got blacklisted and it got most likely created by {user_tag_or_mention}\nIf you think this is wrong you can dm a mod in the [Support server](https://discord.gg/EbBsuxVNYT)\n**Comment from the user:**\n{blacklisted_emoji_comment}",
+    "content_without_creator": "El emoji {emoji} ha sido puesto en la lista negra por {user_tag_or_mention}\nSi crees que esto está mal puedes enviar un mensaje directo a un mod en el [servidor de ayuda](https://discord. g/EbBsuxVNYT).\n**Comentario del usuario:**\n{blacklisted_emoji_comment}",
+    "content_with_creator": "El emoji {emoji} ha sido puesto en la lista negra por {user_tag_or_mention}\nSi crees que esto está mal puedes enviar un mensaje directo a un mod en el [servidor de ayuda](https://discord. g/EbBsuxVNYT).\n**Comentario del usuario:**\n{blacklisted_emoji_comment}",
     "log": {
-        "title": "Failed attempt to steal an emoji",
-        "description": "Someone tried to add an emoji from this server with Emoji Guardian\n\nFailed attempt by: {user_tag_or_mention}\nEmoji: {emoji}"
+        "title": "Error al intentar robar un emoji",
+        "description": "Alguien intentó añadir un emoji de este servidor con Emoji Guardian\n\nIntento fallido por: {user_tag_or_mention}\nEmoji: {emoji}"
     }
 }

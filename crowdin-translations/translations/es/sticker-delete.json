@@ -1,4 +1,4 @@
 {
-    "content": "You deleted the sticker with the name {sticker_name}",
-    "reason": "Deleted by {user_tag} ({user_id})"
+    "content": "Has eliminado la pegatina con el nombre {sticker_name}",
+    "reason": "Eliminado por {user_tag} ({user_id})"
 }

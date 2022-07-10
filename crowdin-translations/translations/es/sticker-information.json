@@ -1,34 +1,34 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Sin descripción",
+    "true": "Verdadero",
+    "false": "Falso",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Información sobre una pegatina",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Nombre:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "ID de la pegatina:"
                 },
                 {
-                    "name": "Format:"
+                    "name": "Formato:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Descripción:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Etiquetas:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Disponible:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Subido a las:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Subido por:"
                 }
             ]
         }

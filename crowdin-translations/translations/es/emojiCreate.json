@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Eliminar emoji"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Editar nombre del emoji"
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "{emoji} `({current_emoji_name})` ha sido creado por {text} [{reason_option}con el motivo ]{reason}",
     "embed": {
-        "title": "Emoji created",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji creado",
+        "description": "`{emoji}` \nAñadido por {text}[{reason_option}\nRazón: ]{reason}"
     }
 }
