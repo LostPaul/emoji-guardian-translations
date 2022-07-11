@@ -1,4 +1,4 @@
 {
-    "content": "You removed the log channel from this server.",
-    "log": "{user_tag} reset the log for this server."
+    "content": "A log csatorna törölve lett a szerveren.",
+    "log": "{user_tag} alapértelmezett értékre állította a vizsgálati naplót a szerveren."
 }
