@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Hangulatjel törlése"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Hangulatjel nevének módosítása"
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "{emoji} ({current_emoji_name}) létre lett hozva {text} {reason_option} az alábbi indokkal {reason}",
     "embed": {
-        "title": "Emoji created",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Hangulatjel létrehozva",
+        "description": "{emoji}\nHozzáadva {text} {reason_option}\nIndoklás: {reason}"
     }
 }
