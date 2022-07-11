@@ -1,4 +1,4 @@
 {
-    "content": "You created the sticker {text}",
-    "reason": "Created by {user_tag} ({user_id})"
+    "content": "Létrehoztad a {text} matricát",
+    "reason": "Létrehozva {user_tag} ({user_id}) által"
 }
