@@ -1,3 +1,3 @@
 {
-    "content": "You don't have the required permissions `{permissions}` in the channel <#{interaction_channel}> to perform this action."
+    "content": "Nincs {permissions} jogod a csatornán #{interaction_channel} hogy végrehajtsd ezt a műveletet."
 }
