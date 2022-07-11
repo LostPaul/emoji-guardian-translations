@@ -1,5 +1,5 @@
 {
-    "unlock": "You unlocked all emojis from {placeholder} the roles can't use it anymore unless the emojis have no roles.",
+    "unlock": "Feloldottad az összes emojit innen {placeholder} a rangok már nem használhatják, hacsak a hangulatjeleknek nincs rangjuk.",
     "lock": "Az összes hangulatjelet zárolta a {placeholder} számára, ami azt jelenti, hogy a szerverről csak azok a felhasználók férhetnek hozzá a hangulatjelekhez, akiknek egy bizonyos rangjuk van.",
     "cancel": "Az eseményt törölték."
 }

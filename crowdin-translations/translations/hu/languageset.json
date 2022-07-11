@@ -1,4 +1,4 @@
 {
-    "guild": "You changed the bot's language for this server to {new_language_button}",
-    "user": "You changed the language of the bot to {new_language_button}"
+    "guild": "Módosította a bot nyelvét ezen a szerveren az alábbi nyelvre {new_language_button}",
+    "user": "Megváltozott a bot nyelve az alábbira {new_language_button}"
 }

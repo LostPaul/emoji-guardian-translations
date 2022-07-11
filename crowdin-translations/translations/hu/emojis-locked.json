@@ -1,9 +1,9 @@
 {
-    "content": "These emojis are locked to a role.",
+    "content": "Ezek a hangulatjelek szerepkörhöz vannak zárva.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "title": "{interaction_guild_name_blacklist} zárolt hangulatjelei",
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "{user_tag} használja"
         }
     }
 }

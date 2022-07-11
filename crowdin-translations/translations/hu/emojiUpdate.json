@@ -1,20 +1,20 @@
 {
-    "compact": "{emoji} `({current_emoji_name})`[{new_name_option} Changed it's name from {current_emoji_name} to {new_emoji_name}][{lock_emoji_roles} Changed it's roles from {old_roles} to {new_roles}]",
+    "compact": "{emoji} ({current_emoji_name}) {new_name_option} Megváltozott a neve az alábbiról {current_emoji_name} erre/ezekre {new_emoji_name}\n{lock_emoji_roles} megváltozott a szerepköre az alábbiakról/alábbiról {old_roles} erre/ezekre {new_roles}",
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Hangulatjel törlése"
         },
         {
-            "label": "Edit Emoji Name"
+            "label": "Hangulatjel nevének módosítása"
         }
     ],
     "components_with_unlock": [
         {
-            "label": "Unlock Emoji"
+            "label": "Hangulatjel zárolásának feloldása"
         }
     ],
     "embed": {
-        "title": "Emoji updated",
-        "description": "[{old_name_option}Old name: {current_emoji_name}][{new_name_option}\nNew name: {new_emoji_name}][{lock_emoji_roles}Name: `{current_emoji_name}`\nOld roles: {old_roles}\nNew roles: {new_roles}]\nEmoji ID: {current_emoji_id}[{reason_option}\nReason: ]{reason}"
+        "title": "Hangulatjel frissítve",
+        "description": "{old_name_option} Régi név: {current_emoji_name} {new_name_option}\nÚj név: {new_emoji_name} {lock_emoji_roles} Név: {current_emoji_name}\nRégi rangok: {old_roles}\nÚj rangok: {new_roles}\nHangulatjel azonosító: {current_emoji_id} {reason_option}\nIndoklás: {reason}"
     }
 }

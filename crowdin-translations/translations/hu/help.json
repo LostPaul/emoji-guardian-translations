@@ -1,7 +1,7 @@
 {
     "info_content": "Csak ezt az üzenetet látja, de a beágyazást nem?\nOlvasson utána az alábbi linken, hogy mitől lehet ez https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Információ az alábbiról {placeholder}"
     },
     "content": "Csak a legördülő listát és a gombokat látja?\nOlvasson utána az alábbi linken, hogy mitől lehet ez https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {

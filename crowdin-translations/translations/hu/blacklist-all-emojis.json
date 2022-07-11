@@ -2,6 +2,6 @@
     "content": "A szerveren található összes hangulatjelet tiltólistára helyezte, hogy ne adják hozzá az Emoji Guardianhoz.",
     "log": {
         "title": "Összes hangulatjel feketelistázva lett",
-        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
+        "description": "Feketelistára helyezve\nFelhasználó címke: {user_tag}\nFelhasználó ID: {interaction_user_id}\nHozzászólás: {interaction_options_comment}\nKészítő: {interaction_options_creator}"
     }
 }
