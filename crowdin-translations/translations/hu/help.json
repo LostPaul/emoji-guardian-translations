@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Csak ezt az üzenetet látja, de a beágyazást nem?\nOlvasson utána az alábbi linken, hogy mitől lehet ez https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
         "title": "Information about \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Csak a legördülő listát és a gombokat látja?\nOlvasson utána az alábbi linken, hogy mitől lehet ez https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Emoji Guardian súgóoldal",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot} Az Emoji Guardianról",
+                "value": "> Az Emoji Guardian egy bot, leginkább hangulatjel szerverekhez.\n> A Bot segítségével sok mindent megtehetsz a hangulatjelekkel, például rögzíthetsz egy hangulatjelet egy szerepkörhöz és még sok mást."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools} Hogyan láthatom a parancsokat?",
+                "value": "> Kattintson a gombok alatt a menüben, és válasszon parancskategóriát."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support} Hogyan kérhetek segítséget?",
+                "value": "> Lépjen be a [support szerverre](https://discord.gg/EbBsuxVNYT) vagy írjon rá `Lost Paul#3453` -ra vagy `Danu#4422` -ra/re"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't their? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate} Hogyan tudom megváltoztatni a bot nyelvét?",
+                "value": "> A bot nyelvét a `/language set` paranccsal módosíthatja\n> Nem találja a nyelvét? Kezdje el a fordítását a https://translate.emojiguardian.xyz/ oldalon"
             }
         ]
     },
@@ -29,32 +29,32 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Súgó oldal",
+                    "description": "Fő súgóoldal"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Egyetlen hangulatjel parancsok",
+                    "description": "Parancsok, amelyek csak egy hangulatjellel működnek"
                 },
                 {
-                    "label": "Multiple emojis commands",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Többszörös hangulatjel parancsok",
+                    "description": "Parancsok, amelyek több mint egy hangulatjellel működnek"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Feketelista/Egyéb parancsok",
+                    "description": "Feketelista parancsok és egyéb parancsok, egyszeri és többszörös hangulatjel parancsok"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Válassz kategóriát"
         },
         {
-            "label": "Support server"
+            "label": "Segítő szerver"
         },
         {
-            "label": "Invite link"
+            "label": "Meghívó link"
         },
         {
-            "label": "Website"
+            "label": "Weboldal"
         }
     ]
 }
