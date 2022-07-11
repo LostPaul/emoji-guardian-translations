@@ -42,7 +42,7 @@
                 },
                 {
                     "label": "Lista negra/Otros comandos",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "description": "Comandos de lista negra y otros comandos que no son comandos de múltiples emojis o emojis individuales"
                 }
             ],
             "placeholder": "Selecciona una categoría"
