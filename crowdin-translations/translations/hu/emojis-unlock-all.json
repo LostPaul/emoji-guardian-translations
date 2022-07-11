@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to unlock all emojis from a role?",
+    "content": "Biztos benne, hogy fel akarja oldani egy szerepkör összes hangulatjelét?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Megerősítés"
         },
         {
-            "label": "Cancel"
+            "label": "Mégsem"
         }
     ]
 }
