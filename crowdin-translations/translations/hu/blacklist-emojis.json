@@ -1,7 +1,7 @@
 {
-    "content": "You blacklisted the emojis {blacklist_emojis}",
+    "content": "Feketelistára helyezve az alábbi hangulatjel/hangulatjelek {blacklist_emojis}",
     "log": {
-        "title": "Emojis got blacklisted",
-        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
+        "title": "Összes hangulatjel feketelistára került",
+        "description": "Hangulatjelek: {text}\nFeketelistára helyezve\nFelhasználó címke: {user_tag}\nFelhasználó ID: {interaction_user_id}\nHozzászólás: {interaction_options_comment}\nKészítő: {interaction_options_creator}"
     }
 }
