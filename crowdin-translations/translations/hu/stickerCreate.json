@@ -1,11 +1,11 @@
 {
     "components": [
         {
-            "label": "Delete Sticker"
+            "label": "Matrica törlése"
         }
     ],
     "embed": {
-        "title": "Sticker created",
-        "description": "Name: {current_sticker_name}\nRelated emoji: {current_sticker_tags}[{sticker_description_option}:\nDescription: ]{current_sticker_description}\nAdded by: {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Matrica létrehozva",
+        "description": "Név: {current_sticker_name}\nKapcsolódó hangulatjel: {current_sticker_tags} {sticker_description_option}\nLeírás: {current_sticker_description}\nHozzáadta: {text} {reason_option}\nIndoklás: {reason}"
     }
 }
