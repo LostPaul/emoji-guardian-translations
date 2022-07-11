@@ -1,12 +1,12 @@
 {
-    "content": "Change the language of the Bot.\n\"**This server**\" means that every message from this Bot that is visible to all is translated.\n\"**Every server**\" means that every message from this Bot that only you see is being translated.",
-    "not-enough-perms": "You changed the language of the bot to {new_language}",
+    "content": "A bot nyelvezetének visszaállítása angolra.\n\"**Ezen a szerveren**\" azt jelenti, hogy minden üzenet a bottól, ami látható mindenki számára le lesz fordítva.\n\"**Minden szerveren** azt jelenti, hogy minden üzenet a bottól, amit csak te látsz lesz lefordítva.",
+    "not-enough-perms": "Megváltozott a bot nyelve az alábbira {new_language}",
     "components": [
         {
-            "label": "This server"
+            "label": "Ez a szerver"
         },
         {
-            "label": "Every server"
+            "label": "Minden szerver"
         }
     ]
 }
