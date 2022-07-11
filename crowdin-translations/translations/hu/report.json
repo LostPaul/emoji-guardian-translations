@@ -1,0 +1,11 @@
+{
+    "content": "Felhasználót vagy szervert szeretne jelenteni, válassza ki azt a gombok valamelyikére kattintva.",
+    "components": [
+        {
+            "label": "Szerver"
+        },
+        {
+            "label": "Felhasználó"
+        }
+    ]
+}

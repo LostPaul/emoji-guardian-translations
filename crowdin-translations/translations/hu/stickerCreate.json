@@ -1,0 +1,11 @@
+{
+    "components": [
+        {
+            "label": "Matrica törlése"
+        }
+    ],
+    "embed": {
+        "title": "Matrica létrehozva",
+        "description": "Név: {current_sticker_name}\nKapcsolódó hangulatjel: {current_sticker_tags} {sticker_description_option}\nLeírás: {current_sticker_description}\nHozzáadta: {text} {reason_option}\nIndoklás: {reason}"
+    }
+}

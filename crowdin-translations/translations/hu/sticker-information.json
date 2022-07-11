@@ -1,0 +1,36 @@
+{
+    "no_description": "Nincs leírás",
+    "true": "Igaz",
+    "false": "Hamis",
+    "embeds": [
+        {
+            "title": "Matrica információk",
+            "fields": [
+                {
+                    "name": "Név:"
+                },
+                {
+                    "name": "Matrica azonosító:"
+                },
+                {
+                    "name": "Formátum:"
+                },
+                {
+                    "name": "Leírás:"
+                },
+                {
+                    "name": "Címkék:"
+                },
+                {
+                    "name": "Rendelkezésre áll:"
+                },
+                {
+                    "name": "Feltöltve:"
+                },
+                {
+                    "name": "Feltöltötte:"
+                }
+            ]
+        }
+    ]
+}

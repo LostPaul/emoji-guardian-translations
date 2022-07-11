@@ -1,0 +1,23 @@
+{
+    "modal": {
+        "title": "Szerver jelentés űrlap",
+        "components": [
+            {
+                "label": "Szerver azonosító",
+                "placeholder": "Ide írja be a szerver azonosítóját."
+            },
+            {
+                "label": "Jelentés oka",
+                "placeholder": "Ide írja be a jelentés okát."
+            },
+            {
+                "label": "Meghívó link a szerverhez",
+                "placeholder": "Ide írja be a szerver meghívóját."
+            },
+            {
+                "label": "A jelentéshez kapcsolódó kép linkje",
+                "placeholder": "Ide illessze be a képeket a jelentéshez kapcsolódóan."
+            }
+        ]
+    }
+}

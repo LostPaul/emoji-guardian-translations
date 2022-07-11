@@ -1,0 +1,4 @@
+{
+    "content": "Engedélyezted az automata zárolást az alábbi rangoknál {autolock_roles}, így minden hangulatjel, ami hozzá lesz adva a szerveredhez megkapja a rangokat.",
+    "log": "{interaction_user_tag} engedélyezte az automata zárolást a {autolock_roles} rangoknál"
+}

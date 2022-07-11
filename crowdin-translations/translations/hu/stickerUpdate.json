@@ -1,0 +1,11 @@
+{
+    "components": [
+        {
+            "label": "Matrica törlése"
+        }
+    ],
+    "embed": {
+        "title": "Matrica frissítve",
+        "description": "{sticker_old_name_option} Régi név: {current_sticker_name}\nÚj név: {new_sticker_name} {sticker_old_related_emoji_option} Régi hozzátartozó hangulatjel: {current_sticker_tags}\nÚj hozzátartozó hangulatjel: {new_sticker_tags} {sticker_new_description_option}\nRégi leírás: {current_sticker_description}\nÚj leírás: {new_sticker_description}\nMatrica azonosító: {current_sticker_id}\nFrissítve ő általa: {text} {reason_option}\nIndoklás: {reason}"
+    }
+}

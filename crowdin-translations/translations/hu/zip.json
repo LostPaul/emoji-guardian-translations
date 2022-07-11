@@ -1,0 +1,5 @@
+{
+    "start": "{guild_name} hangulatjeleninek tömörítése",
+    "progress": "{guild_name} hangulatjeleninek tömörítése {count}",
+    "done": "Tömörítve lettek a {guild_name} hangulatjelei"
+}

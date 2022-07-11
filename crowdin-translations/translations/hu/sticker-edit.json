@@ -1,0 +1,6 @@
+{
+    "description": "Az új leírása a matricának {sticker_name} ez {interaction_options_description}\n",
+    "name": "Az új neve a matricának {sticker_name} ez {interaction_options_name}\n",
+    "emoji": "A {sticker_name} matricához kapcsolódó új hangulatjel ez {interaction_options_emoji}\n",
+    "reason": "Szerkesztve lett {user_tag} ({user_id}) által"
+}

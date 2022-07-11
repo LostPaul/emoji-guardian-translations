@@ -1,0 +1,19 @@
+{
+    "modal": {
+        "title": "Felhasználó jelentési űrlap",
+        "components": [
+            {
+                "label": "Felhasználói azonosító",
+                "placeholder": "Ide írja be a felhasználó azonosítóját."
+            },
+            {
+                "label": "Jelentés oka",
+                "placeholder": "Ide írja be a jelentés okát."
+            },
+            {
+                "label": "A jelentéshez kapcsolódó kép linkje",
+                "placeholder": "Ide illessze be a képeket a jelentéshez kapcsolódóan."
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "content": "Létrehoztad az alábbi hangulatjelet {placeholder}",
+    "reason": "Létrehozva {user_tag} ({user_id}) által",
+    "choice": "Hozzá szeretné adni az üzenet első hangulatjelét a szerveréhez, vagy az üzenet összes hangulatjelét a szerverhez?",
+    "components": [
+        {
+            "label": "Első hangulatjel"
+        },
+        {
+            "label": "Összes hangulatjel"
+        }
+    ]
+}
