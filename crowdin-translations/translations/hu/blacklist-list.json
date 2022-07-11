@@ -1,9 +1,9 @@
 {
-    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
+    "reply": "Az erről a szerverről származó hangulatjelek tiltólistára kerültek az Emoji Guardian használatának segítségével.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
+        "title": "{interaction_guild_name_blacklist} feketelistára helyezett hangulatjelei",
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "{user_tag} használta"
         }
     }
 }
