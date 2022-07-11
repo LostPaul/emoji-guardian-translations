@@ -1,4 +1,4 @@
 {
-    "content": "You set the log channel to <#{interaction_options_channel}>",
-    "log": "{user_tag} set the log to this channel"
+    "content": "A naplócsatornát a következőre állította: #{interaction_options_channel}",
+    "log": "{user_tag} beállította a vizsgálati naplót erre a csatornára"
 }
