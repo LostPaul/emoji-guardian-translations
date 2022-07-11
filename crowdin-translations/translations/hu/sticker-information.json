@@ -1,34 +1,34 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Nincs leírás",
+    "true": "Igaz",
+    "false": "Hamis",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Matrica információk",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Név:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "Matrica azonosító:"
                 },
                 {
-                    "name": "Format:"
+                    "name": "Formátum:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Leírás:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Címkék:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Rendelkezésre áll:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Feltöltve:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Feltöltötte:"
                 }
             ]
         }
