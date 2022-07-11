@@ -1,3 +1,3 @@
 {
-    "content": "You first need to blacklist emojis from this server by using either \"/blacklist emojis\" or \"blacklist all_emojis\"."
+    "content": "Először feketelistára kell tennie a hangulatjelet/hangulatjeleket erről a szerverről a „/blacklist emojis” vagy a „blacklist all_emojis” parancsnak használatával."
 }
