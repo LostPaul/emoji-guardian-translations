@@ -1,5 +1,5 @@
 {
-    "start": "Zipping {guild_name}'s emojis",
-    "progress": "Zipping {guild_name}'s emojis {count}",
-    "done": "Zipped {guild_name}'s emojis"
+    "start": "{guild_name} hangulatjeleninek tömörítése",
+    "progress": "{guild_name} hangulatjeleninek tömörítése {count}",
+    "done": "Tömörítve lettek a {guild_name} hangulatjelei"
 }
