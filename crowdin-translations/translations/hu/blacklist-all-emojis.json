@@ -1,7 +1,7 @@
 {
-    "content": "You blacklisted all emojis from this server from being added with Emoji Guardian.",
+    "content": "A szerveren található összes hangulatjelet tiltólistára helyezte, hogy ne adják hozzá az Emoji Guardianhoz.",
     "log": {
-        "title": "All Emojis got blacklisted",
+        "title": "Összes hangulatjel feketelistázva lett",
         "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
     }
 }
