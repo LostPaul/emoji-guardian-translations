@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to lock all emojis to a role?",
+    "content": "Biztos benne, hogy az összes hangulatjelet egy szerepkörhöz szeretné zárolni?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Megerősítés"
         },
         {
-            "label": "Cancel"
+            "label": "Mégsem"
         }
     ]
 }
