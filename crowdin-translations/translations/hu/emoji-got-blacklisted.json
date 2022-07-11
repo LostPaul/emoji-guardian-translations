@@ -2,7 +2,7 @@
     "content_without_creator": "The emoji {emoji} got blacklisted by {user_tag_or_mention}\nIf you think this is wrong you can dm a mod in the [Support server](https://discord.gg/EbBsuxVNYT)\n**Comment from the user:**\n{blacklisted_emoji_comment}",
     "content_with_creator": "The emoji {emoji} got blacklisted and it got most likely created by {user_tag_or_mention}\nIf you think this is wrong you can dm a mod in the [Support server](https://discord.gg/EbBsuxVNYT)\n**Comment from the user:**\n{blacklisted_emoji_comment}",
     "log": {
-        "title": "Failed attempt to steal an emoji",
-        "description": "Someone tried to add an emoji from this server with Emoji Guardian\n\nFailed attempt by: {user_tag_or_mention}\nEmoji: {emoji}"
+        "title": "Sikertelen kísérlet a hangulatjel ellopására",
+        "description": "Valaki megpróbált emojit hozzáadni erről a szerverről az Emoji Guardian segítségével\nSikertelenül próbálkozó felhasználó: {user_tag_or_mention}\nHangulatjel: {emoji}"
     }
 }
