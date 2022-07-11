@@ -1,4 +1,4 @@
 {
-    "content": "You deleted the sticker with the name {sticker_name}",
-    "reason": "Deleted by {user_tag} ({user_id})"
+    "content": "Kitörölted a {sticker_name} matricát",
+    "reason": "Törölve {user_tag} ({user_id}) által"
 }
