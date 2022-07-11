@@ -1,21 +1,21 @@
 {
     "modal": {
-        "title": "Server report form",
+        "title": "Formulario de reporte de servidor",
         "components": [
             {
-                "label": "Server ID",
-                "placeholder": "Insert the ID from the server here."
+                "label": "ID del servidor",
+                "placeholder": "Introduzca el ID del servidor aquí."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "La razón del reporte",
+                "placeholder": "Introduzca aquí la razón de su reporte."
             },
             {
-                "label": "Invite link for the server",
-                "placeholder": "Insert the invite to the server here."
+                "label": "Enlace de invitación al servidor",
+                "placeholder": "Introduzca la invitación del servidor aquí."
             },
             {
-                "label": "Image url related to the report",
+                "label": "URL de la imagen relacionada con el reporte",
                 "placeholder": "Insertá imágenes relacionadas con el reporte aquí."
             }
         ]
