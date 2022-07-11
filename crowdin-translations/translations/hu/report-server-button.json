@@ -1,22 +1,22 @@
 {
     "modal": {
-        "title": "Server report form",
+        "title": "Szerver jelentés űrlap",
         "components": [
             {
-                "label": "Server ID",
-                "placeholder": "Insert the ID from the server here."
+                "label": "Szerver azonosító",
+                "placeholder": "Ide írja be a szerver azonosítóját."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Jelentés oka",
+                "placeholder": "Ide írja be a jelentés okát."
             },
             {
-                "label": "Invite link for the server",
-                "placeholder": "Insert the invite to the server here."
+                "label": "Meghívó link a szerverhez",
+                "placeholder": "Ide írja be a szerver meghívóját."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "A jelentéshez kapcsolódó kép linkje",
+                "placeholder": "Ide illessze be a képeket a jelentéshez kapcsolódóan."
             }
         ]
     }
