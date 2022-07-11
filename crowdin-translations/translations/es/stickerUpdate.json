@@ -6,6 +6,6 @@
     ],
     "embed": {
         "title": "Pegatina actualizada",
-        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}Old related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}"
+        "description": "[{sticker_old_name_option}Nombre anterior: {current_sticker_name}\nNuevo nombre: {new_sticker_name}][{sticker_old_related_emoji_option}Emoji relacionado anterior: {current_sticker_tags}\nNuevo emoji relacionado: {new_sticker_tags}][{sticker_new_description_option}\nDescripción anterior: {current_sticker_description}\nNueva descripción: {new_sticker_description}]\nID de la pegatina: {current_sticker_id}\nActualizado por {text}[{reason_option}\nRazón: ]{reason}"
     }
 }
