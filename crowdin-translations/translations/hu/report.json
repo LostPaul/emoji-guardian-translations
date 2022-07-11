@@ -1,11 +1,11 @@
 {
-    "content": "Do you want to report a user or a server choose it by clicking on one of the buttons.",
+    "content": "Felhasználót vagy szervert szeretne jelenteni, válassza ki azt a gombok valamelyikére kattintva.",
     "components": [
         {
-            "label": "Server"
+            "label": "Szerver"
         },
         {
-            "label": "User"
+            "label": "Felhasználó"
         }
     ]
 }
