@@ -1,6 +1,6 @@
 {
     "embed": {
         "title": "Matrica törölve",
-        "description": "Név: {current_sticker_name}\nKapcsolódó hangulatjel: {current_sticker_tags} {sticker_description_option}\nLeírás: {current_sticker_description}\nEltávolítva: {text} {reason_option}\nIndoklás: {reason}"
+        "description": "Név: {current_sticker_name}\nKapcsolódó hangulatjel: {current_sticker_tags}[{sticker_description_option}\nLeírás: ]{current_sticker_description}\nEltávolítva: {text}[{reason_option}\nIndoklás: ]{reason}"
     }
 }
