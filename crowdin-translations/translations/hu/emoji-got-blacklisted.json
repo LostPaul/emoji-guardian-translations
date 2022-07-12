@@ -3,6 +3,6 @@
     "content_with_creator": "A hangulatjel {emoji} feketelistára került és úgy tűnik, hogy {user_tag_or_mention} által lett létrehozva\nHa úgy gondolod, hogy valami hiba történt, akkor írj privát üzenetet egy Moderátornak a [Support szerveren](https://discord.gg/EbBsuxVNYT)\n**Felhasználó megjegyzése:**\n{blacklisted_emoji_comment}",
     "log": {
         "title": "Sikertelen kísérlet a hangulatjel ellopására",
-        "description": "Valaki megpróbált emojit hozzáadni erről a szerverről az Emoji Guardian segítségével\nSikertelenül próbálkozó felhasználó: {user_tag_or_mention}\nHangulatjel: {emoji}"
+        "description": "Valaki megpróbált emojit hozzáadni erről a szerverről az Emoji Guardian segítségével\n\nSikertelenül próbálkozó felhasználó: {user_tag_or_mention}\nHangulatjel: {emoji}"
     }
 }
