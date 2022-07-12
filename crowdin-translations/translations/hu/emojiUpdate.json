@@ -1,5 +1,5 @@
 {
-    "compact": "{emoji} ({current_emoji_name}) {new_name_option} Megváltozott a neve az alábbiról {current_emoji_name} erre/ezekre {new_emoji_name}\n{lock_emoji_roles} megváltozott a szerepköre az alábbiakról/alábbiról {old_roles} erre/ezekre {new_roles}",
+    "compact": "{emoji} `({current_emoji_name})`[{new_name_option} Megváltozott a neve az alábbiról {current_emoji_name} erre/ezekre {new_emoji_name}]\n{lock_emoji_roles} megváltozott a szerepköre az alábbiakról/alábbiról {old_roles} erre/ezekre {new_roles}",
     "components": [
         {
             "label": "Hangulatjel törlése"
@@ -15,6 +15,6 @@
     ],
     "embed": {
         "title": "Hangulatjel frissítve",
-        "description": "{old_name_option} Régi név: {current_emoji_name} {new_name_option}\nÚj név: {new_emoji_name} {lock_emoji_roles} Név: {current_emoji_name}\nRégi rangok: {old_roles}\nÚj rangok: {new_roles}\nHangulatjel azonosító: {current_emoji_id} {reason_option}\nIndoklás: {reason}"
+        "description": "[{old_name_option}Régi név: {current_emoji_name}][{new_name_option}\nÚj név: {new_emoji_name}] \n[{lock_emoji_roles} Név: `{current_emoji_name}`\nRégi rangok: {old_roles}\nÚj rangok: {new_roles}]\nHangulatjel azonosító: {current_emoji_id}[{reason_option}\nIndoklás: ]{reason}"
     }
 }
