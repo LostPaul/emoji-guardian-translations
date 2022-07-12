@@ -1,3 +1,3 @@
 {
-    "content": "Módosította a {emoji} hangulatjel nevét erről {current_emoji_name} az alábbira {text}"
+    "content": "Módosította a {emoji} hangulatjel nevét erről `{current_emoji_name}` az alábbira `{text}`"
 }
