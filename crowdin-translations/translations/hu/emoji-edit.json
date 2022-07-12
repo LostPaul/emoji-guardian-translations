@@ -1,4 +1,4 @@
 {
-    "content": "Módosította a {emoji} hangulatjel nevét erről {current_emoji_name} az alábbira {new_emoji_name_interaction}",
+    "content": "Módosította a {emoji} hangulatjel nevét erről `{current_emoji_name}` az alábbira `{new_emoji_name_interaction}`",
     "reason": "Szerkesztve lett {user_tag} ({user_id}) által"
 }
