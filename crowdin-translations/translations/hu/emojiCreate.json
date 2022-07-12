@@ -7,9 +7,9 @@
             "label": "Hangulatjel nevének módosítása"
         }
     ],
-    "compact": "{emoji} ({current_emoji_name}) létre lett hozva {text} {reason_option} az alábbi indokkal {reason}",
+    "compact": "{emoji} `({current_emoji_name})` létre lett hozva {text} {reason_option} az alábbi indokkal {reason}",
     "embed": {
         "title": "Hangulatjel létrehozva",
-        "description": "{emoji}\nHozzáadva {text} {reason_option}\nIndoklás: {reason}"
+        "description": "`{emoji}`\nHozzáadva {text}[{reason_option}\nIndoklás: ]{reason}"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "compact": "{current_emoji_name} ki lett törölve {text} {reason_option} az alábbi indokkal {reason}",
+    "compact": "`{current_emoji_name}` ki lett törölve {text} [{reason_option} az alábbi indokkal ]{reason}",
     "embed": {
         "title": "Hangulatjel törölve",
         "description": "Név: {current_emoji_name}\nAzonosító: {current_emoji_id}\nTörölve: {text} {reason_option}\nIndok: {reason}"

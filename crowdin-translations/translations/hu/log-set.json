@@ -1,4 +1,4 @@
 {
-    "content": "A naplócsatornát a következőre állította: #{interaction_options_channel}",
+    "content": "A naplócsatornát a következőre állította: <#{interaction_options_channel}>",
     "log": "{user_tag} beállította a vizsgálati naplót erre a csatornára"
 }

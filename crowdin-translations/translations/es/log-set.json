@@ -1,4 +1,4 @@
 {
-    "content": "You set the log channel to <#{interaction_options_channel}>",
-    "log": "{user_tag} set the log to this channel"
+    "content": "Has establecido el canal de registro a <#{interaction_options_channel}>",
+    "log": "{user_tag} estableció el registro para este canal"
 }
