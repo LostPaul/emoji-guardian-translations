@@ -42,7 +42,7 @@
                 },
                 {
                     "label": "Lista negra/Otros comandos",
-                    "description": "Comandos de lista negra y otros comandos que no son simples y múltiples comandos emojis"
+                    "description": "Comandos de lista negra y otros comandos"
                 }
             ],
             "placeholder": "Selecciona una categoría"
