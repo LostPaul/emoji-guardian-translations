@@ -1,4 +1,5 @@
 {
+    "modalValue": "(args.modalValue == undefined || args.modalValue == null || args.modalValue == 'undefined') ? '' : args.modalValue",
     "old_roles": "(args.oldRoles == '' || args.oldRoles == ' ') ? 'No roles' : args.oldRoles",
     "new_roles": "(args.newRoles == '' || args.newRoles == ' ') ? 'No roles' : args.newRoles",
     "no_args": "",

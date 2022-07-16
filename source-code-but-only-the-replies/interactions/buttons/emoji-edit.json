@@ -10,6 +10,7 @@
                         "type": 4,
                         "custom_id": "name",
                         "label": "client.I18n.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].label')",
+                        "value": "{modalValue}",
                         "style": 1,
                         "min_length": 2,
                         "max_length": 32,
