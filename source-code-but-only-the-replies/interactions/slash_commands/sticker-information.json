@@ -2,55 +2,53 @@
     "no_description": "client.I18n.get(locale, 'sticker-information', 'no_description')",
     "true": "client.I18n.get(locale, 'sticker-information', 'true')",
     "false": "client.I18n.get(locale, 'sticker-information', 'false')",
-    "embeds": [
-        {
-            "color": "2f3136",
-            "title": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].title')",
-            "thumbnail": {
-                "url": "{text}"
+    "embed": {
+        "color": "2f3136",
+        "title": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].title')",
+        "thumbnail": {
+            "url": "{text}"
+        },
+        "fields": [
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[0].name')",
+                "value": "{current_sticker_name}",
+                "inline": true
             },
-            "fields": [
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[0].name')",
-                    "value": "{current_sticker_name}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[1].name')",
-                    "value": "{current_sticker_id}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[2].name')",
-                    "value": "{current_sticker_format}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[3].name')",
-                    "value": "{current_sticker_description_info}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[4].name')",
-                    "value": "{current_sticker_tags}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[5].name')",
-                    "value": "{current_sticker_available}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[6].name')",
-                    "value": "{placeholder}",
-                    "inline": true
-                },
-                {
-                    "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[7].name')",
-                    "value": "{current_sticker_author}",
-                    "inline": true
-                }
-            ]
-        }
-    ]
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[1].name')",
+                "value": "{current_sticker_id}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[2].name')",
+                "value": "{current_sticker_format}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[3].name')",
+                "value": "{current_sticker_description_info}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[4].name')",
+                "value": "{current_sticker_tags}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[5].name')",
+                "value": "{current_sticker_available}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[6].name')",
+                "value": "{placeholder}",
+                "inline": true
+            },
+            {
+                "name": "client.I18n.get(locale, 'sticker-information', 'embeds', 'array[0].fields[7].name')",
+                "value": "{current_sticker_author}",
+                "inline": true
+            }
+        ]
+    }
 }
