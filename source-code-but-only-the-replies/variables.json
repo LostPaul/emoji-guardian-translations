@@ -59,7 +59,7 @@
     "interaction_guild_icon": "interaction.guild.iconURL({ dynamic: true }) !== null ? interaction.guild.iconURL({ dynamic: true }) : 'https://cdn.discordapp.com/embed/avatars/0.png'",
     "guild_name": "args.interaction?.guild?.name",
     "attachment_name": "args.attachment?.name",
-    "timestamp": "new Date()",
+    "timestamp": "new Date().toISOString()",
     "reason": "args.reason === null || args.reason == 'null' ? 'No reason' : args.reason",
     "reason_option": "let regex_match = content.match(/\\[\\{reason_option\\}(?<reason>.{0,30})\\]/s); (args.reason == undefined || args.reason == null || args.reason == '') ?  content = content.replace(/\\[\\{reason_option\\}.{0,30}\\]/s, '') : content = content.replace(/\\[\\{reason_option\\}.{0,30}\\]/s, regex_match.groups.reason)",
     "lock_emoji_roles": "let regex_match = content.match(/\\[\\{lock_emoji_roles\\}(?<text>.{0,999})\\]/); args.oldRoles !== args.newRoles ? content = content.replace(/\\[\\{lock_emoji_roles\\}.{0,999}\\]/, regex_match.groups.text) : content = content.replace(/\\[\\{lock_emoji_roles\\}.{0,999}\\]/, '')",
