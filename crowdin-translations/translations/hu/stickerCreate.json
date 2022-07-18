@@ -2,6 +2,9 @@
     "components": [
         {
             "label": "Matrica törlése"
+        },
+        {
+            "label": "Edit Sticker"
         }
     ],
     "embed": {
