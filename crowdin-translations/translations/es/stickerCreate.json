@@ -2,6 +2,9 @@
     "components": [
         {
             "label": "Eliminar pegatina"
+        },
+        {
+            "label": "Edit Sticker"
         }
     ],
     "embed": {
