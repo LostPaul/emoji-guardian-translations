@@ -41,7 +41,7 @@
     "lock_roles": "args.lockRoles?.map(role => `<@&${role}>`).join(', ')",
     "user_tag_or_mention": "args.user?.tag || `<@${args.user?.id}>`",
     "blacklisted_emoji_comment": "args.blacklistedEmoji?.comment",
-    "current_emoji_roles": " let roles = (args.rolesCurrentEmoji == 'Nothing'  ?  @everyone : args.rolesCurrentEmoji?.join(', ')); return roles",
+    "current_emoji_roles": " let roles = (args.rolesCurrentEmoji == 'Nothing'  ?  '@everyone' : args.rolesCurrentEmoji?.join(', ')); return roles",
     "current_emoji_id": "args.currentEmoji?.id",
     "current_emoji_name": "args.currentEmoji.name",
     "current_emoji_author": "let author = await args.currentEmoji.fetchAuthor(); return author.username + '#' + author.discriminator",
