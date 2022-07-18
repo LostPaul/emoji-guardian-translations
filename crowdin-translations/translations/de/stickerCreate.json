@@ -2,6 +2,9 @@
     "components": [
         {
             "label": "Sticker löschen"
+        },
+        {
+            "label": "Edit Sticker"
         }
     ],
     "embed": {
