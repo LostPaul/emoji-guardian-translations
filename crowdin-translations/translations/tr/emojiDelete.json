@@ -1,7 +1,7 @@
 {
-    "compact": "`{current_emoji_name}` Has been deleted by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "`{current_emoji_name}` {text} tarafından [{reason_option} sebebi ile] silindi.{reason}",
     "embed": {
-        "title": "Emoji deleted",
-        "description": "Name: `{current_emoji_name}`\nID: `{current_emoji_id}`\nDeleted by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji silindi",
+        "description": "İsim: `{current_emoji_name}`\nID: `{current_emoji_id}`\nŞu kişi tarafından silindi {text}[{reason_option}\nSebep: ]{reason}"
     }
 }
