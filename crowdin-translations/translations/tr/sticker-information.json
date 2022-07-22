@@ -1,28 +1,28 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Açıklama yok",
+    "true": "Doğru",
+    "false": "Yanlış",
     "embeds": [
         {
             "title": "Information about a sticker",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "İsim:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "Sticker IDsi:"
                 },
                 {
-                    "name": "Format:"
+                    "name": "Biçim:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Açıklama:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Etiketler:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Kullanılabilir mi:"
                 },
                 {
                     "name": "Uploaded at:"

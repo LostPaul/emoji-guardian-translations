@@ -3,7 +3,7 @@
         "title": "Server report form",
         "components": [
             {
-                "label": "Server ID",
+                "label": "Sunucu IDsi",
                 "placeholder": "Insert the ID from the server here."
             },
             {

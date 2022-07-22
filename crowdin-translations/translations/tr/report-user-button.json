@@ -3,7 +3,7 @@
         "title": "User report form",
         "components": [
             {
-                "label": "User ID",
+                "label": "Kullanıcı IDsi",
                 "placeholder": "Insert the ID from the user here."
             },
             {

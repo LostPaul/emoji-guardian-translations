@@ -3,7 +3,7 @@
     "embed": {
         "title": "{interaction_guild_name_blacklist}'s locked emojis",
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "{user_tag} tarafından kullanıldı"
         }
     }
 }

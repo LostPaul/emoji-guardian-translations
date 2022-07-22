@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Emojiyi Sil"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Emoji İsmini Güncelle"
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "{emoji} `({current_emoji_name})` {text} tarafından [{reason_option} sebebi ile] oluşturuldu.{reason}",
     "embed": {
-        "title": "Emoji created",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji oluşturuldu",
+        "description": "`{emoji}` \nŞu kişi tarafından {text}[{reason_option}\nSebep: ]{reason}"
     }
 }
