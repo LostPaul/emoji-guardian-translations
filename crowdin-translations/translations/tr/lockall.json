@@ -1,5 +1,5 @@
 {
-    "unlock": "You unlocked all emojis from {placeholder} the roles can't use it anymore unless the emojis have no roles.",
+    "unlock": "{placeholder}'dan tüm emojilerin bağlantısını kestiniz, bu role sahip olanlar bu emojiyi kullanamayacaklar.",
     "lock": "You locked all emojis to {placeholder} that means only users from this server that have one of the roles can access the emojis.",
     "cancel": "İşlem iptal edildi."
 }
