@@ -1,7 +1,7 @@
 {
-    "static": "{boolean_emoji} Static Emojis: {count}\n",
-    "animated": "{boolean_emoji} Animated Emojis: {count}\n",
-    "all": "{boolean_emoji} All Emojis: {count}\n",
-    "locked": "{boolean_emoji} Locked Emojis: {count}\n",
-    "stickers": "{boolean_emoji} Stickers: {count}\n"
+    "static": "{boolean_emoji} Statik Emojiler: {count}\n",
+    "animated": "{boolean_emoji} Animasyonlu Emojiler: {count}\n",
+    "all": "{boolean_emoji} Tüm Emojiler: {count}\n",
+    "locked": "{boolean_emoji} Kilitli Emojiler: {count}\n",
+    "stickers": "{boolean_emoji} Stickerlar: {count}\n"
 }
