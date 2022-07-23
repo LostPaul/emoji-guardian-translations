@@ -1,0 +1,3 @@
+{
+    "content": "You changed the name of the emoji {emoji} from `{current_emoji_name}` to `{text}`"
+}
