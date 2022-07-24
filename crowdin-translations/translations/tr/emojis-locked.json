@@ -1,7 +1,7 @@
 {
-    "content": "These emojis are locked to a role.",
+    "content": "Bu emojiler bir role kilitli.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "title": "{interaction_guild_name_blacklist}'in kilitli emojileri",
         "footer": {
             "text": "{user_tag} tarafından kullanıldı"
         }

@@ -4,15 +4,15 @@
         "components": [
             {
                 "label": "Kullanıcı IDsi",
-                "placeholder": "Insert the ID from the user here."
+                "placeholder": "Kullanıcı IDsini buraya yazın."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Rapor'un sebebi",
+                "placeholder": "Rapor sebebini buraya yazın."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "Rapor ile ilgili resim URL'si",
+                "placeholder": "Raporla ilgili resimleri buraya girin."
             }
         ]
     }
