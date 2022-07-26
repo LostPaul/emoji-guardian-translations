@@ -27,7 +27,6 @@
                         "custom_id": "description",
                         "label": "client.I18n.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].label')",
                         "placeholder": "client.I18n.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
-                        "value": "{modalValue2}",
                         "style": 1,
                         "min_length": 2,
                         "max_length": 100,
