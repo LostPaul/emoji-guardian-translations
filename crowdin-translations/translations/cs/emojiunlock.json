@@ -1,0 +1,8 @@
+{
+    "audit_log": "Unlocked by {user_tag}",
+    "components": [
+        {
+            "label": "Unlocked"
+        }
+    ]
+}

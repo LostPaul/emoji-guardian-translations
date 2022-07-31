@@ -1,0 +1,11 @@
+{
+    "content": "Do you want to report a user or a server choose it by clicking on one of the buttons.",
+    "components": [
+        {
+            "label": "Server"
+        },
+        {
+            "label": "User"
+        }
+    ]
+}

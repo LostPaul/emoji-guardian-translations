@@ -1,0 +1,9 @@
+{
+    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
+    "embed": {
+        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
+        "footer": {
+            "text": "Used by {user_tag}"
+        }
+    }
+}
