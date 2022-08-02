@@ -1,3 +1,3 @@
 {
-    "content": "Ungültiger Bild-Link, der Link muss mit https:// oder https// beginnen und muss ebenfalls mit .gif oder .png enden, indirekte Links werden vom Bot nicht unterstützt werden."
+    "content": "Ungültiger Bild-Link, der Link muss mit https:// oder http:// beginnen und muss ebenfalls mit .gif oder .png enden, indirekte Links werden vom Bot nicht unterstützt werden."
 }
