@@ -1,4 +1,4 @@
 {
-    "content": "You locked {emojis} to {lock_roles} that means every user from this server that has one of the roles can access the emojis.",
-    "reason": "Locked by {user_tag} ({user_id})"
+    "content": "Zablokowałeś {emojis} do {lock_roles}, co oznacza, że każdy użytkownik z tego serwera, który ma jedną z ról może uzyskać dostęp do emoji.",
+    "reason": "Zablokowane przez {user_tag} ({user_id})"
 }
