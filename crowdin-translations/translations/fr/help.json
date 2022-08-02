@@ -37,7 +37,7 @@
                     "description": "Commands which work with only one emoji"
                 },
                 {
-                    "label": "Multiple emojis commands",
+                    "label": "Commands that work multiple emojis",
                     "description": "Command which work with more than one emoji"
                 },
                 {
