@@ -2,6 +2,6 @@
     "content": "Wpisałeś na czarną listę wszystkie emoji z tego serwera od dodania za pomocą Emoji Guardian.",
     "log": {
         "title": "Wszystkie Emoji zostały wpisane na czarną listę",
-        "description": "Wpisany na czarną listę przez\nTag użytkownika: {user_tag}\nID użytkownika: {interaction_user_id}\nKomentarz: {interaction_options_comment}\nStworzył: {interaction_options_creator}"
+        "description": "Wpisany na czarną listę przez\nTag użytkownika: {user_tag}\nID: użytkownika: {interaction_user_id}\nKomentarz: {interaction_options_comment}\nStworzył: {interaction_options_creator}"
     }
 }
