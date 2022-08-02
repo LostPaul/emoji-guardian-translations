@@ -1,34 +1,34 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Brak opisu",
+    "true": "Włącz",
+    "false": "Wyłącz",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Informacje o naklejce",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Nazwa:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "ID Naklejki:"
                 },
                 {
                     "name": "Format:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Opis:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Tagi:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Dostępny:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Przesłano:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Przesłane przez:"
                 }
             ]
         }
