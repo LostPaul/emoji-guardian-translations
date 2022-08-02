@@ -1,6 +1,6 @@
 {
-    "true": "Włącz",
-    "false": "Wyłącz",
+    "true": "Prawda",
+    "false": "Fałszywy",
     "embed": {
         "title": "Informacje o emoji",
         "fields": [
