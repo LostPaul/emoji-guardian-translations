@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "User report form",
+        "title": "Formularz raportu użytkownika",
         "components": [
             {
-                "label": "User ID",
-                "placeholder": "Insert the ID from the user here."
+                "label": "ID użytkownika",
+                "placeholder": "Wstaw tutaj ID użytkownika."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Powód zgłoszenia",
+                "placeholder": "Wpisz tutaj powód swojego zgłoszenia."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "Adres url obrazu związany z raportem",
+                "placeholder": "Wstaw tutaj obrazy związane ze zgłoszeniem."
             }
         ]
     }

@@ -1,7 +1,7 @@
 {
-    "static": "{boolean_emoji} Static Emojis: {count}\n",
-    "animated": "{boolean_emoji} Animated Emojis: {count}\n",
-    "all": "{boolean_emoji} All Emojis: {count}\n",
-    "locked": "{boolean_emoji} Locked Emojis: {count}\n",
-    "stickers": "{boolean_emoji} Stickers: {count}\n"
+    "static": "{boolean_emoji} Statystyka emoji: {count}",
+    "animated": "{boolean_emoji} Animowana emoji: {count}\n",
+    "all": "{boolean_emoji} Wszystkie emoji: {count}\n",
+    "locked": "{boolean_emoji} zablokowane emoji: {count}\n",
+    "stickers": "{boolean_emoji} Naklejki: {count}\n"
 }

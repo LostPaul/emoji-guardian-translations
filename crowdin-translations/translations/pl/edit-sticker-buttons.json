@@ -1,14 +1,14 @@
 {
     "modal": {
-        "title": "Change the name or description of the sticker",
+        "title": "Zmień nazwę lub opis naklejki",
         "components": [
             {
-                "label": "Sticker name",
-                "placeholder": "Insert the new name for the sticker here."
+                "label": "Nazwa naklejki",
+                "placeholder": "Tutaj wpisz nową nazwę dla naklejki."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "Opis naklejki",
+                "placeholder": "Tutaj wpisz nowy opis naklejki."
             }
         ]
     }
