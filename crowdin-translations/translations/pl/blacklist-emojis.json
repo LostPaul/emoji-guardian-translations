@@ -1,7 +1,7 @@
 {
     "content": "Wpisałeś na czarną listę emoji {blacklist_emojis}",
     "log": {
-        "title": "Wszystkie Emoji zostały wpisane na czarną listę",
+        "title": "Emoji zostały wpisane na czarną listę",
         "description": "Emoji: {text} \nWpisany na czarną listę przez\nTag użytkownika: {user_tag}\nID użytkownika: {interaction_user_id}\nKomentarz: {interaction_options_comment}\nStworzył: {interaction_options_creator}"
     }
 }
