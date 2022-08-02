@@ -1,5 +1,5 @@
 {
-    "static": "{boolean_emoji} Statystyka emoji: {count}",
+    "static": "{boolean_emoji} Statyczne emoji: {count}\n",
     "animated": "{boolean_emoji} Animowana emoji: {count}\n",
     "all": "{boolean_emoji} Wszystkie emoji: {count}\n",
     "locked": "{boolean_emoji} zablokowane emoji: {count}\n",
