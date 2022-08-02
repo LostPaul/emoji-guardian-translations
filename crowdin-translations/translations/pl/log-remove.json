@@ -1,4 +1,4 @@
 {
-    "content": "You removed the log channel from this server.",
-    "log": "{user_tag} reset the log for this server."
+    "content": "Usunięto kanał z logami tego serwera.",
+    "log": "{user_tag} Resetuje dziennik dla tego serwera."
 }
