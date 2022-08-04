@@ -1,7 +1,7 @@
 {
     "no_description": "Brak opisu",
-    "true": "Włącz",
-    "false": "Wyłącz",
+    "true": "Prawdziwe",
+    "false": "Fałszywy",
     "embeds": [
         {
             "title": "Informacje o naklejce",
@@ -25,7 +25,7 @@
                     "name": "Dostępny:"
                 },
                 {
-                    "name": "Przesłano:"
+                    "name": "Przesłano w:"
                 },
                 {
                     "name": "Przesłane przez:"

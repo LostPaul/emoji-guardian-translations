@@ -1,5 +1,5 @@
 {
-    "content": "Te emoji są zablokowane do roli.",
+    "content": "Te emotikony są przypisane do roli.",
     "embed": {
         "title": "{interaction_guild_name_blacklist} Jest zablokowane emoji",
         "footer": {

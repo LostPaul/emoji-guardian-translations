@@ -37,7 +37,7 @@
                     "description": "Polecenia, które działają tylko z jednym emoji"
                 },
                 {
-                    "label": "Wiele poleceń emoji",
+                    "label": "Polecenia, które działają z wieloma emotikonami",
                     "description": "Polecenia, które działają z więcej niż jednym emoji"
                 },
                 {
