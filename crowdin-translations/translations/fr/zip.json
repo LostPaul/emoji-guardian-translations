@@ -1,5 +1,5 @@
 {
-    "start": "Zipping {guild_name}'s emojis",
-    "progress": "Zipping {guild_name}'s emojis {count}",
-    "done": "Zipped {guild_name}'s emojis"
+    "start": "Zipping les émojis de {guild_name}",
+    "progress": "Zipping des émoticônes de {guild_name} {count}",
+    "done": "Émoticônes de {guild_name}Zipped"
 }
