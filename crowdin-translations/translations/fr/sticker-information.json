@@ -1,34 +1,34 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Pas de description",
+    "true": "Vrai",
+    "false": "Faux",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Informations sur un autocollant",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Nom:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "ID de l'autocollant:"
                 },
                 {
                     "name": "Format:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Description :"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Tags :"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Disponible:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Envoyé à:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Envoyé par:"
                 }
             ]
         }
