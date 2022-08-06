@@ -1,7 +1,7 @@
 {
-    "compact": "`{current_emoji_name}` Has been deleted by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "`{current_emoji_name}` A été supprimé par {text} [{reason_option}avec la raison ]{reason}",
     "embed": {
-        "title": "Emoji deleted",
-        "description": "Name: `{current_emoji_name}`\nID: `{current_emoji_id}`\nDeleted by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji supprimé",
+        "description": "Nom : `{current_emoji_name}`\nID : `{current_emoji_id}`\nSupprimé par {text}[{reason_option}\nRaison : ]{reason}"
     }
 }

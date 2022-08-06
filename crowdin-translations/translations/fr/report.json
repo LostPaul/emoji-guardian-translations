@@ -1,11 +1,11 @@
 {
-    "content": "Do you want to report a user or a server choose it by clicking on one of the buttons.",
+    "content": "Voulez-vous signaler un utilisateur ou un serveur le choisir en cliquant sur l'un des boutons.",
     "components": [
         {
-            "label": "Server"
+            "label": "Serveur"
         },
         {
-            "label": "User"
+            "label": "Utilisateur"
         }
     ]
 }

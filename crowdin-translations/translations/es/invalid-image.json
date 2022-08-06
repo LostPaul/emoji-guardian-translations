@@ -1,3 +1,3 @@
 {
-    "content": "Enlace de imagen no válido. Necesita comenzar con `https://` o `http://`, y también necesita terminar con `.gif` o `.png`. Los enlaces indirectos no están soportados por este bot."
+    "content": "Enlace de imagen no válido. Necesita comenzar con `https://` o `https//`, y también necesita terminar con `.gif` o `.png`. Los enlaces indirectos no están soportados por este bot."
 }
