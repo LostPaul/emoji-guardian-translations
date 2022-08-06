@@ -1,4 +1,4 @@
 {
-    "content": "You set the log channel to <#{interaction_options_channel}>",
-    "log": "{user_tag} set the log to this channel"
+    "content": "Vous avez défini le salon de log à <#{interaction_options_channel}>",
+    "log": "{user_tag} a défini le journal sur ce salon"
 }
