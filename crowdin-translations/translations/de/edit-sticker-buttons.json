@@ -9,6 +9,10 @@
             {
                 "label": "Sticker Beschreibung",
                 "placeholder": "Füge hier die neue Beschreibung für den Sticker ein."
+            },
+            {
+                "label": "Related emoji (unicode emoji)",
+                "placeholder": "Insert the new related emoji for the sticker here."
             }
         ]
     }
