@@ -1,5 +1,6 @@
 {
     "description": "client.I18n.get(locale, 'edit-sticker', 'description')",
     "name": "client.I18n.get(locale, 'edit-sticker', 'name')",
-    "emoji": "client.I18n.get(locale, 'sticker-edit', 'emoji')"
+    "emoji": "client.I18n.get(locale, 'sticker-edit', 'emoji')",
+    "reason": "client.I18n.get(locale, 'sticker-edit', 'reason')"
 }
