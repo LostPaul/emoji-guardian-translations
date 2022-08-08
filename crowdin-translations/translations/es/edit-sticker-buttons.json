@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Change the name or description of the sticker",
+        "title": "Cambia el nombre o descripción de la pegatina",
         "components": [
             {
-                "label": "Sticker name",
-                "placeholder": "Insert the new name for the sticker here."
+                "label": "Nombre de la pegatina",
+                "placeholder": "Introduzca el nuevo nombre para la pegatina aquí."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "Descripción de la pegatina",
+                "placeholder": "Inserte aquí la nueva descripción para la pegatina."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "Emoji relacionado (emoji de unicode)",
+                "placeholder": "Inserte aquí el nuevo emoji relacionado para la pegatina."
             }
         ]
     }
