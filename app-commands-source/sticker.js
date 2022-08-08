@@ -66,27 +66,6 @@ module.exports = {
             "description": "The sticker you want to edit, use the name of the sticker",
             "required": true,
             "autocomplete": true
-          },
-          {
-            "type": 3,
-            "name": "description",
-            "description": "The description of the sticker",
-            "max_length": 100,
-            "required": false
-          },
-          {
-            "type": 3,
-            "name": "name",
-            "description": "The name of the sticker",
-            "min_length": 2,
-            "max_length": 30,
-            "required": false
-          },
-          {
-            "type": 3,
-            "name": "emoji",
-            "description": "The unicode emoji that is representing the sticker's expression",
-            "required": false
           }
         ]
       },

@@ -44,7 +44,7 @@
                         "placeholder": "client.I18n.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].placeholder')",
                         "style": 1,
                         "min_length": 1,
-                        "max_length": 1,
+                        "max_length": 2,
                         "required": false
                     }
                 ]
