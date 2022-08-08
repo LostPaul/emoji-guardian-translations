@@ -33,6 +33,21 @@
                         "required": false
                     }
                 ]
+            },
+            {
+                "type": 1,
+                "components": [
+                    {
+                        "type": 4,
+                        "custom_id": "emoji",
+                        "label": "client.I18n.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].label')",
+                        "placeholder": "client.I18n.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].placeholder')",
+                        "style": 1,
+                        "min_length": 1,
+                        "max_length": 2,
+                        "required": false
+                    }
+                ]
             }
         ]
     }
