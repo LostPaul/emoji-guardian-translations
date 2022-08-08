@@ -9,6 +9,10 @@
             {
                 "label": "Libellé de l'autocollant",
                 "placeholder": "Insérez ici la nouvelle description de l'autocollant."
+            },
+            {
+                "label": "Related emoji (unicode emoji)",
+                "placeholder": "Insert the new related emoji for the sticker here."
             }
         ]
     }
