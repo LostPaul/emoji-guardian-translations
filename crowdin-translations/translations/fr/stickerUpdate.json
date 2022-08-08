@@ -9,6 +9,6 @@
     ],
     "embed": {
         "title": "Autocollant mis à jour",
-        "description": "[{sticker_old_name_option}Ancien nom : {current_sticker_name}\nNouveau nom : {new_sticker_name}][{sticker_old_related_emoji_option}Ancien émoji lié : {current_sticker_tags}\nNouvel émoji lié : {new_sticker_tags}][{sticker_new_description_option}\nVieille description : {current_sticker_description}\nNouvelle description : {new_sticker_description}]\nIdentifiant autocollant: {current_sticker_id}\nMis à jour par {text}[{reason_option}\nRaison : ]{reason}"
+        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}\nOld related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}"
     }
 }
