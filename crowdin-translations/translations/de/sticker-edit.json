@@ -1,6 +1,6 @@
 {
-    "description": "Die neue Beschreibung für den Sticker `{sticker_name}` ist {interaction_options_description}\n",
-    "name": "Der neue Name für den Sticker `{sticker_name}` ist {interaction_options_name}\n",
-    "emoji": "Der neue ähnliche Emoji für den Sticker `{sticker_name}` ist {interaction_options_emoji}\n",
+    "description": "\nThe new description for the sticker `{sticker_name}` is {interaction_options_description}",
+    "name": "\nThe new name for the sticker `{sticker_name}` is {interaction_options_name}",
+    "emoji": "\nThe new related emoji for the sticker `{sticker_name}` is {text}",
     "reason": "Bearbeitet von {user_tag} ({user_id})"
 }
