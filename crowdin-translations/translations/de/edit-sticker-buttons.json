@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "Änder den Namen oder die Beschreibung des Stickers",
+        "title": "Bearbeite den Sticker zum Beispiel den namen",
         "components": [
             {
                 "label": "Sticker Name",
