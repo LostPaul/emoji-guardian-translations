@@ -1,4 +1,4 @@
 {
-    "emoji": "\nThe new related emoji for the sticker `{sticker_name}` is {text}",
+    "emoji": "\nNowe powiązane emoji dla naklejki `{sticker_name}` to {text}",
     "reason": "Szerkesztve lett {user_tag} ({user_id}) által"
 }

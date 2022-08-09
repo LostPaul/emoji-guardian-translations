@@ -9,6 +9,6 @@
     ],
     "embed": {
         "title": "Matrica frissítve",
-        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}\nOld related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}"
+        "description": "[{sticker_old_name_option}Régi név: {current_sticker_name}\nÚj név: {new_sticker_name}][{sticker_old_related_emoji_option}\nRégi hozzátartozó hangulatjel: {current_sticker_tags}\nÚj hozzátartozó hangulatjel: {new_sticker_tags}][{sticker_new_description_option}\nRégi leírás: {current_sticker_description}\\nÚj leírás: {new_sticker_description}]\nMatrica azonosító: {current_sticker_id}\nFrissítve ő általa: {text}[{reason_option}\nIndoklás: ]{reason}"
     }
 }
