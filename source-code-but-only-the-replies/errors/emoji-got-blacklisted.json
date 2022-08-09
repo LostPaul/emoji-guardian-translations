@@ -8,6 +8,6 @@
             "url": "{current_emoji_url}"
         },
         "description": "client.I18n.get(locale, 'emoji-got-blacklisted', 'log.description')",
-        "timestamp": "{new Date()}"
+        "timestamp": "{timestamp}"
     }
 }
