@@ -1,6 +1,4 @@
 {
-    "description": "\nThe new description for the sticker `{sticker_name}` is {interaction_options_description}",
-    "name": "\nThe new name for the sticker `{sticker_name}` is {interaction_options_name}",
     "emoji": "\nEl nuevo emoji relacionado con la pegatina `{sticker_name}` es {text}",
     "reason": "Editado por {user_tag} ({user_id})"
 }
