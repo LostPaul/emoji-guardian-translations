@@ -1,4 +1,4 @@
 {
-    "description": "\nThe new description for the sticker `{sticker_name}` is {placeholder}",
-    "name": "\nThe new name for the sticker `{sticker_name}` is {text}"
+    "description": "\nLa nouvelle description pour l'autocollant `{sticker_name}` est {placeholder}",
+    "name": "\nLe nouveau nom pour l'autocollant `{sticker_name}` est {text}"
 }
