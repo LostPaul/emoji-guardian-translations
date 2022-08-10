@@ -5,10 +5,10 @@
         "title": "Emoji info",
         "fields": [
             {
-                "name": "Name:"
+                "name": "Όνομα:"
             },
             {
-                "name": "ID:"
+                "name": "Αναγνωριστικό:"
             },
             {
                 "name": "Managed:"
