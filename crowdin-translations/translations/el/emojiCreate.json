@@ -4,7 +4,7 @@
             "label": "Delete Emoji"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Επεξεργασία ονόματος Emoji"
         }
     ],
     "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",

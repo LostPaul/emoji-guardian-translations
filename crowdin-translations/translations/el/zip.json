@@ -1,5 +1,5 @@
 {
-    "start": "Zipping {guild_name}'s emojis",
-    "progress": "Zipping {guild_name}'s emojis {count}",
-    "done": "Zipped {guild_name}'s emojis"
+    "start": "Συμπιέζοντας τα emoji του διακομιστή {guild_name} σε μορφή zip...",
+    "progress": "Συμπιέζοντας τα {count} emoji του διακομιστή {guild_name} σε μορφή zip...",
+    "done": "Συμπίεσα τα emoji του διακομιστή {guild_name} σε μορφή zip"
 }

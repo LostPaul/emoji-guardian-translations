@@ -3,7 +3,7 @@
         "title": "Server report form",
         "components": [
             {
-                "label": "Server ID",
+                "label": "Αναγνωριστικό διακομιστή",
                 "placeholder": "Insert the ID from the server here."
             },
             {

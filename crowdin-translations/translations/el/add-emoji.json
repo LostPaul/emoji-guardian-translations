@@ -1,13 +1,13 @@
 {
-    "content": "You created the emoji {placeholder}",
-    "reason": "Created by {user_tag} ({user_id})",
+    "content": "Δημιουργήσατε το emoji {placeholder}",
+    "reason": "Δημιουργήθηκε από το άτομο {user_tag} ({user_id})",
     "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
     "components": [
         {
             "label": "First emoji"
         },
         {
-            "label": "All emojis"
+            "label": "Όλα τα emojis"
         }
     ]
 }
