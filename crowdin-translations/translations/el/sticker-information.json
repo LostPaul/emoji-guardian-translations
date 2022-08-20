@@ -4,19 +4,19 @@
     "false": "False",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Πληροφορίες σχετικά με ένα αυτοκόλλητο",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Όνομα:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "Αναγνωριστικό αυτοκόλλητου:"
                 },
                 {
                     "name": "Format:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Περιγραφή:"
                 },
                 {
                     "name": "Tags:"
