@@ -1,5 +1,5 @@
 {
-    "unlock": "client.I18n.get(locale, 'lockall', 'unlock')",
-    "lock": "client.I18n.get(locale, 'lockall', 'lock')",
-    "cancel": "client.I18n.get(locale, 'lockall', 'cancel')"
+    "unlock": "client.Language.get(locale, 'lockall', 'unlock')",
+    "lock": "client.Language.get(locale, 'lockall', 'lock')",
+    "cancel": "client.Language.get(locale, 'lockall', 'cancel')"
 }

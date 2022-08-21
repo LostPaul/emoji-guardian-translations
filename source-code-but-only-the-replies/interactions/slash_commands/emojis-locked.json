@@ -1,14 +1,14 @@
 {
-    "content": "client.I18n.get(locale, 'emojis-locked', 'content')",
+    "content": "client.Language.get(locale, 'emojis-locked', 'content')",
     "embed": {
         "color": "2f3136",
-        "title": "client.I18n.get(locale, 'emojis-locked', 'embed.title')",
+        "title": "client.Language.get(locale, 'emojis-locked', 'embed.title')",
         "description": "{text}",
         "thumbnail": {
             "url": "{interaction_guild_icon}"
         },
         "footer": {
-            "text": "client.I18n.get(locale, 'emojis-locked', 'embed.footer.text')"
+            "text": "client.Language.get(locale, 'emojis-locked', 'embed.footer.text')"
         }
     }
 }

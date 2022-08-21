@@ -1,13 +1,13 @@
 {
-    "reply": "client.I18n.get(locale, 'blacklist-list', 'reply')",
+    "reply": "client.Language.get(locale, 'blacklist-list', 'reply')",
     "embed": {
-        "title": "client.I18n.get(locale, 'blacklist-list', 'embed.title')",
+        "title": "client.Language.get(locale, 'blacklist-list', 'embed.title')",
         "color": "2f3136",
         "thumbnail": {
             "url": "{interaction_guild_icon}"
         },
         "footer": {
-            "text": "client.I18n.get(locale, 'blacklist-list', 'embed.footer.text')"
+            "text": "client.Language.get(locale, 'blacklist-list', 'embed.footer.text')"
         },
         "description": "{blacklisted_emojis}"
     }

@@ -1,13 +1,13 @@
 {
-    "content_without_creator": "client.I18n.get(locale, 'emoji-got-blacklisted', 'content_without_creator')",
-    "content_with_creator": "client.I18n.get(locale, 'emoji-got-blacklisted', 'content_with_creator')",
+    "content_without_creator": "client.Language.get(locale, 'emoji-got-blacklisted', 'content_without_creator')",
+    "content_with_creator": "client.Language.get(locale, 'emoji-got-blacklisted', 'content_with_creator')",
     "log": {
-        "title": "client.I18n.get(locale, 'emoji-got-blacklisted', 'log.title')",
+        "title": "client.Language.get(locale, 'emoji-got-blacklisted', 'log.title')",
         "color": "de3163",
         "thumbnail": {
             "url": "{current_emoji_url}"
         },
-        "description": "client.I18n.get(locale, 'emoji-got-blacklisted', 'log.description')",
+        "description": "client.Language.get(locale, 'emoji-got-blacklisted', 'log.description')",
         "timestamp": "{timestamp}"
     }
 }

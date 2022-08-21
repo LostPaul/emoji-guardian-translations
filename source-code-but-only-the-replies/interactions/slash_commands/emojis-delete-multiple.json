@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'emojis-delete-multiple', 'content')",
-    "reason": "client.I18n.get(locale, 'emojis-delete-multiple', 'reason')"
+    "content": "client.Language.get(locale, 'emojis-delete-multiple', 'content')",
+    "reason": "client.Language.get(locale, 'emojis-delete-multiple', 'reason')"
 }

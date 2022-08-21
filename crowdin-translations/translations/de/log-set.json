@@ -1,4 +1,4 @@
 {
-    "content": "Du hast den Log-Kanal auf <#{interaction_options_channel} > gesetzt",
+    "content": "Du hast den Log-Kanal auf <#{interaction_options_channel}> gesetzt",
     "log": "{user_tag} hat den Log auf diesen Kanal gesetzt"
 }

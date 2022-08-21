@@ -1,46 +1,46 @@
 {
-    "nothing": "client.I18n.get(locale, 'emoji-info', 'nothing')",
-    "true": "client.I18n.get(locale, 'emoji-info', 'true')",
-    "false": "client.I18n.get(locale, 'emoji-info', 'false')",
+    "nothing": "client.Language.get(locale, 'emoji-info', 'nothing')",
+    "true": "client.Language.get(locale, 'emoji-info', 'true')",
+    "false": "client.Language.get(locale, 'emoji-info', 'false')",
     "embed": {
         "color": "2f3136",
-        "title": "client.I18n.get(locale, 'emoji-info', 'embed.title')", 
+        "title": "client.Language.get(locale, 'emoji-info', 'embed.title')", 
         "thumbnail": {
             "url": "{current_emoji_url}"
         },
         "fields": [
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[0].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[0].name')",
                 "value": "{current_emoji_name}",
                 "inline": true
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[1].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[1].name')",
                 "value": "{current_emoji_id}",
                 "inline": true
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[2].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[2].name')",
                 "value": "{current_emoji_managed}",
                 "inline": true
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[3].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[3].name')",
                 "value": "{current_emoji_roles}",
                 "inline": false
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[4].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[4].name')",
                 "value": "<t:{current_emoji_creation_timestamp}:D>",
                 "inline": true
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[5].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[5].name')",
                 "value": "{current_emoji_author}",
                 "inline": true
             },
             {
-                "name": "client.I18n.get(locale, 'emoji-info', 'embed.fields', 'array[6].name')",
+                "name": "client.Language.get(locale, 'emoji-info', 'embed.fields', 'array[6].name')",
                 "value": "[Click here]({current_emoji_url})",
                 "inline": true
             }

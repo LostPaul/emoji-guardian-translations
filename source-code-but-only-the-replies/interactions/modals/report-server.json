@@ -1,5 +1,5 @@
 {
-    "content": "client.I18n.get(locale, 'report-server', 'content')",
+    "content": "client.Language.get(locale, 'report-server', 'content')",
     "embed": {
         "title": "Server report",
         "color": "2f3136",

@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'sticker-add', 'content')",
-    "reason": "client.I18n.get(locale, 'sticker-add', 'reason')"
+    "content": "client.Language.get(locale, 'sticker-add', 'content')",
+    "reason": "client.Language.get(locale, 'sticker-add', 'reason')"
 }

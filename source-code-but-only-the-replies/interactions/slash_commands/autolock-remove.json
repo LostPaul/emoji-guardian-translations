@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'autolock-remove', 'content')",
-    "log": "client.I18n.get(locale, 'autolock-remove', 'log')"
+    "content": "client.Language.get(locale, 'autolock-remove', 'content')",
+    "log": "client.Language.get(locale, 'autolock-remove', 'log')"
 }

@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'emoji-edit', 'content')",
-    "reason": "client.I18n.get(locale, 'emoji-edit', 'reason')"
+    "content": "client.Language.get(locale, 'emoji-edit', 'content')",
+    "reason": "client.Language.get(locale, 'emoji-edit', 'reason')"
 }

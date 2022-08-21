@@ -1,4 +1,4 @@
 {
-    "guild": "client.I18n.get(locale, 'languagereset', 'guild')",
-    "user": "client.I18n.get(locale, 'languagereset', 'user')"
+    "guild": "client.Language.get(locale, 'languagereset', 'guild')",
+    "user": "client.Language.get(locale, 'languagereset', 'user')"
 }

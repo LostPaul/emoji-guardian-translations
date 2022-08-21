@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'sticker-delete', 'content')",
-    "reason": "client.I18n.get(locale, 'sticker-delete', 'reason')"
+    "content": "client.Language.get(locale, 'sticker-delete', 'content')",
+    "reason": "client.Language.get(locale, 'sticker-delete', 'reason')"
 }

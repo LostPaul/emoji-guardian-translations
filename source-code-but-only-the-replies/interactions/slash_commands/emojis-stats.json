@@ -1,7 +1,7 @@
 {
-    "static": "client.I18n.get(locale, 'emojis-stats', 'static')",
-    "animated": "client.I18n.get(locale, 'emojis-stats', 'animated')",
-    "all": "client.I18n.get(locale, 'emojis-stats', 'all')",
-    "locked": "client.I18n.get(locale, 'emojis-stats', 'locked')",
-    "stickers": "client.I18n.get(locale, 'emojis-stats', 'stickers')"
+    "static": "client.Language.get(locale, 'emojis-stats', 'static')",
+    "animated": "client.Language.get(locale, 'emojis-stats', 'animated')",
+    "all": "client.Language.get(locale, 'emojis-stats', 'all')",
+    "locked": "client.Language.get(locale, 'emojis-stats', 'locked')",
+    "stickers": "client.Language.get(locale, 'emojis-stats', 'stickers')"
 }

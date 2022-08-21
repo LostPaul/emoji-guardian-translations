@@ -1,33 +1,33 @@
 {
-    "info_content": "client.I18n.get(locale, 'help', 'info_content')",
+    "info_content": "client.Language.get(locale, 'help', 'info_content')",
     "info": {
-        "title": "client.I18n.get(locale, 'help', 'info.title')",
+        "title": "client.Language.get(locale, 'help', 'info.title')",
         "color": "2f3136",
         "description": "{text}"
     },
-    "content": "client.I18n.get(locale, 'help', 'content')",
+    "content": "client.Language.get(locale, 'help', 'content')",
     "embed": {
-        "title": "client.I18n.get(locale, 'help', 'embed.title')",
+        "title": "client.Language.get(locale, 'help', 'embed.title')",
         "color": "2f3136",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/947877196561793034/EG_Logo.png"
         },
         "fields": [
             {
-                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[0].name')",
-                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[0].value')"
+                "name": "client.Language.get(locale, 'help', 'embed.fields', 'array[0].name')",
+                "value": "client.Language.get(locale, 'help', 'embed.fields', 'array[0].value')"
             },
             {
-                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[1].name')",
-                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[1].value')"
+                "name": "client.Language.get(locale, 'help', 'embed.fields', 'array[1].name')",
+                "value": "client.Language.get(locale, 'help', 'embed.fields', 'array[1].value')"
             },
             {
-                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].name')",
-                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[2].value')"
+                "name": "client.Language.get(locale, 'help', 'embed.fields', 'array[2].name')",
+                "value": "client.Language.get(locale, 'help', 'embed.fields', 'array[2].value')"
             },
             {
-                "name": "client.I18n.get(locale, 'help', 'embed.fields', 'array[3].name')",
-                "value": "client.I18n.get(locale, 'help', 'embed.fields', 'array[3].value')"
+                "name": "client.Language.get(locale, 'help', 'embed.fields', 'array[3].name')",
+                "value": "client.Language.get(locale, 'help', 'embed.fields', 'array[3].value')"
             }
         ]
     },
@@ -40,27 +40,27 @@
                     "custom_id": "help",
                     "options": [
                         {
-                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[0].label')",
+                            "label": "client.Language.get(locale, 'help', 'components', 'array[0].options[0].label')",
                             "value": "help",
-                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[0].description')"
+                            "description": "client.Language.get(locale, 'help', 'components', 'array[0].options[0].description')"
                         },
                         {
-                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[1].label')",
+                            "label": "client.Language.get(locale, 'help', 'components', 'array[0].options[1].label')",
                             "value": "single",
-                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[1].description')"
+                            "description": "client.Language.get(locale, 'help', 'components', 'array[0].options[1].description')"
                         },
                         {
-                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[2].label')",
+                            "label": "client.Language.get(locale, 'help', 'components', 'array[0].options[2].label')",
                             "value": "multiple",
-                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[2].description')"
+                            "description": "client.Language.get(locale, 'help', 'components', 'array[0].options[2].description')"
                         },
                         {
-                            "label": "client.I18n.get(locale, 'help', 'components', 'array[0].options[3].label')",
+                            "label": "client.Language.get(locale, 'help', 'components', 'array[0].options[3].label')",
                             "value": "other",
-                            "description": "client.I18n.get(locale, 'help', 'components', 'array[0].options[3].description')"
+                            "description": "client.Language.get(locale, 'help', 'components', 'array[0].options[3].description')"
                         }
                     ],
-                    "placeholder": "client.I18n.get(locale, 'help', 'components', 'array[0].placeholder')"
+                    "placeholder": "client.Language.get(locale, 'help', 'components', 'array[0].placeholder')"
                 }
             ]
         },
@@ -69,19 +69,19 @@
             "components": [
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'help', 'components', 'array[1].label')",
+                    "label": "client.Language.get(locale, 'help', 'components', 'array[1].label')",
                     "style": 5,
                     "url": "https://discord.gg/EbBsuxVNYT"
                 },
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'help', 'components', 'array[2].label')",
+                    "label": "client.Language.get(locale, 'help', 'components', 'array[2].label')",
                     "style": 5,
                     "url": "https://discord.com/api/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands"
                 },
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'help', 'components', 'array[3].label')",
+                    "label": "client.Language.get(locale, 'help', 'components', 'array[3].label')",
                     "style": 5,
                     "url": "https://about.emojiguardian.xyz"
                 }

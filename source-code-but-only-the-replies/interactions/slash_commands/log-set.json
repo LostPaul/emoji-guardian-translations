@@ -1,4 +1,4 @@
 {
-    "content": "client.I18n.get(locale, 'log-set', 'content')",
-    "log": "client.I18n.get(locale, 'log-set', 'log')"
+    "content": "client.Language.get(locale, 'log-set', 'content')",
+    "log": "client.Language.get(locale, 'log-set', 'log')"
 }

@@ -1,12 +1,12 @@
 {
-    "content": "client.I18n.get(locale, 'blacklist-remove-all-emojis', 'content')",
+    "content": "client.Language.get(locale, 'blacklist-remove-all-emojis', 'content')",
     "log": {
-        "title": "client.I18n.get(locale, 'blacklist-remove-all-emojis', 'log.title')",
+        "title": "client.Language.get(locale, 'blacklist-remove-all-emojis', 'log.title')",
         "color": "ff7331",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586658533386/eg_unblacklist.png"
         },
-        "description": "client.I18n.get(locale, 'blacklist-remove-all-emojis', 'log.description')",
+        "description": "client.Language.get(locale, 'blacklist-remove-all-emojis', 'log.description')",
         "timestamp": "{timestamp}"
     }
 }

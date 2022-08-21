@@ -1,20 +1,20 @@
 {
-    "content": "client.I18n.get(locale, 'add-emoji', 'content')",
-    "reason": "client.I18n.get(locale, 'add-emoji', 'reason')",
-    "choice": "client.I18n.get(locale, 'add-emoji', 'choice')",
+    "content": "client.Language.get(locale, 'add-emoji', 'content')",
+    "reason": "client.Language.get(locale, 'add-emoji', 'reason')",
+    "choice": "client.Language.get(locale, 'add-emoji', 'choice')",
     "components": [
         {
             "type": 1,
             "components": [
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'add-emoji', 'components', 'array[0].label')",
+                    "label": "client.Language.get(locale, 'add-emoji', 'components', 'array[0].label')",
                     "style": 1,
                     "custom_id": "[\"add emoji context\", \"first\", \"{placeholder}\"]"
                 },
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'add-emoji', 'components', 'array[1].label')",
+                    "label": "client.Language.get(locale, 'add-emoji', 'components', 'array[1].label')",
                     "style": 1,
                     "custom_id": "[\"add emoji context\", \"all\"]"
                 }

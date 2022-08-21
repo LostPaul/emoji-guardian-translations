@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "client.I18n.get(locale, 'report-user-button', 'modal.title')",
+        "title": "client.Language.get(locale, 'report-user-button', 'modal.title')",
         "custom_id": "[\"report user\", \"{placeholder}\"]",
         "components": [
             {
@@ -9,11 +9,11 @@
                     {
                         "type": 4,
                         "custom_id": "userid",
-                        "label": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[0].label')",
+                        "label": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[0].label')",
                         "style": 1,
                         "min_length": 10,
                         "max_length": 24,
-                        "placeholder": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[0].placeholder')",
+                        "placeholder": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[0].placeholder')",
                         "required": true
                     }
                 ]
@@ -24,11 +24,11 @@
                     {
                         "type": 4,
                         "custom_id": "reason",
-                        "label": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[1].label')",
+                        "label": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[1].label')",
                         "style": 2,
                         "min_length": 30,
                         "max_length": 1000,
-                        "placeholder": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[1].placeholder')",
+                        "placeholder": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[1].placeholder')",
                         "required": true
                     }
                 ]
@@ -39,11 +39,11 @@
                     {
                         "type": 4,
                         "custom_id": "image",
-                        "label": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[2].label')",
+                        "label": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[2].label')",
                         "style": 2,
                         "min_length": 10,
                         "max_length": 500,
-                        "placeholder": "client.I18n.get(locale, 'report-user-button', 'modal.components', 'array[2].placeholder')",
+                        "placeholder": "client.Language.get(locale, 'report-user-button', 'modal.components', 'array[2].placeholder')",
                         "required": false
                     }
                 ]

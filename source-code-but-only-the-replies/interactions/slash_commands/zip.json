@@ -1,5 +1,5 @@
 {
-    "start": "client.I18n.get(locale, 'zip', 'start')",
-    "progress": "client.I18n.get(locale, 'zip', 'progress')",
-    "done": "client.I18n.get(locale, 'zip', 'done')"
+    "start": "client.Language.get(locale, 'zip', 'start')",
+    "progress": "client.Language.get(locale, 'zip', 'progress')",
+    "done": "client.Language.get(locale, 'zip', 'done')"
 }

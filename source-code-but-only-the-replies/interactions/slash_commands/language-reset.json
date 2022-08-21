@@ -1,19 +1,19 @@
 {
-    "content": "client.I18n.get(locale, 'language-reset', 'content')",
-    "not-enough-perms": "client.I18n.get(locale, 'language-reset', 'not-enough-perms')",
+    "content": "client.Language.get(locale, 'language-reset', 'content')",
+    "not-enough-perms": "client.Language.get(locale, 'language-reset', 'not-enough-perms')",
     "components": [
         {
             "type": 1,
             "components": [
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'language-reset', 'components', 'array[0].label')",
+                    "label": "client.Language.get(locale, 'language-reset', 'components', 'array[0].label')",
                     "style": 1,
                     "custom_id": "[\"languagereset\", \"guild\"]"
                 },
                 {
                     "type": 2,
-                    "label": "client.I18n.get(locale, 'language-reset', 'components', 'array[1].label')",
+                    "label": "client.Language.get(locale, 'language-reset', 'components', 'array[1].label')",
                     "style": 2,
                     "custom_id": "[\"languagereset\", \"user\"]"
                 }
