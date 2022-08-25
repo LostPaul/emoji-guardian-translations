@@ -1,0 +1,23 @@
+{
+    "modal": {
+        "title": "Server report form",
+        "components": [
+            {
+                "label": "Server ID",
+                "placeholder": "Insert the ID from the server here."
+            },
+            {
+                "label": "The reason for the report",
+                "placeholder": "Insert the reason for your report here."
+            },
+            {
+                "label": "Invite link for the server",
+                "placeholder": "Insert the invite to the server here."
+            },
+            {
+                "label": "Image url related to the report",
+                "placeholder": "Insert images related to the report here."
+            }
+        ]
+    }
+}
