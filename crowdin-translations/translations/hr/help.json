@@ -1,0 +1,60 @@
+{
+    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info": {
+        "title": "Information about \"{placeholder}\""
+    },
+    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "embed": {
+        "title": "Emoji Guardian Help Page",
+        "fields": [
+            {
+                "name": "{emoji_bot}About Emoji Guardian",
+                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+            },
+            {
+                "name": "{emoji_tools}How can I see the commands?",
+                "value": "> Click under the buttons on the select menu and select a command category."
+            },
+            {
+                "name": "{emoji_support}How can I get support?",
+                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+            },
+            {
+                "name": "{emoji_translate}How can I change the language of the bot?",
+                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+            }
+        ]
+    },
+    "components": [
+        {
+            "options": [
+                {
+                    "label": "Help Page",
+                    "description": "The main help page"
+                },
+                {
+                    "label": "Single emoji commands",
+                    "description": "Commands which work with only one emoji"
+                },
+                {
+                    "label": "Commands that work multiple emojis",
+                    "description": "Command which work with more than one emoji"
+                },
+                {
+                    "label": "Blacklist/Other commands",
+                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                }
+            ],
+            "placeholder": "Select a category"
+        },
+        {
+            "label": "Support server"
+        },
+        {
+            "label": "Invite link"
+        },
+        {
+            "label": "Website"
+        }
+    ]
+}
