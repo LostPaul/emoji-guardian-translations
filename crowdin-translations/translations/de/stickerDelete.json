@@ -1,6 +1,6 @@
 {
     "embed": {
         "title": "Sticker gelöscht",
-        "description": "Name: {current_sticker_name}\nÄhnliches Emoji: {current_sticker_tags}[{sticker_description_option}\nBeschreibung: ]{current_sticker_description}\nEntfernt von: {text}[{reason_option}\nGrund: ]{reason}"
+        "description": "Name: {current_sticker_name}\nÄhnliches Emoji: {current_sticker_tags}[{sticker_description_option}\nBeschreibung: {current_sticker_description}]\nEntfernt von: {text}[{reason_option}\nGrund: ]{reason}"
     }
 }
