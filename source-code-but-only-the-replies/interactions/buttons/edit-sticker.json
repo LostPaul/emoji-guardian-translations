@@ -27,7 +27,8 @@
                         "custom_id": "description",
                         "label": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].label')",
                         "placeholder": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
-                        "style": 1,
+                        "value": "{modalValue2}",
+                        "style": 2,
                         "min_length": 2,
                         "max_length": 100,
                         "required": false
@@ -42,6 +43,7 @@
                         "custom_id": "emoji",
                         "label": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].label')",
                         "placeholder": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].placeholder')",
+                        "value": "{stickerTags}",
                         "style": 1,
                         "min_length": 1,
                         "max_length": 2,
