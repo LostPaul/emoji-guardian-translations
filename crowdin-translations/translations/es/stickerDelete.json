@@ -1,6 +1,6 @@
 {
     "embed": {
         "title": "Pegatina eliminada",
-        "description": "Nombre: {current_sticker_name}\nEmojis relacionados: {current_sticker_tags}[{sticker_description_option}:\nDescripción: ]{current_sticker_description}\nRemovido por: {text}[{reason_option}\nRazón: ]{reason}"
+        "description": "Nombre: {current_sticker_name}\nEmojis relacionados: {current_sticker_tags}[{sticker_description_option}:\nDescripción: {current_sticker_description}]\nRemovido por: {text}[{reason_option}\nRazón: ]{reason}"
     }
 }

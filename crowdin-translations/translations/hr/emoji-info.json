@@ -1,0 +1,30 @@
+{
+    "true": "True",
+    "false": "False",
+    "embed": {
+        "title": "Emoji info",
+        "fields": [
+            {
+                "name": "Name:"
+            },
+            {
+                "name": "ID:"
+            },
+            {
+                "name": "Managed:"
+            },
+            {
+                "name": "Roles that have access to the emoji:"
+            },
+            {
+                "name": "Uploaded at:"
+            },
+            {
+                "name": "Uploaded by:"
+            },
+            {
+                "name": "Download link:"
+            }
+        ]
+    }
+}
