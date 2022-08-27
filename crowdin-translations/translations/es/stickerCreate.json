@@ -9,6 +9,6 @@
     ],
     "embed": {
         "title": "Pegatina creada",
-        "description": "Nombre: {current_sticker_name}\nEmojis relacionados: {current_sticker_tags}[{sticker_description_option}:\nDescripción: ]{current_sticker_description}\nAñadido por: {text}[{reason_option}\nRazón: ]{reason}"
+        "description": "Nombre: {current_sticker_name}\nEmojis relacionados: {current_sticker_tags}[{sticker_description_option}:\nDescripción: {current_sticker_description}]\nAñadido por: {text}[{reason_option}\nRazón: ]{reason}"
     }
 }
