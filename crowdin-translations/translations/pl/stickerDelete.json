@@ -1,6 +1,6 @@
 {
     "embed": {
         "title": "Usunięto naklejkę",
-        "description": "Nazwa: {current_sticker_name}\nPowiązane emoji: {current_sticker_tags}[{sticker_description_option}\nOpis: ]{current_sticker_description}\nUsunięto przez: {text}[{reason_option}\nPowód: ]{reason}"
+        "description": "Nazwa: {current_sticker_name}\nPowiązane emoji: {current_sticker_tags}[{sticker_description_option}\nOpis: {current_sticker_description}]\nUsunięto przez: {text}[{reason_option}\nPowód: ]{reason}"
     }
 }
