@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Izbriši Emoji"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Uredite naziv emotikona"
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "{emoji} `({current_emoji_name})` stvorio je {text} [{reason_option}s razlogom ]{reason}",
     "embed": {
-        "title": "Emoji created",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji stvoren",
+        "description": "`{emoji}` \nDodao {text}[{reason_option}\nRazlog: ]{reason}"
     }
 }
