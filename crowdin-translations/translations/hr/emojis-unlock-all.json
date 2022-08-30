@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to unlock all emojis from a role?",
+    "content": "Jeste li sigurni da želite otključati sve emojije iz uloge?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Potvrdi"
         },
         {
-            "label": "Cancel"
+            "label": "Otkaži"
         }
     ]
 }

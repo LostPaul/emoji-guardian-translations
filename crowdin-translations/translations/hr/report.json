@@ -1,11 +1,11 @@
 {
-    "content": "Do you want to report a user or a server choose it by clicking on one of the buttons.",
+    "content": "Želite li prijaviti korisnika ili poslužitelj odaberite ga klikom na jedan od gumba.",
     "components": [
         {
             "label": "Server"
         },
         {
-            "label": "User"
+            "label": "Korisnik"
         }
     ]
 }

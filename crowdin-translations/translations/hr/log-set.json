@@ -1,4 +1,4 @@
 {
-    "content": "You set the log channel to <#{interaction_options_channel}>",
-    "log": "{user_tag} set the log to this channel"
+    "content": "Postavili ste kanal bilježenja na <#{interaction_options_channel}>",
+    "log": "{user_tag} je postavio kanal bilježenja za ovaj server"
 }

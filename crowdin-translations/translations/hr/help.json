@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Možete vidjeti samo ovu poruku, a ne i embed?\nPročitajte ovo https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Informacije o \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Možete vidjeti samo padajući izbornik i gumbe?\nPročitajte ovo https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Stranica za pomoć",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}O Emoji Guardianu",
+                "value": "> Emoji Guardian je bot posebno za emoji servere.\n> S Botom možete puno učiniti s emotikonima poput zaključavanja emojija za ulogu i još mnogo toga."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}Kako mogu vidjeti naredbe?",
+                "value": "> Kliknite ispod gumba na izborniku za odabir i odaberite kategoriju naredbi."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Kako mogu dobiti podršku?",
+                "value": "> Možete se pridružiti [serveru za podršku](https://discord.gg/EbBsuxVNYT) ili možete poslati DM `Lost Paul#3453` ili `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Kako mogu promijeniti jezik bota?",
+                "value": "> Jezik bota možete promijeniti pomoću naredbe `/language set`\n> Vaš jezik nije tamo? Možete početi prevoditi na https://translate.emojiguardian.xyz/"
             }
         ]
     },
@@ -29,32 +29,32 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Stranica pomoći",
+                    "description": "Glavna stranica pomoći"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Naredbe za pojedinačne emotikone",
+                    "description": "Naredbe koje rade samo s jednim emotikonom"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Naredbe koje rade s više emojija",
+                    "description": "Naredba koja radi s više od jednog emojija"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Crna lista/Ostale naredbe",
+                    "description": "Naredbe crne liste i druge naredbe osim naredbi za jedan ili više emotikona"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Izaberi kategoriju"
         },
         {
-            "label": "Support server"
+            "label": "Server podrške"
         },
         {
-            "label": "Invite link"
+            "label": "Pozivni link"
         },
         {
-            "label": "Website"
+            "label": "Web stranica"
         }
     ]
 }
