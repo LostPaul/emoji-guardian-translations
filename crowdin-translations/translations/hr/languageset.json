@@ -1,4 +1,4 @@
 {
-    "guild": "You changed the bot's language for this server to {new_language_button}",
-    "user": "You changed the language of the bot to {new_language_button}"
+    "guild": "Promijenili ste jezik bota za ovaj server u {new_language_button}",
+    "user": "Promijenili ste jezik bota u {new_language_button}"
 }
