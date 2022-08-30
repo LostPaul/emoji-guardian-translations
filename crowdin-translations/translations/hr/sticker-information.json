@@ -1,34 +1,34 @@
 {
-    "no_description": "No description",
-    "true": "True",
-    "false": "False",
+    "no_description": "Bez opisa",
+    "true": "Točno",
+    "false": "Netočno",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Informacije o naljepnici",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Ime:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "ID naljepnice:"
                 },
                 {
                     "name": "Format:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Opis:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Oznake:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Dostupno:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Učitano u:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Učitao:"
                 }
             ]
         }
