@@ -1,4 +1,4 @@
 {
-    "emoji": "\nThe new related emoji for the sticker `{sticker_name}` is {text}",
-    "reason": "Edited by {user_tag} ({user_id})"
+    "emoji": "\nNovi povezani emoji za naljepnicu `{sticker_name}` je {text}",
+    "reason": "Uredio {user_tag} ({user_id})"
 }
