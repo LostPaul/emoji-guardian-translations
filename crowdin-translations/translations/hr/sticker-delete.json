@@ -1,4 +1,4 @@
 {
-    "content": "You deleted the sticker with the name {sticker_name}",
-    "reason": "Deleted by {user_tag} ({user_id})"
+    "content": "Izbrisali ste naljepnicu s nazivom {sticker_name}",
+    "reason": "Izbrisao {user_tag} ({user_id})"
 }
