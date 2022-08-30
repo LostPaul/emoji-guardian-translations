@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "User report form",
+        "title": "Obrazac za prijavu korisnika",
         "components": [
             {
-                "label": "User ID",
-                "placeholder": "Insert the ID from the user here."
+                "label": "ID korisnika",
+                "placeholder": "Ovdje unesite ID korisnika."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Razlog prijave",
+                "placeholder": "Ovdje unesite razlog svoje prijave."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "URL slike povezan s izvješćem",
+                "placeholder": "Ovdje umetnite slike povezane s izvješćem."
             }
         ]
     }
