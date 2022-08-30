@@ -1,5 +1,5 @@
 {
-    "content": "client.Language.get(locale, 'add-emoji-context', 'content')",
-    "reason": "client.Language.get(locale, 'add-emoji-context', 'reason')",
-    "single": "client.Language.get(locale, 'add-emoji-context', 'single')"
+    "content": "client.language.get(locale, 'add-emoji-context', 'content')",
+    "reason": "client.language.get(locale, 'add-emoji-context', 'reason')",
+    "single": "client.language.get(locale, 'add-emoji-context', 'single')"
 }

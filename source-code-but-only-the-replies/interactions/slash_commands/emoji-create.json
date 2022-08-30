@@ -1,4 +1,4 @@
 {
-    "content": "client.Language.get(locale, 'emoji-create', 'content')",
-    "reason": "client.Language.get(locale, 'emoji-create', 'reason')"
+    "content": "client.language.get(locale, 'emoji-create', 'content')",
+    "reason": "client.language.get(locale, 'emoji-create', 'reason')"
 }

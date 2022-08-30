@@ -1,4 +1,4 @@
 {
-    "content": "client.Language.get(locale, 'log-remove', 'content')",
-    "log": "client.Language.get(locale, 'log-remove', 'log')"
+    "content": "client.language.get(locale, 'log-remove', 'content')",
+    "log": "client.language.get(locale, 'log-remove', 'log')"
 }

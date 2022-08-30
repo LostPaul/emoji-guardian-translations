@@ -1,4 +1,4 @@
 {
-    "content": "client.Language.get(locale, 'autolock-enable', 'content')",
-    "log": "client.Language.get(locale, 'autolock-enable', 'log')"
+    "content": "client.language.get(locale, 'autolock-enable', 'content')",
+    "log": "client.language.get(locale, 'autolock-enable', 'log')"
 }

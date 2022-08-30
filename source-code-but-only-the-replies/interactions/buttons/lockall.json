@@ -1,5 +1,5 @@
 {
-    "unlock": "client.Language.get(locale, 'lockall', 'unlock')",
-    "lock": "client.Language.get(locale, 'lockall', 'lock')",
-    "cancel": "client.Language.get(locale, 'lockall', 'cancel')"
+    "unlock": "client.language.get(locale, 'lockall', 'unlock')",
+    "lock": "client.language.get(locale, 'lockall', 'lock')",
+    "cancel": "client.language.get(locale, 'lockall', 'cancel')"
 }

@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.title')",
+        "title": "client.language.get(locale, 'edit-sticker-buttons', 'modal.title')",
         "custom_id": "[\"edit sticker\", \"{text}\"]",
         "components": [
             {
@@ -9,8 +9,8 @@
                     {
                         "type": 4,
                         "custom_id": "name",
-                        "label": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[0].label')",
-                        "placeholder": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
+                        "label": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[0].label')",
+                        "placeholder": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
                         "value": "{modalValue}",
                         "style": 1,
                         "min_length": 2,
@@ -25,8 +25,8 @@
                     {
                         "type": 4,
                         "custom_id": "description",
-                        "label": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].label')",
-                        "placeholder": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
+                        "label": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].label')",
+                        "placeholder": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[1].placeholder')",
                         "value": "{modalValue2}",
                         "style": 2,
                         "min_length": 2,
@@ -41,8 +41,8 @@
                     {
                         "type": 4,
                         "custom_id": "emoji",
-                        "label": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].label')",
-                        "placeholder": "client.Language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].placeholder')",
+                        "label": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].label')",
+                        "placeholder": "client.language.get(locale, 'edit-sticker-buttons', 'modal.components', 'array[2].placeholder')",
                         "value": "{stickerTags}",
                         "style": 1,
                         "min_length": 1,

@@ -1,11 +1,11 @@
 {
     "embed": {
         "color": "bd00fe",
-        "title": "client.Language.get(locale, 'stickerDelete', 'embed.title')",
+        "title": "client.language.get(locale, 'stickerDelete', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "client.Language.get(locale, 'stickerDelete', 'embed.description')",
+        "description": "client.language.get(locale, 'stickerDelete', 'embed.description')",
         "timestamp": "{timestamp}"    
     }
 }

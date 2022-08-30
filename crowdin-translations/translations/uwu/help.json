@@ -1,0 +1,60 @@
+{
+    "info_content": "you cawn onwy see thiws message awnd nowt the embed?\nthen wead thiws https://docs.emojiguardian.xyz/troubleshooting",
+    "info": {
+        "title": "infowmation abouwt \"{placeholder}\""
+    },
+    "content": "you cawn onwy see the dwopdown awnd the buttons?\nthen wead thiws https://docs.emojiguardian.xyz/troubleshooting",
+    "embed": {
+        "title": "emoji guawdian hewp page",
+        "fields": [
+            {
+                "name": "{emoji_bot}about emoji guawdian",
+                "value": "> emoji guawdian iws a bot especiawwy fow emoji sewvews.\n> with the bot, uwu cawn duwu a wot with emojis wike wocking an emoji tuwu a wowe awnd much mowe."
+            },
+            {
+                "name": "{emoji_tools}how cawn i see the commands?",
+                "value": "> cwick undew the buttons own the sewect menu awnd sewect a command categowy."
+            },
+            {
+                "name": "{emoji_support}how cawn i get suppowt?",
+                "value": "> uwu cawn join [suppowt sewvew](https://discord.gg/EbBsuxVNYT) ow uwu cawn dm `wost pauw#3453` ow `danu#4422`"
+            },
+            {
+                "name": "{emoji_translate}how cawn i change the wanguage of the bot?",
+                "value": "> uwu cawn change the wanguage of the bot by using the command `/wanguage set`\n> youw wanguage isn't thewe? then uwu cawn stawt twanswating iwt at https://translate.emojiguardian.xyz/"
+            }
+        ]
+    },
+    "components": [
+        {
+            "options": [
+                {
+                    "label": "hewp page",
+                    "description": "the main hewp page"
+                },
+                {
+                    "label": "singwe emoji commands",
+                    "description": "commands which wowk with onwy owne emoji"
+                },
+                {
+                    "label": "commands thawt wowk muwtipwe emojis",
+                    "description": "command which wowk with mowe than owne emoji"
+                },
+                {
+                    "label": "bwackwist/othew commands",
+                    "description": "bwackwist commands awnd othew commands than singwe awnd muwtipwe emojis commands"
+                }
+            ],
+            "placeholder": "sewect a categowy"
+        },
+        {
+            "label": "suppowt sewvew"
+        },
+        {
+            "label": "invite wink"
+        },
+        {
+            "label": "website"
+        }
+    ]
+}

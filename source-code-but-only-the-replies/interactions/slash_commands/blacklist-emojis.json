@@ -1,12 +1,12 @@
 {
-    "content": "client.Language.get(locale, 'blacklist-emojis', 'content')",
+    "content": "client.language.get(locale, 'blacklist-emojis', 'content')",
     "log": {
-        "title": "client.Language.get(locale, 'blacklist-emojis', 'log.title')",
+        "title": "client.language.get(locale, 'blacklist-emojis', 'log.title')",
         "color": "74698c",
         "thumbnail": {
             "url": "https://cdn.discordapp.com/attachments/914115279351578655/914119586469801994/eg_blacklist.png"
         },
-        "description": "client.Language.get(locale, 'blacklist-emojis', 'log.description')",
+        "description": "client.language.get(locale, 'blacklist-emojis', 'log.description')",
         "timestamp": "{timestamp}"
     }
 }

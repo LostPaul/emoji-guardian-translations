@@ -1,4 +1,4 @@
 {
-    "content": "client.Language.get(locale, 'sticker-create', 'content')",
-    "reason": "client.Language.get(locale, 'sticker-create', 'reason')"
+    "content": "client.language.get(locale, 'sticker-create', 'content')",
+    "reason": "client.language.get(locale, 'sticker-create', 'reason')"
 }

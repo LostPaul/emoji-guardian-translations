@@ -1,5 +1,5 @@
 {
-    "start": "client.Language.get(locale, 'zip', 'start')",
-    "progress": "client.Language.get(locale, 'zip', 'progress')",
-    "done": "client.Language.get(locale, 'zip', 'done')"
+    "start": "client.language.get(locale, 'zip', 'start')",
+    "progress": "client.language.get(locale, 'zip', 'progress')",
+    "done": "client.language.get(locale, 'zip', 'done')"
 }

@@ -1,51 +1,51 @@
 {
-    "no_description": "client.Language.get(locale, 'sticker-information', 'no_description')",
-    "true": "client.Language.get(locale, 'sticker-information', 'true')",
-    "false": "client.Language.get(locale, 'sticker-information', 'false')",
+    "no_description": "client.language.get(locale, 'sticker-information', 'no_description')",
+    "true": "client.language.get(locale, 'sticker-information', 'true')",
+    "false": "client.language.get(locale, 'sticker-information', 'false')",
     "embed": {
         "color": "2f3136",
-        "title": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].title')",
+        "title": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].title')",
         "thumbnail": {
             "url": "{text}"
         },
         "fields": [
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[0].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[0].name')",
                 "value": "{current_sticker_name}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[1].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[1].name')",
                 "value": "{current_sticker_id}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[2].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[2].name')",
                 "value": "{current_sticker_format}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[3].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[3].name')",
                 "value": "{current_sticker_description_info}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[4].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[4].name')",
                 "value": "{current_sticker_tags}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[5].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[5].name')",
                 "value": "{current_sticker_available}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[6].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[6].name')",
                 "value": "{placeholder}",
                 "inline": true
             },
             {
-                "name": "client.Language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[7].name')",
+                "name": "client.language.get(locale, 'sticker-information', 'embeds', 'array[0].fields[7].name')",
                 "value": "{current_sticker_author}",
                 "inline": true
             }

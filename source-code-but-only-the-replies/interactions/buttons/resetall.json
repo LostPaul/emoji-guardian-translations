@@ -1,4 +1,4 @@
 {
-    "reset": "client.Language.get(locale, 'resetall', 'reset')",
-    "cancel": "client.Language.get(locale, 'resetall', 'cancel')"
+    "reset": "client.language.get(locale, 'resetall', 'reset')",
+    "cancel": "client.language.get(locale, 'resetall', 'cancel')"
 }

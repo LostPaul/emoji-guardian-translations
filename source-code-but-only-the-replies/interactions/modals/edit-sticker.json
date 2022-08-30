@@ -1,6 +1,6 @@
 {
-    "description": "client.Language.get(locale, 'edit-sticker', 'description')",
-    "name": "client.Language.get(locale, 'edit-sticker', 'name')",
-    "emoji": "client.Language.get(locale, 'sticker-edit', 'emoji')",
-    "reason": "client.Language.get(locale, 'sticker-edit', 'reason')"
+    "description": "client.language.get(locale, 'edit-sticker', 'description')",
+    "name": "client.language.get(locale, 'edit-sticker', 'name')",
+    "emoji": "client.language.get(locale, 'sticker-edit', 'emoji')",
+    "reason": "client.language.get(locale, 'sticker-edit', 'reason')"
 }

@@ -1,6 +1,6 @@
 {
     "modal": {
-        "title": "client.Language.get(locale, 'emoji-edit-buttons', 'modal.title')",
+        "title": "client.language.get(locale, 'emoji-edit-buttons', 'modal.title')",
         "custom_id": "[\"emoji edit\", \"{text}\"]",
         "components": [
             {
@@ -9,12 +9,12 @@
                     {
                         "type": 4,
                         "custom_id": "name",
-                        "label": "client.Language.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].label')",
+                        "label": "client.language.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].label')",
                         "value": "{modalValue}",
                         "style": 1,
                         "min_length": 2,
                         "max_length": 32,
-                        "placeholder": "client.Language.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].placeholder')",
+                        "placeholder": "client.language.get(locale, 'emoji-edit-buttons', 'modal.components', 'array[0].placeholder')",
                         "required": true
                     }
                 ]

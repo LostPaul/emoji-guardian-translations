@@ -1,4 +1,4 @@
 {
-    "guild": "client.Language.get(locale, 'languageset', 'guild')",
-    "user": "client.Language.get(locale, 'languageset', 'user')"
+    "guild": "client.language.get(locale, 'languageset', 'guild')",
+    "user": "client.language.get(locale, 'languageset', 'user')"
 }

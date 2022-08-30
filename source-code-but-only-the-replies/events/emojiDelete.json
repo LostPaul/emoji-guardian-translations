@@ -1,12 +1,12 @@
 {
-    "compact": "client.Language.get(locale, 'emojiDelete', 'compact')",
+    "compact": "client.language.get(locale, 'emojiDelete', 'compact')",
     "embed": {
         "color": "de3163",
-        "title": "client.Language.get(locale, 'emojiDelete', 'embed.title')",
+        "title": "client.language.get(locale, 'emojiDelete', 'embed.title')",
         "thumbnail": {
             "url": "{placeholder}"
         },
-        "description": "client.Language.get(locale, 'emojiDelete', 'embed.description')",
+        "description": "client.language.get(locale, 'emojiDelete', 'embed.description')",
         "timestamp": "{timestamp}"
     }
 }
