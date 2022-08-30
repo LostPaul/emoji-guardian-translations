@@ -1,22 +1,22 @@
 {
     "modal": {
-        "title": "Server report form",
+        "title": "Obrazac izvješća servera",
         "components": [
             {
-                "label": "Server ID",
-                "placeholder": "Insert the ID from the server here."
+                "label": "ID servera",
+                "placeholder": "Ovdje unesite ID servera."
             },
             {
-                "label": "The reason for the report",
-                "placeholder": "Insert the reason for your report here."
+                "label": "Razlog prijave",
+                "placeholder": "Ovdje unesite razlog svoje prijave."
             },
             {
-                "label": "Invite link for the server",
-                "placeholder": "Insert the invite to the server here."
+                "label": "Pozivni link za server",
+                "placeholder": "Ovdje umetnite pozivnicu za server."
             },
             {
-                "label": "Image url related to the report",
-                "placeholder": "Insert images related to the report here."
+                "label": "URL slike povezan s izvješćem",
+                "placeholder": "Ovdje umetnite slike povezane s izvješćem."
             }
         ]
     }
