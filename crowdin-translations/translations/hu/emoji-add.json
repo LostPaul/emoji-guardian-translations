@@ -1,4 +1,4 @@
 {
-    "content": "You created the emoji {emoji}",
-    "reason": "Created by {user_tag} ({user_id})"
+    "content": "Létrehoztad az alábbi hangulatjelet {emoji}",
+    "reason": "Létrehozva {user_tag} ({user_id}) által"
 }
