@@ -1,3 +1,3 @@
 {
-    "content": "Du musst erst ein Webhook löschen, bevor du den Command nochmal benutzst oder du änderst die webhook option zu false."
+    "content": "You need to delete a webhook first before running the command again or you can change the webhook option to false."
 }
