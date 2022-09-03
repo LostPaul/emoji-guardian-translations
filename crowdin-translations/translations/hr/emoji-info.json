@@ -1,29 +1,29 @@
 {
-    "true": "True",
-    "false": "False",
+    "true": "Točno",
+    "false": "Netočno",
     "embed": {
-        "title": "Emoji info",
+        "title": "Emoji informacije",
         "fields": [
             {
-                "name": "Name:"
+                "name": "Ime:"
             },
             {
                 "name": "ID:"
             },
             {
-                "name": "Managed:"
+                "name": "Upravljan:"
             },
             {
-                "name": "Roles that have access to the emoji:"
+                "name": "Uloge koje imaju pristup emojijima:"
             },
             {
-                "name": "Uploaded at:"
+                "name": "Učitano u:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "Prenio:"
             },
             {
-                "name": "Download link:"
+                "name": "Poveznica za preuzimanje:"
             }
         ]
     }
