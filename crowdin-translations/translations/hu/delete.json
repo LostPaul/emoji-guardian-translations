@@ -1,8 +1,8 @@
 {
-    "reason": "Törölve {user_tag} ({user_id}) által",
+    "reason": "Deleted by {user_tag} ({user_id})",
     "components": [
         {
-            "label": "Törölve"
+            "label": "Deleted"
         }
     ]
 }
