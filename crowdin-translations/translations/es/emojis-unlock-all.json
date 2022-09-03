@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to unlock all emojis from a role?",
+    "content": "¿Estás seguro de que quieres desbloquear todos los emojis de un rol?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Confirmar"
         },
         {
-            "label": "Cancel"
+            "label": "Cancelar"
         }
     ]
 }
