@@ -1,7 +1,7 @@
 {
-    "content": "You removed the emojis {blacklist_emojis} from the blacklist",
+    "content": "Vous avez supprimé les émoticônes {blacklist_emojis} de la liste noire",
     "log": {
-        "title": "Emojis got removed from the blacklist",
-        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
+        "title": "Les émojis ont été retirés de la liste noire",
+        "description": "Émoticônes : {text}\nBlacklistées par\nÉtiquette d'utilisateur : {user_tag}\nIdentifiant d'utilisateur : {interaction_user_id}"
     }
 }
