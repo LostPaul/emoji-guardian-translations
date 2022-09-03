@@ -1,5 +1,5 @@
 {
-    "content": "Вы создали эмодзи {emojis}",
-    "reason": "Создано {user_tag} ({user_id})",
-    "single": "Вы создали эмодзи {emoji}"
+    "content": "You created the emojis {emojis}",
+    "reason": "Created by {user_tag} ({user_id})",
+    "single": "You created the emoji {emoji}"
 }
