@@ -1,7 +1,7 @@
 {
-    "content": "You removed the emojis {blacklist_emojis} from the blacklist",
+    "content": "Eltávolította a {blacklist_emojis} hangulatjeleket a feketelistáról",
     "log": {
-        "title": "Emojis got removed from the blacklist",
-        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
+        "title": "Az összes hangulatjel el lett távolítva a feketelistáról",
+        "description": "Hangulatjelek: {text}\nFeketelistára helyezve\nFelhasználó címke: {user_tag}\nFelhasználó azonosító: {interaction_user_id}"
     }
 }
