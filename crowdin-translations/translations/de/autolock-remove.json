@@ -1,4 +1,4 @@
 {
-    "content": "Du hast den Autolock für Emojis für diesen Server deaktiviert.",
-    "log": "{interaction_user_tag} hat den Autolock für die Emojis deaktiviert."
+    "content": "You disabled the autolock for emojis for this server.",
+    "log": "{interaction_user_tag} Disabled the autolock for the emojis."
 }
