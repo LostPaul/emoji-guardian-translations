@@ -1,7 +1,7 @@
 {
-    "content": "Bu sunucudaki tüm emojileri kara listeden kaldırdın",
+    "content": "You removed all emojis from this server from the blacklist",
     "log": {
-        "title": "Tüm Emojiler kara listeden kaldırıldı",
-        "description": "Kara listeye alan\nKullanıcı İsmi: {user_tag}\nKullanıcı IDsi: {interaction_user_id}"
+        "title": "All Emojis got removed from the blacklist",
+        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
     }
 }
