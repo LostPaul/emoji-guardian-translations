@@ -1,8 +1,8 @@
 {
-    "audit_log": "Unlocked by {user_tag}",
+    "audit_log": "{user_tag} tarafından kilidi açıldı",
     "components": [
         {
-            "label": "Unlocked"
+            "label": "Kilidi açıldı"
         }
     ]
 }
