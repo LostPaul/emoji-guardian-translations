@@ -1,9 +1,9 @@
 {
-    "reply": "Te emotki z tego serwera są na czarnej liście do dodania przez użycie Emoji Guardian.",
+    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist} emotikony na czarnej liście",
+        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
         "footer": {
-            "text": "Używany przez {user_tag}"
+            "text": "Used by {user_tag}"
         }
     }
 }
