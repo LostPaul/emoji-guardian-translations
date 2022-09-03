@@ -1,8 +1,8 @@
 {
-    "audit_log": "Déverrouillé par {user_tag}",
+    "audit_log": "Unlocked by {user_tag}",
     "components": [
         {
-            "label": "Déverrouillé"
+            "label": "Unlocked"
         }
     ]
 }
