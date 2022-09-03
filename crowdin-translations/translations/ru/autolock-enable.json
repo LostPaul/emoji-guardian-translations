@@ -1,4 +1,4 @@
 {
-    "content": "Вы включили авто блокировку для {autolock_roles} каждый добавленный на ваш сервер эмодзи теперь получает роли.",
-    "log": "{interaction_user_tag} Включил авто блокировку для {autolock_roles}"
+    "content": "You enabled the autolock for {autolock_roles} every emoji that gets added to your server gets now the roles.",
+    "log": "{interaction_user_tag} Enabled the autolock for {autolock_roles}"
 }
