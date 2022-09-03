@@ -1,11 +1,11 @@
 {
-    "content": "Bist du sicher, dass du alle Emojis auf eine Rolle sperren möchtest?",
+    "content": "Are you sure that you want to lock all emojis to a role?",
     "components": [
         {
-            "label": "Bestätigen"
+            "label": "Confirm"
         },
         {
-            "label": "Abbrechen"
+            "label": "Cancel"
         }
     ]
 }
