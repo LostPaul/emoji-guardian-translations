@@ -8,7 +8,7 @@
         "title": "Emoji Guardian Help Page",
         "fields": [
             {
-                "name": "{emoji_bot}Σχετικά με το Emoji Guardian",
+                "name": "{emoji_bot}About Emoji Guardian",
                 "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
             },
             {
@@ -45,16 +45,16 @@
                     "description": "Blacklist commands and other commands than single and multiple emojis commands"
                 }
             ],
-            "placeholder": "Επιλέξτε μια κατηγορία"
+            "placeholder": "Select a category"
         },
         {
-            "label": "Διακομιστής υποστήριξης"
+            "label": "Support server"
         },
         {
-            "label": "Σύνδεσμος πρόσκλησης"
+            "label": "Invite link"
         },
         {
-            "label": "Ιστοσελίδα"
+            "label": "Website"
         }
     ]
 }
