@@ -1,7 +1,7 @@
 {
-    "content": "Pusiste a la lista negra los emojis {blacklist_emojis}",
+    "content": "You blacklisted the emojis {blacklist_emojis}",
     "log": {
-        "title": "Los emojis se han puesto a la lista negra",
-        "description": "Emojis: {text}\nPuesto a la lista negra por\nUsuario: {user_tag}\nID del usuario: {interaction_user_id}\nComentario: {interaction_options_comment}\nCreador: {interaction_options_creator}"
+        "title": "Emojis got blacklisted",
+        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
     }
 }
