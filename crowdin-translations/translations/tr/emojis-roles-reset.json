@@ -1,11 +1,11 @@
 {
-    "content": "Tüm emojilerin rollerini sıfırlamak istediğinizden emin misiniz?",
+    "content": "Are you sure that you want to reset the roles of all the emojis?",
     "components": [
         {
-            "label": "Onayla"
+            "label": "Confirm"
         },
         {
-            "label": "İptal et"
+            "label": "Cancel"
         }
     ]
 }
