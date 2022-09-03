@@ -1,5 +1,5 @@
 {
-    "content": "Létrehoztad az alábbi hangulatjelet {emojis}",
-    "reason": "Létrehozva {user_tag} ({user_id}) által",
-    "single": "Létrehoztad az alábbi hangulatjelet {emoji}"
+    "content": "You created the emojis {emojis}",
+    "reason": "Created by {user_tag} ({user_id})",
+    "single": "You created the emoji {emoji}"
 }
