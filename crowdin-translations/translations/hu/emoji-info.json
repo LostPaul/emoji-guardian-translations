@@ -1,29 +1,29 @@
 {
-    "true": "Igaz",
-    "false": "Hamis",
+    "true": "True",
+    "false": "False",
     "embed": {
-        "title": "Hangulatjel információ",
+        "title": "Emoji info",
         "fields": [
             {
-                "name": "Név:"
+                "name": "Name:"
             },
             {
-                "name": "Azonosító:"
+                "name": "ID:"
             },
             {
-                "name": "Kezelő:"
+                "name": "Managed:"
             },
             {
-                "name": "Szerepkörök, amelyek hozzáférnek a hangulatjelhez:"
+                "name": "Roles that have access to the emoji:"
             },
             {
-                "name": "Feltöltve:"
+                "name": "Uploaded at:"
             },
             {
-                "name": "Feltöltötte:"
+                "name": "Uploaded by:"
             },
             {
-                "name": "Letölthető innen:"
+                "name": "Download link:"
             }
         ]
     }
