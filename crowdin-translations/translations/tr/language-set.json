@@ -3,10 +3,10 @@
     "not-enough-perms": "You changed the language of the bot to {new_language}",
     "components": [
         {
-            "label": "Bu Sunucu"
+            "label": "This server"
         },
         {
-            "label": "Tüm sunucular"
+            "label": "Every server"
         }
     ]
 }
