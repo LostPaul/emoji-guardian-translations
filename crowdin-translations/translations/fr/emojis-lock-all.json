@@ -1,11 +1,11 @@
 {
-    "content": "Êtes-vous sûr de vouloir verrouiller tous les emojis à un rôle ?",
+    "content": "Are you sure that you want to lock all emojis to a role?",
     "components": [
         {
-            "label": "Valider"
+            "label": "Confirm"
         },
         {
-            "label": "Abandonner"
+            "label": "Cancel"
         }
     ]
 }
