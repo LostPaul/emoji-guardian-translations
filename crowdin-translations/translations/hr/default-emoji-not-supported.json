@@ -1,3 +1,3 @@
 {
-    "content": "Morate koristiti važeći emoji. Primjer: `<:emoji_ghost:658538492321595393>`\nBot ne podržava zadane discord emojije kao što je 🐨."
+    "content": "You need to use a valid emoji. Example: `<:emoji_ghost:658538492321595393>`\nDefault discord emojis like 🐨 aren't supported by the bot."
 }
