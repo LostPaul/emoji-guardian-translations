@@ -1,4 +1,4 @@
 {
-    "content": "Onemogućili ste automatsko zaključavanje za emojije za ovaj server.",
-    "log": "{interaction_user_tag} Onemogućeno je automatsko zaključavanje za emojije."
+    "content": "You disabled the autolock for emojis for this server.",
+    "log": "{interaction_user_tag} Disabled the autolock for the emojis."
 }
