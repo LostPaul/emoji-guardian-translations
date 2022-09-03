@@ -1,10 +1,10 @@
 {
     "modal": {
-        "title": "Choose a new name for the emoji",
+        "title": "Choisissez un nouveau nom pour l'émoji",
         "components": [
             {
                 "label": "Emoji Name",
-                "placeholder": "Insert the new name for the emoji here."
+                "placeholder": "Insérez ici le nouveau nom de l'émoji."
             }
         ]
     }
