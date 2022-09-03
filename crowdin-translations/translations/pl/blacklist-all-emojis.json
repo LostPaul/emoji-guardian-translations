@@ -1,7 +1,7 @@
 {
-    "content": "Wpisałeś na czarną listę wszystkie emoji z tego serwera od dodania za pomocą Emoji Guardian.",
+    "content": "You blacklisted all emojis from this server from being added with Emoji Guardian.",
     "log": {
-        "title": "Wszystkie Emoji zostały wpisane na czarną listę",
-        "description": "Wpisany na czarną listę przez\nTag użytkownika: {user_tag}\nID: użytkownika: {interaction_user_id}\nKomentarz: {interaction_options_comment}\nStworzył: {interaction_options_creator}"
+        "title": "All Emojis got blacklisted",
+        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
     }
 }
