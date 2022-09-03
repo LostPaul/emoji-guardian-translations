@@ -2,19 +2,19 @@
     "true": "True",
     "false": "False",
     "embed": {
-        "title": "Πληροφορίες Emoji",
+        "title": "Emoji info",
         "fields": [
             {
-                "name": "Όνομα:"
+                "name": "Name:"
             },
             {
-                "name": "Αναγνωριστικό:"
+                "name": "ID:"
             },
             {
                 "name": "Managed:"
             },
             {
-                "name": "Οι ρόλοι που μπορούν να χρησιμοποιήσουν το emoji:"
+                "name": "Roles that have access to the emoji:"
             },
             {
                 "name": "Uploaded at:"
