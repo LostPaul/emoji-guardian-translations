@@ -1,9 +1,9 @@
 {
-    "reply": "Diese Emojis von diesem Server sind blockiert vom Hinzufügen mit Emoji Guardian.",
+    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s blockierte Emojis",
+        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
         "footer": {
-            "text": "Verwendet von {user_tag}"
+            "text": "Used by {user_tag}"
         }
     }
 }
