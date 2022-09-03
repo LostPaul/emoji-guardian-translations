@@ -1,3 +1,3 @@
 {
-    "content": "A parancs ismételt futtatása előtt törölnie kell egy webhookot, vagy módosíthatja a webhook beállítást hamis értékre."
+    "content": "You need to delete a webhook first before running the command again or you can change the webhook option to false."
 }
