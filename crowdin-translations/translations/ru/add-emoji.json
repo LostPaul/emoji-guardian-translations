@@ -1,13 +1,13 @@
 {
-    "content": "Вы создали эмодзи {placeholder}",
-    "reason": "Создано {user_tag} ({user_id})",
-    "choice": "Вы хотите добавить первые эмодзи из сообщения на ваш сервер или все эмодзи из сообщения на ваш сервер?",
+    "content": "You created the emoji {placeholder}",
+    "reason": "Created by {user_tag} ({user_id})",
+    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
     "components": [
         {
-            "label": "Первый эмодзи"
+            "label": "First emoji"
         },
         {
-            "label": "Все эмодзи"
+            "label": "All emojis"
         }
     ]
 }
