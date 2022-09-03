@@ -1,4 +1,4 @@
 {
-    "content": "You changed the name of the emoji {emoji} from `{current_emoji_name}` to `{new_emoji_name_interaction}`",
-    "reason": "Edited by {user_tag} ({user_id})"
+    "content": "Vous avez changé le nom de l'émoji {emoji} de `{current_emoji_name}` à `{new_emoji_name_interaction}`",
+    "reason": "Modifié par {user_tag} ({user_id})"
 }
