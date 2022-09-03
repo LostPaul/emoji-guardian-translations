@@ -1,13 +1,13 @@
 {
-    "content": "You created the emoji {placeholder}",
-    "reason": "Created by {user_tag} ({user_id})",
-    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
+    "content": "Bir emoji oluşturdun {placeholder}",
+    "reason": "{user_tag} ({user_id}) tarafından oluşturuldu",
+    "choice": "Mesajdaki ilk emojiyi mi yoksa mesajdaki tüm emojileri mi eklemek istiyorsunuz?",
     "components": [
         {
-            "label": "First emoji"
+            "label": "İlk emoji"
         },
         {
-            "label": "All emojis"
+            "label": "Tüm emojiler"
         }
     ]
 }
