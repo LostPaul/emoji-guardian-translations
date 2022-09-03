@@ -1,5 +1,5 @@
 {
-    "content": "Mga ginawang emoji — {emojis}",
-    "reason": "Ginawa ni {user_tag} ({user_id})",
-    "single": "Ang ginawang emoji — {emoji}"
+    "content": "You created the emojis {emojis}",
+    "reason": "Created by {user_tag} ({user_id})",
+    "single": "You created the emoji {emoji}"
 }
