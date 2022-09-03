@@ -1,6 +1,6 @@
 {
-    "true": "True",
-    "false": "False",
+    "true": "Ja",
+    "false": "Nein",
     "embed": {
         "title": "Emoji info",
         "fields": [
@@ -11,16 +11,16 @@
                 "name": "ID:"
             },
             {
-                "name": "Managed:"
+                "name": "Verwaltet:"
             },
             {
-                "name": "Roles that have access to the emoji:"
+                "name": "Rollen, die Zugriff auf den Emoji haben:"
             },
             {
-                "name": "Uploaded at:"
+                "name": "Hochgeladen am:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "Hochgeladen von:"
             },
             {
                 "name": "Download link:"
