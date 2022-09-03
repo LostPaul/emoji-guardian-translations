@@ -1,12 +1,12 @@
 {
-    "content": "Reset the language of the Bot to English.\n\"**This server**\" means that every message from this Bot that is visible to all is not translated anymore.\n\"**Every server**\" means that every message from this Bot that only you see is not being translated anymore.",
-    "not-enough-perms": "You reset the language of the bot to English.",
+    "content": "Réinitialiser la langue du bot en anglais.\n\"**Ce serveur**\" signifie que chaque message de ce Bot qui est visible à tous n'est plus traduit.\n\"**Tous les serveurs**\" signifie que chaque message de ce Bot que vous seul voyez n'est plus en cours de traduction.",
+    "not-enough-perms": "Vous réinitialisez la langue du bot en anglais.",
     "components": [
         {
-            "label": "This server"
+            "label": "Ce serveur"
         },
         {
-            "label": "Every server"
+            "label": "Tous les serveurs"
         }
     ]
 }
