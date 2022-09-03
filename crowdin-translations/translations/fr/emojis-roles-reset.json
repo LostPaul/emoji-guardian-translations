@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to reset the roles of all the emojis?",
+    "content": "Êtes-vous sûr de vouloir réinitialiser les rôles de tous les émoticônes ?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Valider"
         },
         {
-            "label": "Cancel"
+            "label": "Abandonner"
         }
     ]
 }
