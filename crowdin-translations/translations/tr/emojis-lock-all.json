@@ -1,11 +1,11 @@
 {
-    "content": "Tüm emojileri bir role kilitlemek istediğinizden emin misiniz?",
+    "content": "Are you sure that you want to lock all emojis to a role?",
     "components": [
         {
-            "label": "Onayla"
+            "label": "Confirm"
         },
         {
-            "label": "İptal et"
+            "label": "Cancel"
         }
     ]
 }
