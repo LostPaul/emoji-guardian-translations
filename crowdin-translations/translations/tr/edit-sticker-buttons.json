@@ -3,11 +3,11 @@
         "title": "Edit the sticker",
         "components": [
             {
-                "label": "Sticker adı",
+                "label": "Sticker name",
                 "placeholder": "Insert the new name for the sticker here."
             },
             {
-                "label": "Sticker açıklaması",
+                "label": "Sticker description",
                 "placeholder": "Insert the new description for the sticker here."
             },
             {
