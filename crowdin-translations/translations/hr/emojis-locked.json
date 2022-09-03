@@ -1,9 +1,9 @@
 {
-    "content": "These emojis are locked to a role.",
+    "content": "Ovi emojiji vezani su za ulogu.",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s locked emojis",
+        "title": "Zaključani emojiji korisnika {interaction_guild_name_blacklist}",
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "Koristi {user_tag}"
         }
     }
 }
