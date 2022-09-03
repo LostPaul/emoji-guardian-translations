@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to reset the roles of all the emojis?",
+    "content": "Biztos benne, hogy vissza szeretné állítani az összes hangulatjel szerepét?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Megerősítés"
         },
         {
-            "label": "Cancel"
+            "label": "Mégsem"
         }
     ]
 }
