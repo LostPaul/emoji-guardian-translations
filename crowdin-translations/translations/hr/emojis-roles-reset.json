@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to reset the roles of all the emojis?",
+    "content": "Jeste li sigurni da želite poništiti uloge svih emojija?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Potvrdi"
         },
         {
-            "label": "Cancel"
+            "label": "Otkaži"
         }
     ]
 }
