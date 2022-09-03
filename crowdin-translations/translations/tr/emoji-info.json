@@ -1,29 +1,29 @@
 {
-    "true": "True",
-    "false": "False",
+    "true": "Doğru",
+    "false": "Yanlış",
     "embed": {
-        "title": "Emoji info",
+        "title": "Emoji bilgisi",
         "fields": [
             {
-                "name": "Name:"
+                "name": "İsim:"
             },
             {
                 "name": "ID:"
             },
             {
-                "name": "Managed:"
+                "name": "Yönetiliyor:"
             },
             {
-                "name": "Roles that have access to the emoji:"
+                "name": "Emojiye erişimi olan roller:"
             },
             {
-                "name": "Uploaded at:"
+                "name": "Yüklenen zaman:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "Yükleyen:"
             },
             {
-                "name": "Download link:"
+                "name": "İndirme linki:"
             }
         ]
     }
