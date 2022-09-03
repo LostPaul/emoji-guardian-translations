@@ -1,3 +1,3 @@
 {
-    "content": "You unlocked the emojis {emojis} from {lock_roles} that means the roles can't access the emojis anymore unless the emojis have no roles anymore."
+    "content": "Feloldotta a {emojis} hangulatjel zárolását innen {lock_roles}, ami azt jelenti, hogy a szerepek többé nem férhetnek hozzá az emojihoz, hacsak az emojinak már nincs szerepe."
 }
