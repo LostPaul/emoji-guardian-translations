@@ -1,8 +1,8 @@
 {
-    "reason": "Deleted by {user_tag} ({user_id})",
+    "reason": "Διαγράφηκε από το άτομο {user_tag} ({user_id})",
     "components": [
         {
-            "label": "Deleted"
+            "label": "Διαγράφηκε"
         }
     ]
 }
