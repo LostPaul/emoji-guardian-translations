@@ -1,4 +1,4 @@
 {
-    "content": "Zaključali ste {emojis} na {lock_roles} što znači da svaki korisnik s ovog poslužitelja koji ima jednu od uloga može pristupiti emojijima.",
+    "content": "You locked {emojis} to {lock_roles} that means every user from this server that has one of the roles can access the emojis.",
     "reason": "Locked by {user_tag} ({user_id})"
 }
