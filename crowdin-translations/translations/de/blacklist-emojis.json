@@ -1,7 +1,7 @@
 {
-    "content": "Du hast die Emojis {blacklist_emojis} vom Hinzufügen mit Emoji Guardian blockiert.",
+    "content": "You blacklisted the emojis {blacklist_emojis}",
     "log": {
-        "title": "Emojis wurden geblacklisted",
-        "description": "Emojis: {text}\nGeblacklisted von\nBenutzer Tag: {user_tag}\nBenutzer ID: {interaction_user_id}\nKommentar: {interaction_options_comment}\nErsteller: {interaction_options_creator}"
+        "title": "Emojis got blacklisted",
+        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
     }
 }
