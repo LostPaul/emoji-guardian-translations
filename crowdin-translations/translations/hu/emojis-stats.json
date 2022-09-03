@@ -1,7 +1,7 @@
 {
-    "static": "{boolean_emoji} Static Emojis: {count}\n",
-    "animated": "{boolean_emoji} Animated Emojis: {count}\n",
-    "all": "{boolean_emoji} All Emojis: {count}\n",
-    "locked": "{boolean_emoji} Locked Emojis: {count}\n",
-    "stickers": "{boolean_emoji} Stickers: {count}\n"
+    "static": "{boolean_emoji} Statikus hangulatjelek: {count}\n",
+    "animated": "{boolean_emoji} Animált hangulatjelek: {count}\n",
+    "all": "{boolean_emoji} Összes hangulatjel: {count}\n",
+    "locked": "{boolean_emoji} Zárolt hangulatjelek: {count}\n",
+    "stickers": "{boolean_emoji} Matricák: {count}\n"
 }
