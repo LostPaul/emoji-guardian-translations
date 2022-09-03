@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Voir l'autocollant",
+        "title": "Edit the sticker",
         "components": [
             {
-                "label": "Nom de l'autocollant",
-                "placeholder": "Insérez le nouveau nom de l'autocollant ici."
+                "label": "Sticker name",
+                "placeholder": "Insert the new name for the sticker here."
             },
             {
-                "label": "Libellé de l'autocollant",
-                "placeholder": "Insérez ici la nouvelle description de l'autocollant."
+                "label": "Sticker description",
+                "placeholder": "Insert the new description for the sticker here."
             },
             {
-                "label": "Émoticônes connexes (emojis unicodes)",
-                "placeholder": "Insérez ici le nouvel emoji lié à l'autocollant."
+                "label": "Related emoji (unicode emoji)",
+                "placeholder": "Insert the new related emoji for the sticker here."
             }
         ]
     }
