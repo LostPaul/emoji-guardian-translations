@@ -1,4 +1,4 @@
 {
-    "content": "You deleted the emojis {emojis}",
-    "reason": "Deleted by {user_tag} ({user_id})"
+    "content": "Törölted az alábbi hangulatjelet/hangulatjeleket {emojis}",
+    "reason": "Törölve {user_tag} ({user_id}) által"
 }
