@@ -1,7 +1,7 @@
 {
-    "content": "Stavili ste emojije na crnu listu {blacklist_emojis}",
+    "content": "You blacklisted the emojis {blacklist_emojis}",
     "log": {
-        "title": "Emojiji su stavljeni na crnu listu",
-        "description": "Emojiji: {text}\nNa crnoj listi od\nKorisnička oznaka: {user_tag}\nID korisnika: {interaction_user_id}\nKomentar: {interaction_options_comment}\nKreator: {interaction_options_creator}"
+        "title": "Emojis got blacklisted",
+        "description": "Emojis: {text}\nBlacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
     }
 }
