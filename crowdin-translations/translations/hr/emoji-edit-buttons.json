@@ -1,10 +1,10 @@
 {
     "modal": {
-        "title": "Odaberite novi naziv za emoji",
+        "title": "Choose a new name for the emoji",
         "components": [
             {
-                "label": "Ime emotikona",
-                "placeholder": "Ovdje unesite novi naziv za emoji."
+                "label": "Emoji Name",
+                "placeholder": "Insert the new name for the emoji here."
             }
         ]
     }
