@@ -1,13 +1,13 @@
 {
-    "content": "Létrehoztad az alábbi hangulatjelet {placeholder}",
-    "reason": "Létrehozva {user_tag} ({user_id}) által",
-    "choice": "Hozzá szeretné adni az üzenet első hangulatjelét a szerveréhez, vagy az üzenet összes hangulatjelét a szerverhez?",
+    "content": "You created the emoji {placeholder}",
+    "reason": "Created by {user_tag} ({user_id})",
+    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
     "components": [
         {
-            "label": "Első hangulatjel"
+            "label": "First emoji"
         },
         {
-            "label": "Összes hangulatjel"
+            "label": "All emojis"
         }
     ]
 }
