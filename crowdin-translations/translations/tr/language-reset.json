@@ -3,10 +3,10 @@
     "not-enough-perms": "You reset the language of the bot to English.",
     "components": [
         {
-            "label": "Bu Sunucu"
+            "label": "This server"
         },
         {
-            "label": "Tüm sunucular"
+            "label": "Every server"
         }
     ]
 }
