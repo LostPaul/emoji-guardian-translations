@@ -1,7 +1,7 @@
 {
-    "content": "Du hast alle Emojis von diesem Server von der Blacklist entfernt",
+    "content": "You removed all emojis from this server from the blacklist",
     "log": {
-        "title": "Alle Emojis wurden von der Blacklist entfernt",
-        "description": "Gesperrt durch\nBenutzer Tag: {user_tag}\nBenutzer ID: {interaction_user_id}"
+        "title": "All Emojis got removed from the blacklist",
+        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
     }
 }
