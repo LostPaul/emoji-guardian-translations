@@ -1,11 +1,11 @@
 {
-    "compact": "{emoji} `({current_emoji_name})`[{new_name_option} Changed it's name from {current_emoji_name} to {new_emoji_name}][{lock_emoji_roles} Changed it's roles from {old_roles} to {new_roles}]",
+    "compact": "{emoji} `({current_emoji_name})`[{new_name_option} a changé son nom de {current_emoji_name} à {new_emoji_name}][{lock_emoji_roles} a changé ses rôles de {old_roles} à {new_roles}]",
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Supprimer les emojis"
         },
         {
-            "label": "Edit Emoji Name"
+            "label": "Modifier le nom de l'émoji"
         }
     ],
     "components_with_unlock": [
@@ -14,7 +14,7 @@
         }
     ],
     "embed": {
-        "title": "Emoji updated",
-        "description": "[{old_name_option}Old name: {current_emoji_name}][{new_name_option}\nNew name: {new_emoji_name}][{lock_emoji_roles}Name: `{current_emoji_name}`\nOld roles: {old_roles}\nNew roles: {new_roles}]\nEmoji ID: {current_emoji_id}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji mis à jour",
+        "description": "[{old_name_option}Ancien nom : {current_emoji_name}][{new_name_option}\nNouveau nom : {new_emoji_name}][{lock_emoji_roles}Nom : `{current_emoji_name}`\nAnciens rôles : {old_roles}\nNouveaux rôles : {new_roles}]\nID Emoji : {current_emoji_id}[{reason_option}\nRaison : ]{reason}"
     }
 }
