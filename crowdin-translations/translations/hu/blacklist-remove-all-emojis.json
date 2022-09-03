@@ -1,7 +1,7 @@
 {
-    "content": "Eltávolította az összes hangulatjelet a szerver tiltólistájáról",
+    "content": "You removed all emojis from this server from the blacklist",
     "log": {
-        "title": "Az összes hangulatjel el lett távolítva a feketelistáról",
-        "description": "Feketelistára helyezve\nFelhasználó címke: {user_tag}\nFelhasználó azonosító: {interaction_user_id}"
+        "title": "All Emojis got removed from the blacklist",
+        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}"
     }
 }
