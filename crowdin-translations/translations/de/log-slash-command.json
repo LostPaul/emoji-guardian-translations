@@ -1,22 +1,22 @@
 {
     "name": "log",
-    "description": "Set or remove the log for Emoji Guardian for your server",
+    "description": "Setze oder entferne den log für Emoji Guardian für deinem Server",
     "options": [
         {
-            "name": "remove",
-            "description": "Remove the log for Emoji Guardian for your server"
+            "name": "entfernen",
+            "description": "Entfernen den log für Emoji Guardian von deinem Server"
         },
         {
             "name": "setzen",
-            "description": "Set the log for Emoji Guardian for your server",
+            "description": "Setze den log für Emoji Guardian für deinem Server",
             "options": [
                 {
-                    "name": "channel",
-                    "description": "The channel in which the log will be located"
+                    "name": "kanal",
+                    "description": "Der Kanal, in dem der Log sein wird"
                 },
                 {
-                    "name": "compact_mode",
-                    "description": "Whether the log should be compact or not"
+                    "name": "kompakt_modus",
+                    "description": "Ob der Log kompakt sein soll oder nicht"
                 }
             ]
         }
