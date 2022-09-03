@@ -1,13 +1,13 @@
 {
-    "content": "You created the emoji {placeholder}",
-    "reason": "Created by {user_tag} ({user_id})",
-    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
+    "content": "Stvorili ste emoji {placeholder}",
+    "reason": "Kreirao {user_tag} ({user_id})",
+    "choice": "Želite li dodati prvi emoji iz poruke na svoj server ili sve emotikone iz poruke na svoj server?",
     "components": [
         {
-            "label": "First emoji"
+            "label": "Prvi emoji"
         },
         {
-            "label": "All emojis"
+            "label": "Svi emojiji"
         }
     ]
 }
