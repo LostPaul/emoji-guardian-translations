@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Bearbeite den Sticker zum Beispiel den namen",
+        "title": "Edit the sticker",
         "components": [
             {
-                "label": "Sticker Name",
-                "placeholder": "Füge hier den neuen Namen für den Sticker ein."
+                "label": "Sticker name",
+                "placeholder": "Insert the new name for the sticker here."
             },
             {
-                "label": "Sticker Beschreibung",
-                "placeholder": "Füge hier die neue Beschreibung für den Sticker ein."
+                "label": "Sticker description",
+                "placeholder": "Insert the new description for the sticker here."
             },
             {
-                "label": "Ähnlicher Emoji (Unicode Emoji)",
-                "placeholder": "Füge hier den neuen verwandten Emoji für den Sticker ein."
+                "label": "Related emoji (unicode emoji)",
+                "placeholder": "Insert the new related emoji for the sticker here."
             }
         ]
     }
