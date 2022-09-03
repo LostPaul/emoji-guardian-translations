@@ -1,10 +1,10 @@
 {
     "modal": {
-        "title": "Choose a new name for the emoji",
+        "title": "Válassz egy új nevet a hangulatjel számára",
         "components": [
             {
-                "label": "Emoji Name",
-                "placeholder": "Insert the new name for the emoji here."
+                "label": "Hangulatjel neve",
+                "placeholder": "Illessze be a hangulatjel nevét ide."
             }
         ]
     }
