@@ -1,4 +1,4 @@
 {
-    "content": "Engedélyezted az automata zárolást az alábbi rangoknál {autolock_roles}, így minden hangulatjel, ami hozzá lesz adva a szerveredhez megkapja a rangokat.",
-    "log": "{interaction_user_tag} engedélyezte az automata zárolást a {autolock_roles} rangoknál"
+    "content": "You enabled the autolock for {autolock_roles} every emoji that gets added to your server gets now the roles.",
+    "log": "{interaction_user_tag} Enabled the autolock for {autolock_roles}"
 }
