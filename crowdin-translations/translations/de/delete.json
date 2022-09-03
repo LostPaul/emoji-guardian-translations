@@ -1,8 +1,8 @@
 {
-    "reason": "Gelöscht von {user_tag} ({user_id})",
+    "reason": "Deleted by {user_tag} ({user_id})",
     "components": [
         {
-            "label": "Gelöscht"
+            "label": "Deleted"
         }
     ]
 }
