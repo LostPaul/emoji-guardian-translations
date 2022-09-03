@@ -1,4 +1,4 @@
 {
-    "content": "Du hast die Emojis {emojis} erstellt",
-    "reason": "Erstellt von {user_tag} ({user_id})"
+    "content": "You created the emojis {emojis}",
+    "reason": "Created by {user_tag} ({user_id})"
 }
