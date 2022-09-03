@@ -1,3 +1,3 @@
 {
-    "content": "Geçerli bir emoji kullanman gerekli. Örneğin: `<:emoji_ghost:658538492321595393>`\n🐨 gibi varsayılan Discord emojileri bot tarafından desteklenmemektedir."
+    "content": "You need to use a valid emoji. Example: `<:emoji_ghost:658538492321595393>`\nDefault discord emojis like 🐨 aren't supported by the bot."
 }
