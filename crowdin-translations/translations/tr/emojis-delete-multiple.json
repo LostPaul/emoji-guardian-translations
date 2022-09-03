@@ -1,4 +1,4 @@
 {
-    "content": "{emojis} emojilerini sildin",
-    "reason": "{user_tag} ({user_id}) tarafından silindi"
+    "content": "You deleted the emojis {emojis}",
+    "reason": "Deleted by {user_tag} ({user_id})"
 }
