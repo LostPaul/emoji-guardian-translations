@@ -1,11 +1,11 @@
 {
-    "content": "Jeste li sigurni da želite zaključati sve emojije za ulogu?",
+    "content": "Are you sure that you want to lock all emojis to a role?",
     "components": [
         {
-            "label": "Potvrdi"
+            "label": "Confirm"
         },
         {
-            "label": "Otkaži"
+            "label": "Cancel"
         }
     ]
 }
