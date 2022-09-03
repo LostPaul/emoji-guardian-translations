@@ -1,8 +1,8 @@
 {
-    "audit_log": "{user_tag} által feloldva",
+    "audit_log": "Unlocked by {user_tag}",
     "components": [
         {
-            "label": "Feloldva"
+            "label": "Unlocked"
         }
     ]
 }
