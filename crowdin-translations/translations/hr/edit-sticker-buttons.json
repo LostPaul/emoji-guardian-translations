@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Edit the sticker",
+        "title": "Uredite naljepnicu",
         "components": [
             {
-                "label": "Sticker name",
-                "placeholder": "Insert the new name for the sticker here."
+                "label": "Naziv naljepnice",
+                "placeholder": "Ovdje unesite novi naziv za naljepnicu."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "Opis naljepnice",
+                "placeholder": "Ovdje umetnite novi opis za naljepnicu."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "Povezani emoji (unicode emoji)",
+                "placeholder": "Ovdje umetnite novi povezani emoji za naljepnicu."
             }
         ]
     }
