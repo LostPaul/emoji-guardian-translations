@@ -2,7 +2,7 @@
     "description": "Polecenia związane z emoji, które działają z jednym emoji.",
     "options": [
         {
-            "name": "reset ról",
+            "name": "reset_ról",
             "description": "Zresetuj role emoji.",
             "options": [
                 {
