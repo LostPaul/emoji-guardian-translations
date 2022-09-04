@@ -5,7 +5,7 @@
     },
     "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Pagina di Aiuto Emoji Guardian",
         "fields": [
             {
                 "name": "{emoji_bot}About Emoji Guardian",
@@ -29,8 +29,8 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Pagina di Aiuto",
+                    "description": "La pagina di aiuto principale"
                 },
                 {
                     "label": "Single emoji commands",
