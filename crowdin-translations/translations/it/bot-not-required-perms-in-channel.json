@@ -1,3 +1,3 @@
 {
-    "content": "I don't have the required permissions `{permissions}` in the channel <#{interaction_channel}> to perform this action."
+    "content": "Non ho i permessi richiesti `{permissions}` nel canale <#{interaction_channel}> per eseguire questa azione."
 }
