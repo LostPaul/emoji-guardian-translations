@@ -47,31 +47,31 @@
             "description": "Edytuj nazwę emoji z serwera",
             "options": [
                 {
-                    "description": "The emoji you want to edit."
+                    "description": "Emoji, które chcesz edytować."
                 }
             ]
         },
         {
-            "name": "lock",
-            "description": "Lock an emoji to a role.",
+            "name": "blokada",
+            "description": "Zablokuj emoji do roli.",
             "options": [
                 {
-                    "description": "The emoji you want to lock."
+                    "description": "Emoji, które chcesz zablokować."
                 },
                 {
-                    "description": "The role to be added to the emoji"
+                    "description": "Rola, którą należy dodać do emoji"
                 }
             ]
         },
         {
-            "name": "unlock",
-            "description": "Unlock an emoji from a role.",
+            "name": "odblokuj",
+            "description": "Odblokuj emoji z roli.",
             "options": [
                 {
-                    "description": "The emoji you want to unlock."
+                    "description": "Emoji, które chcesz odblokować."
                 },
                 {
-                    "description": "The role to be removed from the emoji"
+                    "description": "Rola, którą należy usunąć z emoji"
                 }
             ]
         }
