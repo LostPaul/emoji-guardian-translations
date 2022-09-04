@@ -9,6 +9,42 @@
                     "description": "Emoji, z którego chcesz zresetować role."
                 }
             ]
+        },
+        {
+            "name": "add",
+            "description": "Add an emoji to your server by using an emoji.",
+            "options": [
+                {
+                    "description": "The emoji you want to add to your server."
+                },
+                {
+                    "name": "name",
+                    "description": "The name you want for the emoji."
+                }
+            ]
+        },
+        {
+            "name": "create",
+            "description": "Create an emoji on your server by using an image.",
+            "options": [
+                {
+                    "name": "image",
+                    "description": "The image you want to use for the emoji."
+                }
+            ]
+        },
+        {
+            "name": "delete",
+            "description": "Delete an emoji from your server.",
+            "options": [
+                {
+                    "description": "The emoji you want to delete from your server."
+                }
+            ]
+        },
+        {
+            "name": "edit",
+            "description": "Edit the name of emoji from a server"
         }
     ]
 }
