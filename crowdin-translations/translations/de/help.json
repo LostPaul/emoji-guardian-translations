@@ -21,7 +21,7 @@
             },
             {
                 "name": "{emoji_translate}Wie kann ich die Sprache des Bots ändern?",
-                "value": "> Du kannst die Sprache des Bots ändern, indem du den Befehl `/language set` benutzst\n> Deine Sprache ist nicht dabei? Dann kannst du sie unter https://translate.emojiguardian.xyz/ übersetzen"
+                "value": "> You can change the language of the bot by using the command {languageSet}\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
             }
         ]
     },
