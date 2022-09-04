@@ -1,29 +1,29 @@
 {
-    "true": "True",
-    "false": "False",
+    "true": "Vero",
+    "false": "Falso",
     "embed": {
         "title": "Emoji info",
         "fields": [
             {
-                "name": "Name:"
+                "name": "Nome:"
             },
             {
                 "name": "ID:"
             },
             {
-                "name": "Managed:"
+                "name": "Gestito:"
             },
             {
-                "name": "Roles that have access to the emoji:"
+                "name": "Ruoli che hanno accesso all'emoji:"
             },
             {
-                "name": "Uploaded at:"
+                "name": "Caricato alle:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "Caricato da:"
             },
             {
-                "name": "Download link:"
+                "name": "Link di download:"
             }
         ]
     }
