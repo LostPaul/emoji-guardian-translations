@@ -1,0 +1,20 @@
+{
+    "name": "language",
+    "description": "language config commands",
+    "options": [
+        {
+            "name": "reset",
+            "description": "Reset the language of the bot to English"
+        },
+        {
+            "name": "set",
+            "description": "Set the language of the bot",
+            "options": [
+                {
+                    "name": "language",
+                    "description": "The language to set the bot to"
+                }
+            ]
+        }
+    ]
+}
