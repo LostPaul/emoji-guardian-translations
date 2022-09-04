@@ -11,40 +11,69 @@
             ]
         },
         {
-            "name": "add",
-            "description": "Add an emoji to your server by using an emoji.",
+            "name": "dodaj",
+            "description": "Dodaj emoji do swojego serwera za pomocą emoji.",
             "options": [
                 {
-                    "description": "The emoji you want to add to your server."
+                    "description": "Emoji, które chcesz dodać do swojego serwera."
                 },
                 {
-                    "name": "name",
-                    "description": "The name you want for the emoji."
+                    "name": "nazwa",
+                    "description": "Nazwa, którą chcesz nadać emoji."
                 }
             ]
         },
         {
-            "name": "create",
-            "description": "Create an emoji on your server by using an image.",
+            "name": "utwórz",
+            "description": "Utwórz emoji na swoim serwerze używając obrazu.",
             "options": [
                 {
-                    "name": "image",
-                    "description": "The image you want to use for the emoji."
+                    "name": "obraz",
+                    "description": "Obraz, którego chcesz użyć dla emoji."
                 }
             ]
         },
         {
-            "name": "delete",
-            "description": "Delete an emoji from your server.",
+            "name": "usuń",
+            "description": "Usuń emoji ze swojego serwera.",
             "options": [
                 {
-                    "description": "The emoji you want to delete from your server."
+                    "description": "Emoji, które chcesz usunąć ze swojego serwera."
                 }
             ]
         },
         {
-            "name": "edit",
-            "description": "Edit the name of emoji from a server"
+            "name": "edytuj",
+            "description": "Edytuj nazwę emoji z serwera",
+            "options": [
+                {
+                    "description": "The emoji you want to edit."
+                }
+            ]
+        },
+        {
+            "name": "lock",
+            "description": "Lock an emoji to a role.",
+            "options": [
+                {
+                    "description": "The emoji you want to lock."
+                },
+                {
+                    "description": "The role to be added to the emoji"
+                }
+            ]
+        },
+        {
+            "name": "unlock",
+            "description": "Unlock an emoji from a role.",
+            "options": [
+                {
+                    "description": "The emoji you want to unlock."
+                },
+                {
+                    "description": "The role to be removed from the emoji"
+                }
+            ]
         }
     ]
 }
