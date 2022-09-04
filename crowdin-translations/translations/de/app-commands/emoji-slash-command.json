@@ -1,5 +1,5 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "Emoji-bezogene Befehle, die mit einem Emoji funktionieren.",
     "options": [
         {
             "name": "roles_reset",
