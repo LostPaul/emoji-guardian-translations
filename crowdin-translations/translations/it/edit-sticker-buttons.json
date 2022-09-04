@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Edit the sticker",
+        "title": "Modifica adesivo",
         "components": [
             {
-                "label": "Sticker name",
-                "placeholder": "Insert the new name for the sticker here."
+                "label": "Nome adesivo",
+                "placeholder": "Inserisci qui il nuovo nome per l'adesivo."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "Descrizione dell'adesivo",
+                "placeholder": "Inserisci qui la nuova descrizione per l'adesivo."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "Emoji correlate (emoji unicode)",
+                "placeholder": "Inserisci qui le nuove emoji correlate per l'adesivo."
             }
         ]
     }
