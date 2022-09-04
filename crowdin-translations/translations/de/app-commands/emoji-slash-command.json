@@ -1,0 +1,14 @@
+{
+    "description": "Emoji related commands that works with one emoji.",
+    "options": [
+        {
+            "name": "roles_reset",
+            "description": "Reset the roles of an emoji.",
+            "options": [
+                {
+                    "description": "The emoji you want to reset the roles from."
+                }
+            ]
+        }
+    ]
+}
