@@ -1,12 +1,12 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "Polecenia związane z emoji, które działają z jednym emoji.",
     "options": [
         {
-            "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "name": "reset ról",
+            "description": "Zresetuj role emoji.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "Emoji, z którego chcesz zresetować role."
                 }
             ]
         }
