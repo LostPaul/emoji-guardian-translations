@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Puoi vedere solo questo messaggio e non l'embed?\nLeggi questo https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Informazioni su \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Puoi vedere solo il menu a discesa e i pulsanti?\nLeggi questo https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
         "title": "Pagina di Aiuto Emoji Guardian",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}Informazioni su Emoji Guardian",
+                "value": "> Emoji Guardian è un bot specialmente per i server emoji.\n> Con il Bot, puoi fare molto con le emoji come bloccare una emoji a un ruolo e molto altro ancora."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}Come posso vedere i comandi?",
+                "value": "> Fare clic sotto i pulsanti nel menu di selezione e selezionare una categoria di comandi."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Come posso ottenere assistenza?",
+                "value": "> Puoi unirti al [server di assistenza](https://discord.gg/EbBsuxVNYT) o puoi inviare un messaggio a `Lost Paul#3453` o `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command `/language set`\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Come posso cambiare la lingua del bot?",
+                "value": "> Puoi cambiare la lingua del bot usando il comando `/language set`\n> La tua lingua non è presente? Puoi iniziare a tradurlo su https://translate.emojiguardian.xyz/"
             }
         ]
     },
@@ -33,15 +33,15 @@
                     "description": "La pagina di aiuto principale"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Comandi per singole emoji",
+                    "description": "Comandi che funzionano con una sola emoji"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Comandi che funzionano con emoji multiple",
+                    "description": "Comando che funziona con più di una emoji"
                 },
                 {
-                    "label": "Blacklist/Other commands",
+                    "label": "Lista Nera/Altri comandi",
                     "description": "Blacklist commands and other commands than single and multiple emojis commands"
                 }
             ],
