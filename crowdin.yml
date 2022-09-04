@@ -1,3 +1,5 @@
 files:
   - source: /crowdin-translations/*
     translation: /crowdin-translations/translations/%two_letters_code%/%file_name%.%file_extension%
+  - source: /crowdin-translations/app-commands/*json
+    translation: /crowdin-translations/translations/%two_letters_code%/app-commands/%file_name%.%file_extension%
