@@ -1,6 +1,6 @@
 {
-    "name": "language",
-    "description": "language config commands",
+    "name": "lingua",
+    "description": "comandi di configurazione lingua",
     "options": [
         {
             "name": "ripristina",
