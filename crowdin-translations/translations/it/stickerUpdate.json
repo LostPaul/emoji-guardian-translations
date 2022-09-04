@@ -1,14 +1,14 @@
 {
     "components": [
         {
-            "label": "Delete Sticker"
+            "label": "Elimina Adesivo"
         },
         {
-            "label": "Edit Sticker"
+            "label": "Modifica Adesivo"
         }
     ],
     "embed": {
-        "title": "Sticker updated",
-        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}\nOld related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "Adesivo aggiornato",
+        "description": "[{sticker_old_name_option}Vecchio nome: {current_sticker_name}\nNuovo nome: {new_sticker_name}][{sticker_old_related_emoji_option}\nVecchia emoji correlata: {current_sticker_tags}\nNuova emoji correlata: {new_sticker_tags}][{sticker_new_description_option}\nVecchia descrizione: {current_sticker_description}\nNuova descrizione: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nAggiornato da {text}[{reason_option}\nMotivo: ]{reason}"
     }
 }
