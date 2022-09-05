@@ -4,31 +4,31 @@
     "false": "False",
     "embeds": [
         {
-            "title": "Information about a sticker",
+            "title": "Informazioni su un adesivo",
             "fields": [
                 {
-                    "name": "Name:"
+                    "name": "Nome:"
                 },
                 {
-                    "name": "Sticker ID:"
+                    "name": "ID Adesivo:"
                 },
                 {
-                    "name": "Format:"
+                    "name": "Formato:"
                 },
                 {
-                    "name": "Description:"
+                    "name": "Descrizione:"
                 },
                 {
-                    "name": "Tags:"
+                    "name": "Etichette:"
                 },
                 {
-                    "name": "Available:"
+                    "name": "Disponibile:"
                 },
                 {
-                    "name": "Uploaded at:"
+                    "name": "Caricato alle:"
                 },
                 {
-                    "name": "Uploaded by:"
+                    "name": "Caricato da:"
                 }
             ]
         }

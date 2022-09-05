@@ -21,7 +21,7 @@
             },
             {
                 "name": "{emoji_translate}Hogyan tudom megváltoztatni a bot nyelvét?",
-                "value": "> A bot nyelvét a `/language set` paranccsal módosíthatja\n> Nem találja a nyelvét? Kezdje el a fordítását a https://translate.emojiguardian.xyz/ oldalon"
+                "value": "> A bot nyelvét a {languageSet} paranccsal módosíthatja\n> Nem találja a nyelvét? Kezdje el a fordítását a https://translate.emojiguardian.xyz/ oldalon"
             }
         ]
     },

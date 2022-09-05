@@ -21,7 +21,7 @@
             },
             {
                 "name": "{emoji_translate}Kako mogu promijeniti jezik bota?",
-                "value": "> Jezik bota možete promijeniti pomoću naredbe `/language set`\n> Vaš jezik nije tamo? Možete početi prevoditi na https://translate.emojiguardian.xyz/"
+                "value": "> Jezik bota možete promijeniti pomoću naredbe {languageSet}\n> Vaš jezik nije tamo? Možete početi prevoditi na https://translate.emojiguardian.xyz/"
             }
         ]
     },

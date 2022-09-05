@@ -1,5 +1,5 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "Emoji-bezogene Befehle, die mit einem Emoji funktionieren.",
     "options": [
         {
             "name": "roles_reset",
@@ -7,6 +7,71 @@
             "options": [
                 {
                     "description": "The emoji you want to reset the roles from."
+                }
+            ]
+        },
+        {
+            "name": "add",
+            "description": "Add an emoji to your server by using an emoji.",
+            "options": [
+                {
+                    "description": "The emoji you want to add to your server."
+                },
+                {
+                    "name": "name",
+                    "description": "The name you want for the emoji."
+                }
+            ]
+        },
+        {
+            "name": "create",
+            "description": "Create an emoji on your server by using an image.",
+            "options": [
+                {
+                    "name": "image",
+                    "description": "The image you want to use for the emoji."
+                }
+            ]
+        },
+        {
+            "name": "delete",
+            "description": "Delete an emoji from your server.",
+            "options": [
+                {
+                    "description": "The emoji you want to delete from your server."
+                }
+            ]
+        },
+        {
+            "name": "edit",
+            "description": "Edit the name of emoji from a server",
+            "options": [
+                {
+                    "description": "The emoji you want to edit."
+                }
+            ]
+        },
+        {
+            "name": "lock",
+            "description": "Lock an emoji to a role.",
+            "options": [
+                {
+                    "description": "The emoji you want to lock."
+                },
+                {
+                    "description": "The role to be added to the emoji"
+                }
+            ]
+        },
+        {
+            "name": "unlock",
+            "description": "Unlock an emoji from a role.",
+            "options": [
+                {
+                    "description": "The emoji you want to unlock."
+                },
+                {
+                    "description": "The role to be removed from the emoji"
                 }
             ]
         }

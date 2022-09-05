@@ -11,8 +11,8 @@
                 "placeholder": "Tutaj wpisz nowy opis naklejki."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "Powiązane emoji (emoji unicode)",
+                "placeholder": "Tutaj wpisz nowe powiązane emoji dla naklejki."
             }
         ]
     }
