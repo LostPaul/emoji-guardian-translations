@@ -16,7 +16,7 @@
             "options": [
                 {
                     "description": "The emoji you want to add to your server."
-                }, 
+                },
                 {
                     "name": "name",
                     "description": "The name you want for the emoji."
@@ -32,7 +32,7 @@
                     "description": "The image you want to use for the emoji."
                 }
             ]
-        }, 
+        },
         {
             "name": "delete",
             "description": "Delete an emoji from your server.",
@@ -57,19 +57,19 @@
             "options": [
                 {
                     "description": "The emoji you want to lock."
-                }, 
+                },
                 {
                     "description": "The role to be added to the emoji"
                 }
             ]
-        }, 
+        },
         {
             "name": "unlock",
             "description": "Unlock an emoji from a role.",
             "options": [
                 {
                     "description": "The emoji you want to unlock."
-                }, 
+                },
                 {
                     "description": "The role to be removed from the emoji"
                 }
