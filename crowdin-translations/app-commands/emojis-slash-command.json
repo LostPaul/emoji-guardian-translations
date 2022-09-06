@@ -1,0 +1,205 @@
+{
+    "description": "Commands that work with multiple emojis.",
+    "options": [
+        {
+            "name": "unlock_all",
+            "description": "Unlock all emojis from a server",
+            "options": [
+                {
+                    "name": "role",
+                    "description": "The role to be removed from the emojis."
+                },
+                {
+                    "name": "ignore_emojis",
+                    "description": "Prevent specific emojis from getting unlocked."
+                }
+            ]
+        },
+        {
+            "name": "lock_all",
+            "description": "Lock all emojis from a server to a role",
+            "options": [
+                {
+                    "description": "The role to be added to the emojis."
+                },
+                {
+                    "description": "Prevent specific emojis from getting locked."
+                }
+            ]
+        },
+        {
+            "name": "locked",
+            "description": "List of which emojis are locked to which role"
+        },
+        {
+            "name": "stats",
+            "description": "See how many emojis you uploaded or how many emojis you locked",
+            "options": [
+                {
+                    "name": "hidden",
+                    "description": "Hide the message from other users"
+                }
+            ]
+        },
+        {
+            "name": "add_multiple",
+            "description": "Add multiple emojis to the server by using emojis from other servers",
+            "options": [
+                {
+                    "description": "The emojis you want to add"
+                }
+            ]
+        },
+        {
+            "name": "delete_multiple",
+            "description": "Delete multiple emojis at once from your server",
+            "options": [
+                {
+                    "description": "The emojis you want to delete"
+                }
+            ]
+        },
+        {
+            "name": "delete_latest",
+            "description": "Delete the latest emojis uploaded to your server",
+            "options": [
+                {
+                    "name": "amount",
+                    "description": "The amount of emojis you want to delete"
+                }
+            ]
+        },
+        {
+            "description": "Reset the roles of every emoji from this server",
+            "options": [
+                {
+                    "description": "Prevent specific emojis from getting reset."
+                }
+            ]
+        },
+        {
+            "name": "lock_multiple",
+            "description": "Lock multiple emojis to a role",
+            "options": [
+                {
+                    "description": "The emojis you want to lock"
+                },
+                {
+                    "description": "The role to be added to the emojis"
+                }
+            ]
+        },
+        {
+            "name": "unlock_multiple",
+            "description": "Unlock multiple emojis from a role",
+            "options": [
+                {
+                    "description": "The emojis you want to unlock"
+                },
+                {
+                    "description": "The role to be unlocked to the emojis"
+                }
+            ]
+        },
+        {
+            "name": "list_category",
+            "description": "Create an emoji list with custom categories",
+            "options": [
+                {
+                    "description": "The emojis"
+                },
+                {
+                    "description": "The name for the category"
+                },
+                {
+                    "name": "channel",
+                    "description": "The channel where you want to create the emoji category"
+                },
+                {
+                    "name": "quote_before_emojis",
+                    "description": "Choose if you want to have the quote line before "
+                },
+                {
+                    "name": "divider",
+                    "description": "Choose if you want to use a divider between the emojis or not"
+                },
+                {
+                    "name": "webhook_name",
+                    "description": "Use a custom name for the webhook message"
+                },
+                {
+                    "name": "webhook_avatar",
+                    "description": "Use a custom avatar for the webhook message"
+                }
+            ]
+        },
+        {
+            "name": "list_auto_update_remove",
+            "description": "Disable the auto update of the emoji list"
+        },
+        {
+            "name": "list",
+            "description": "Create a list of the emojis from your server with the emoji ids",
+            "options": [
+                {
+                    "name": "auto_update_list",
+                    "description": "Choose if you want to automatically update the list or not"
+                },
+                {
+                    "name": "sort_after",
+                    "description": "Sort the emojis alphabetically or after the creation date"
+                },
+                {
+                    "name": "exclude_non_or_animated_emojis",
+                    "description": "Exclude animated or non animated emojis from the list",
+                    "choices": [
+                        {
+                            "name": "Exclude animated emojis",
+                            "value": "animated"
+                        },
+                        {
+                            "name": "Exclude non animated emojis",
+                            "value": "non_animated"
+                        }
+                    ]
+                },
+                {
+                    "name": "exclude_locked_emojis",
+                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                },
+                {
+                    "name": "show_full_emoji_id",
+                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                },
+                {
+                    "name": "message_before_emojis",
+                    "description": "Add a custom message before the emojis list"
+                },
+                {
+                    "name": "webhook_name",
+                    "description": "Use a custom name for the webhook message"
+                },
+                {
+                    "name": "webhook_avatar",
+                    "description": "Use a custom avatar for the webhook message"
+                },
+                {
+                    "name": "webhook",
+                    "description": "Choose if the message should be send with a webhook or not."
+                },
+                {
+                    "name": "divider",
+                    "description": "Choose if you want to use a divider between the emojis or not"
+                },
+                {
+                    "name": "update_timestamp",
+                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                },
+                {
+                    "name": "update_timestamp_type",
+                    "description": "Choose the type of timestamp you want to use"
+                }
+            ]
+        }
+    ]
+}
