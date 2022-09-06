@@ -12,7 +12,7 @@
         },
         {
             "name": "add",
-            "description": "Add an emoji to your server by using an emoji.",
+            "description": "Add an emoji to your server by using an existing emoji.",
             "options": [
                 {
                     "description": "The emoji you want to add to your server."
