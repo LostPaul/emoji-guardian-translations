@@ -2,11 +2,11 @@
     "description": "Emoji-bezogene Befehle, die mit einem Emoji funktionieren.",
     "options": [
         {
-            "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "name": "rollen_zurücksetzen",
+            "description": "Setze die Rollen eines Emoji zurück.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "Der Emoji, von dem du die Rollen zurücksetzen möchtest."
                 }
             ]
         },
