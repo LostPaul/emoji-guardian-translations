@@ -1,0 +1,9 @@
+{
+    "name": "emoji-powiększ",
+    "description": "Powiększ emoji",
+    "options": [
+        {
+            "description": "Emoji, które chcesz powiększyć"
+        }
+    ]
+}
