@@ -78,156 +78,156 @@
             ]
         },
         {
-            "name": "lock_multiple",
-            "description": "Lock multiple emojis to a role",
+            "name": "blokada_wielokrotność",
+            "description": "Zablokuj wiele emoji do roli",
             "options": [
                 {
-                    "description": "The emojis you want to lock"
+                    "description": "Emoji, które chcesz zablokować"
                 },
                 {
-                    "description": "The role to be added to the emojis"
+                    "description": "Rola, która ma być dodana do emoji"
                 }
             ]
         },
         {
-            "name": "unlock_multiple",
-            "description": "Unlock multiple emojis from a role",
+            "name": "odblokowanie_wielokrotność",
+            "description": "Odblokuj wiele emoji z roli",
             "options": [
                 {
-                    "description": "The emojis you want to unlock"
+                    "description": "Emoji, które chcesz odblokować"
                 },
                 {
-                    "description": "The role to be unlocked to the emojis"
+                    "description": "Rola, którą należy odblokować do emoji"
                 }
             ]
         },
         {
-            "name": "list_category",
-            "description": "Create an emoji list with custom categories",
+            "name": "lista_kategoria",
+            "description": "Stwórz listę emoji z niestandardowymi kategoriami",
             "options": [
                 {
-                    "description": "The emojis that will be in the category list"
+                    "description": "Emoji, które znajdą się na liście kategorii"
                 },
                 {
-                    "description": "The name for the category"
+                    "description": "Nazwa kategorii"
                 },
                 {
-                    "description": "The channel where you want to create the emoji category"
+                    "description": "Kanał, w którym chcesz utworzyć kategorię emoji"
                 },
                 {
-                    "name": "quote_before_emojis",
-                    "description": "Choose if you want to have the quote line before "
+                    "name": "cytat_przed_emoji",
+                    "description": "Wybierz, czy chcesz mieć linię cytatu przed "
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "name": "rozdzielacz",
+                    "description": "Wybierz, czy chcesz użyć dzielnika między emoji, czy nie"
                 },
                 {
-                    "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "name": "webhook_nazwa",
+                    "description": "Użyj niestandardowej nazwy dla wiadomości webhook"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Użyj niestandardowego avatara dla wiadomości webhook"
                 }
             ]
         },
         {
-            "name": "list_auto_update_remove",
-            "description": "Disable the auto update of the emoji list"
+            "name": "lista_auto_aktualizacja_usuwania",
+            "description": "Wyłączenie automatycznej aktualizacji listy emoji"
         },
         {
-            "name": "list",
-            "description": "Create a list of the emojis from your server with the emoji ids",
+            "name": "lista",
+            "description": "Utwórz listę emojis z twojego serwera z identyfikatora emoji",
             "options": [
                 {
-                    "name": "auto_update_list",
-                    "description": "Choose if you want to automatically update the list or not"
+                    "name": "automatyczna_aktualizacja_lista",
+                    "description": "Wybierz czy chcesz automatycznie aktualizować listę czy nie"
                 },
                 {
-                    "description": "Ignore specific emojis in the list"
+                    "description": "Ignorowanie określonych emoji na liście"
                 },
                 {
-                    "name": "sort_after",
-                    "description": "Sort the emojis alphabetically or after the creation date"
+                    "name": "sortowanie_po",
+                    "description": "Sortuj emoji alfabetycznie lub po dacie utworzenia"
                 },
                 {
-                    "name": "exclude_non_or_animated_emojis",
-                    "description": "Exclude animated or non animated emojis from the list",
+                    "name": "wykluczyć_nie_lub_animowane_emoji",
+                    "description": "Wykluczenie animowanych lub nieanimowanych emoji z listy",
                     "choices": [
                         {
-                            "name": "Exclude animated emojis",
-                            "value": "animated"
+                            "name": "Wykluczenie animowanych emoji",
+                            "value": "animowane"
                         },
                         {
-                            "name": "Exclude non animated emojis",
-                            "value": "non_animated"
+                            "name": "Wykluczenie nieanimowanych emoji",
+                            "value": "nie_animowane"
                         }
                     ]
                 },
                 {
-                    "name": "exclude_locked_emojis",
-                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                    "name": "wykluczenie_blokada_emoji",
+                    "description": "Wybierz, czy chcesz wymienić emoji, które są zablokowane do roli w wiadomości czy nie"
                 },
                 {
-                    "name": "show_full_emoji_id",
-                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                    "name": "pokaż_pełne_emoji_id",
+                    "description": "Wybierz czy chcesz pokazać pełne ID emoji obok emoji czy tylko nazwę"
                 },
                 {
-                    "name": "message_before_emojis",
-                    "description": "Add a custom message before the emojis list"
+                    "name": "wiadomość_przed_emoji",
+                    "description": "Dodaj niestandardową wiadomość przed listą emoji"
                 },
                 {
-                    "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "name": "webhook_nazwa",
+                    "description": "Użyj niestandardowej nazwy dla wiadomości webhook"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Użyj niestandardowego avatara dla wiadomości webhook"
                 },
                 {
                     "name": "webhook",
-                    "description": "Choose if the message should be send with a webhook or not."
+                    "description": "Wybierz, czy wiadomość ma być wysłana z webhookiem czy nie."
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "name": "rozdzielacz",
+                    "description": "Wybierz, czy chcesz użyć dzielnika między emoji, czy nie"
                 },
                 {
-                    "name": "update_timestamp",
-                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                    "name": "aktualizowanie_czas",
+                    "description": "Wybierz czy chcesz mieć znacznik czasu pod listą emoji czy nie"
                 },
                 {
-                    "name": "update_timestamp_type",
-                    "description": "Choose the type of timestamp you want to use",
+                    "name": "aktualizowanie_czas_typ",
+                    "description": "Wybierz typ znacznika czasu, którego chcesz użyć",
                     "choices": [
                         {
-                            "name": "Short Time example 9:12 PM",
-                            "value": "short time"
+                            "name": "Krótki przykład czasowy 9:12 PM",
+                            "value": "krótki czas"
                         },
                         {
-                            "name": "Long Time example 9:12:30 PM",
-                            "value": "long time"
+                            "name": "Długi przykład czasu 9:12:30 PM",
+                            "value": "długi czas"
                         },
                         {
-                            "name": "Short Date example 06/29/2022",
-                            "value": "short date"
+                            "name": "Krótka przykładowa data 06/29/2022",
+                            "value": "krótka data"
                         },
                         {
-                            "name": "Long Date example June 29, 2022",
-                            "value": "long date"
+                            "name": "Długa przykładowa Data 29 czerwca 2022 r",
+                            "value": "długa data"
                         },
                         {
-                            "name": "Short Date/Time example June 29, 2022 9:12 PM",
-                            "value": "short date/time"
+                            "name": "Przykład krótkiej daty/godziny 29 czerwca 2022 9:12 PM",
+                            "value": "krótka data/czas"
                         },
                         {
-                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
-                            "value": "long date/time"
+                            "name": "Przykładowa długa data/godzina środa, 29 czerwca 2022 9:12 PM",
+                            "value": "długa data/czas"
                         },
                         {
-                            "name": "Relative Time example a few seconds ago",
-                            "value": "relative time"
+                            "name": "Przykład czasu względnego kilka sekund temu",
+                            "value": "czas względny"
                         }
                     ]
                 }
