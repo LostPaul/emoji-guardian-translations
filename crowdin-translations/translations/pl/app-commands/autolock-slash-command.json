@@ -1,0 +1,18 @@
+{
+    "name": "automatyczna blokada",
+    "description": "Automatycznie blokuj nowe emotikony na serwerze do roli",
+    "options": [
+        {
+            "description": "Wyłącz automatyczne blokowanie"
+        },
+        {
+            "name": "włącz",
+            "description": "Włącz automatyczne blokowanie emoji do ról",
+            "options": [
+                {
+                    "description": "Rola dla automatycznej blokady"
+                }
+            ]
+        }
+    ]
+}
