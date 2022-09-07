@@ -1,0 +1,9 @@
+{
+    "name": "emoji-podgląd",
+    "description": "Zobacz jak emoji wygląda w trybie ciemnym i białym",
+    "options": [
+        {
+            "description": "Emoji, które chcesz obejrzeć"
+        }
+    ]
+}
