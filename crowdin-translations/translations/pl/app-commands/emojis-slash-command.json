@@ -1,0 +1,237 @@
+{
+    "description": "Polecenia, które działają z wieloma emoji.",
+    "options": [
+        {
+            "name": "odblokowanie_wszystko",
+            "description": "Odblokuj wszystkie emoji z serwera",
+            "options": [
+                {
+                    "name": "rola",
+                    "description": "Rola, która ma być usunięta z emoji."
+                },
+                {
+                    "name": "ignorowanie_emoji",
+                    "description": "Zapobiegaj odblokowywaniu określonych emoji."
+                }
+            ]
+        },
+        {
+            "name": "blokada_wszystkie",
+            "description": "Zablokuj wszystkie emoji z serwera do roli",
+            "options": [
+                {
+                    "description": "Rola, która ma być dodana do emoji."
+                },
+                {
+                    "description": "Zapobiegaj blokowaniu określonych emoji."
+                }
+            ]
+        },
+        {
+            "name": "zablokowana",
+            "description": "Lista, które emoji są zablokowane do jakiej roli"
+        },
+        {
+            "name": "statystyki",
+            "description": "Zobacz, ile emoji przesłałeś lub ile emoji zablokowałeś",
+            "options": [
+                {
+                    "name": "ukryty",
+                    "description": "Ukryj wiadomość przed innymi użytkownikami"
+                }
+            ]
+        },
+        {
+            "name": "dodać_wielokrotność",
+            "description": "Dodanie wielu emoji do serwera poprzez użycie emoji z innych serwerów",
+            "options": [
+                {
+                    "description": "Emoji, które chcesz dodać"
+                }
+            ]
+        },
+        {
+            "name": "usuń_wielokrotność",
+            "description": "Usuń wiele emoji jednocześnie ze swojego serwera",
+            "options": [
+                {
+                    "description": "Emoji, które chcesz usunąć"
+                }
+            ]
+        },
+        {
+            "name": "usuń_ostatnie",
+            "description": "Usuń ostatnie emoji przesłane na Twój serwer",
+            "options": [
+                {
+                    "name": "ilość",
+                    "description": "Ilość emoji, które chcesz usunąć"
+                }
+            ]
+        },
+        {
+            "description": "Zresetuj role każdego emoji z tego serwera",
+            "options": [
+                {
+                    "description": "Zapobiegaj resetowaniu określonych emoji."
+                }
+            ]
+        },
+        {
+            "name": "lock_multiple",
+            "description": "Lock multiple emojis to a role",
+            "options": [
+                {
+                    "description": "The emojis you want to lock"
+                },
+                {
+                    "description": "The role to be added to the emojis"
+                }
+            ]
+        },
+        {
+            "name": "unlock_multiple",
+            "description": "Unlock multiple emojis from a role",
+            "options": [
+                {
+                    "description": "The emojis you want to unlock"
+                },
+                {
+                    "description": "The role to be unlocked to the emojis"
+                }
+            ]
+        },
+        {
+            "name": "list_category",
+            "description": "Create an emoji list with custom categories",
+            "options": [
+                {
+                    "description": "The emojis that will be in the category list"
+                },
+                {
+                    "description": "The name for the category"
+                },
+                {
+                    "description": "The channel where you want to create the emoji category"
+                },
+                {
+                    "name": "quote_before_emojis",
+                    "description": "Choose if you want to have the quote line before "
+                },
+                {
+                    "name": "divider",
+                    "description": "Choose if you want to use a divider between the emojis or not"
+                },
+                {
+                    "name": "webhook_name",
+                    "description": "Use a custom name for the webhook message"
+                },
+                {
+                    "name": "webhook_avatar",
+                    "description": "Use a custom avatar for the webhook message"
+                }
+            ]
+        },
+        {
+            "name": "list_auto_update_remove",
+            "description": "Disable the auto update of the emoji list"
+        },
+        {
+            "name": "list",
+            "description": "Create a list of the emojis from your server with the emoji ids",
+            "options": [
+                {
+                    "name": "auto_update_list",
+                    "description": "Choose if you want to automatically update the list or not"
+                },
+                {
+                    "description": "Ignore specific emojis in the list"
+                },
+                {
+                    "name": "sort_after",
+                    "description": "Sort the emojis alphabetically or after the creation date"
+                },
+                {
+                    "name": "exclude_non_or_animated_emojis",
+                    "description": "Exclude animated or non animated emojis from the list",
+                    "choices": [
+                        {
+                            "name": "Exclude animated emojis",
+                            "value": "animated"
+                        },
+                        {
+                            "name": "Exclude non animated emojis",
+                            "value": "non_animated"
+                        }
+                    ]
+                },
+                {
+                    "name": "exclude_locked_emojis",
+                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                },
+                {
+                    "name": "show_full_emoji_id",
+                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                },
+                {
+                    "name": "message_before_emojis",
+                    "description": "Add a custom message before the emojis list"
+                },
+                {
+                    "name": "webhook_name",
+                    "description": "Use a custom name for the webhook message"
+                },
+                {
+                    "name": "webhook_avatar",
+                    "description": "Use a custom avatar for the webhook message"
+                },
+                {
+                    "name": "webhook",
+                    "description": "Choose if the message should be send with a webhook or not."
+                },
+                {
+                    "name": "divider",
+                    "description": "Choose if you want to use a divider between the emojis or not"
+                },
+                {
+                    "name": "update_timestamp",
+                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                },
+                {
+                    "name": "update_timestamp_type",
+                    "description": "Choose the type of timestamp you want to use",
+                    "choices": [
+                        {
+                            "name": "Short Time example 9:12 PM",
+                            "value": "short time"
+                        },
+                        {
+                            "name": "Long Time example 9:12:30 PM",
+                            "value": "long time"
+                        },
+                        {
+                            "name": "Short Date example 06/29/2022",
+                            "value": "short date"
+                        },
+                        {
+                            "name": "Long Date example June 29, 2022",
+                            "value": "long date"
+                        },
+                        {
+                            "name": "Short Date/Time example June 29, 2022 9:12 PM",
+                            "value": "short date/time"
+                        },
+                        {
+                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
+                            "value": "long date/time"
+                        },
+                        {
+                            "name": "Relative Time example a few seconds ago",
+                            "value": "relative time"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
