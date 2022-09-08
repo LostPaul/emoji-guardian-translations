@@ -35,7 +35,7 @@
         },
         {
             "name": "löschen",
-            "description": "Delete an emoji from your server.",
+            "description": "Lösche ein Emoji von deinem Server.",
             "options": [
                 {
                     "description": "The emoji you want to delete from your server."
