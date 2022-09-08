@@ -1,0 +1,18 @@
+{
+    "name": "autolock",
+    "description": "Automatically lock new created emojis on your server to an role",
+    "options": [
+        {
+            "description": "Disable the autolock"
+        },
+        {
+            "name": "enable",
+            "description": "Enable auto locking emojis to roles",
+            "options": [
+                {
+                    "description": "The role for the autolock"
+                }
+            ]
+        }
+    ]
+}

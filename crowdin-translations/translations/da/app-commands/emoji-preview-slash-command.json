@@ -1,0 +1,9 @@
+{
+    "name": "emoji-preview",
+    "description": "See how an emoji looks on darkmode and whitemode",
+    "options": [
+        {
+            "description": "The emoji you want to preview"
+        }
+    ]
+}

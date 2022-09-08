@@ -3,16 +3,16 @@
     "description": "language config commands",
     "options": [
         {
-            "name": "reset",
+            "name": "zurücksetzen",
             "description": "Reset the language of the bot to English"
         },
         {
-            "name": "set",
-            "description": "Set the language of the bot",
+            "name": "ändern",
+            "description": "Wähle die Sprache des Bots",
             "options": [
                 {
-                    "name": "language",
-                    "description": "The language to set the bot to"
+                    "name": "sprache",
+                    "description": "Die Sprache, auf die der Bot gestellt wird"
                 }
             ]
         }

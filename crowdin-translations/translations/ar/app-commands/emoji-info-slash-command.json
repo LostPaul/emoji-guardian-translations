@@ -1,0 +1,9 @@
+{
+    "name": "emoji-info",
+    "description": "Get information about an emoji",
+    "options": [
+        {
+            "description": "The emoji you want to get information about."
+        }
+    ]
+}
