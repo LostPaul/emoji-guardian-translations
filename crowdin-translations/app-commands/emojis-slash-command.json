@@ -218,8 +218,7 @@
                             "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM"
                         },
                         {
-                            "name": "Relative Time example a few seconds ago",
-                            "value": "relative time"
+                            "name": "Relative Time example a few seconds ago"
                         }
                     ]
                 }
