@@ -156,12 +156,10 @@
                     "description": "Wykluczenie animowanych lub nieanimowanych emoji z listy",
                     "choices": [
                         {
-                            "name": "Wykluczenie animowanych emoji",
-                            "value": "animowane"
+                            "name": "Wykluczenie animowanych emoji"
                         },
                         {
-                            "name": "Wykluczenie nieanimowanych emoji",
-                            "value": "nie_animowane"
+                            "name": "Wykluczenie nieanimowanych emoji"
                         }
                     ]
                 },
@@ -202,32 +200,25 @@
                     "description": "Wybierz typ znacznika czasu, którego chcesz użyć",
                     "choices": [
                         {
-                            "name": "Krótki przykład czasowy 9:12 PM",
-                            "value": "krótki czas"
+                            "name": "Krótki przykład czasowy 9:12 PM"
                         },
                         {
-                            "name": "Długi przykład czasu 9:12:30 PM",
-                            "value": "długi czas"
+                            "name": "Długi przykład czasu 9:12:30 PM"
                         },
                         {
-                            "name": "Krótka przykładowa data 06/29/2022",
-                            "value": "krótka data"
+                            "name": "Krótka przykładowa data 06/29/2022"
                         },
                         {
-                            "name": "Długa przykładowa Data 29 czerwca 2022 r",
-                            "value": "długa data"
+                            "name": "Długa przykładowa Data 29 czerwca 2022 r"
                         },
                         {
-                            "name": "Przykład krótkiej daty/godziny 29 czerwca 2022 9:12 PM",
-                            "value": "krótka data/czas"
+                            "name": "Przykład krótkiej daty/godziny 29 czerwca 2022 9:12 PM"
                         },
                         {
-                            "name": "Przykładowa długa data/godzina środa, 29 czerwca 2022 9:12 PM",
-                            "value": "długa data/czas"
+                            "name": "Przykładowa długa data/godzina środa, 29 czerwca 2022 9:12 PM"
                         },
                         {
-                            "name": "Przykład czasu względnego kilka sekund temu",
-                            "value": "czas względny"
+                            "name": "Przykład czasu względnego kilka sekund temu"
                         }
                     ]
                 }
