@@ -156,12 +156,10 @@
                     "description": "Exclude animated or non animated emojis from the list",
                     "choices": [
                         {
-                            "name": "Exclude animated emojis",
-                            "value": "animated"
+                            "name": "Exclude animated emojis"
                         },
                         {
-                            "name": "Exclude non animated emojis",
-                            "value": "non_animated"
+                            "name": "Exclude non animated emojis"
                         }
                     ]
                 },
@@ -202,28 +200,22 @@
                     "description": "Choose the type of timestamp you want to use",
                     "choices": [
                         {
-                            "name": "Short Time example 9:12 PM",
-                            "value": "short time"
+                            "name": "Short Time example 9:12 PM"
                         },
                         {
-                            "name": "Long Time example 9:12:30 PM",
-                            "value": "long time"
+                            "name": "Long Time example 9:12:30 PM"
                         },
                         {
-                            "name": "Short Date example 06/29/2022",
-                            "value": "short date"
+                            "name": "Short Date example 06/29/2022"
                         },
                         {
-                            "name": "Long Date example June 29, 2022",
-                            "value": "long date"
+                            "name": "Long Date example June 29, 2022"
                         },
                         {
-                            "name": "Short Date/Time example June 29, 2022 9:12 PM",
-                            "value": "short date/time"
+                            "name": "Short Date/Time example June 29, 2022 9:12 PM"
                         },
                         {
-                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
-                            "value": "long date/time"
+                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM"
                         },
                         {
                             "name": "Relative Time example a few seconds ago",
