@@ -202,34 +202,34 @@
                     "description": "Choose the type of timestamp you want to use",
                     "choices": [
                         {
-                          "name": "Short Time example 9:12 PM",
-                          "value": "short time"
+                            "name": "Short Time example 9:12 PM",
+                            "value": "short time"
                         },
                         {
-                          "name": "Long Time example 9:12:30 PM",
-                          "value": "long time"
+                            "name": "Long Time example 9:12:30 PM",
+                            "value": "long time"
                         },
                         {
-                          "name": "Short Date example 06/29/2022",
-                          "value": "short date"
+                            "name": "Short Date example 06/29/2022",
+                            "value": "short date"
                         },
                         {
-                          "name": "Long Date example June 29, 2022",
-                          "value": "long date"
+                            "name": "Long Date example June 29, 2022",
+                            "value": "long date"
                         },
                         {
-                          "name": "Short Date/Time example June 29, 2022 9:12 PM",
-                          "value": "short date/time"
+                            "name": "Short Date/Time example June 29, 2022 9:12 PM",
+                            "value": "short date/time"
                         },
                         {
-                          "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
-                          "value": "long date/time"
+                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM",
+                            "value": "long date/time"
                         },
                         {
-                          "name": "Relative Time example a few seconds ago",
-                          "value": "relative time"
+                            "name": "Relative Time example a few seconds ago",
+                            "value": "relative time"
                         }
-                      ]
+                    ]
                 }
             ]
         }
