@@ -1,5 +1,5 @@
 {
-    "name": "automatyczna blokada",
+    "name": "automatyczna-blokada",
     "description": "Automatycznie blokuj nowe emotikony na serwerze do roli",
     "options": [
         {
