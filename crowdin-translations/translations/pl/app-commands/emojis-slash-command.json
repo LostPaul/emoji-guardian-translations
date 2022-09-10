@@ -152,7 +152,7 @@
                     "description": "Sortuj emoji alfabetycznie lub po dacie utworzenia"
                 },
                 {
-                    "name": "wykluczyć_nie_lub_animowane_emoji",
+                    "name": "exclude_non_or_animated_emojis",
                     "description": "Wykluczenie animowanych lub nieanimowanych emoji z listy",
                     "choices": [
                         {
