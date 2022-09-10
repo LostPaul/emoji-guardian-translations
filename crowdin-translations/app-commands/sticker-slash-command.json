@@ -9,10 +9,8 @@
                     "description": "The emoji you want to add as sticker"
                 },
                 {
-                    "type": 3,
                     "name": "related_emoji",
-                    "description": "The unicode emoji which should be related to your sticker",
-                    "required": true
+                    "description": "The unicode emoji which should be related to your sticker"
                 },
                 {
                     "description": "The name you want for the sticker"
