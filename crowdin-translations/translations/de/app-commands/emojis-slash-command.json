@@ -1,76 +1,76 @@
 {
-    "description": "Commands that work with multiple emojis.",
+    "description": "Befehle, die mit mehreren Emojis funktionieren.",
     "options": [
         {
-            "name": "unlock_all",
-            "description": "Unlock all emojis from a server",
+            "name": "alle_entsperren",
+            "description": "Entsperre alle Emojis von einem Server",
             "options": [
                 {
-                    "name": "role",
-                    "description": "The role to be removed from the emojis."
+                    "name": "rolle",
+                    "description": "Die Rolle, die von dem Emojis entfernt werden soll."
                 },
                 {
-                    "name": "ignore_emojis",
-                    "description": "Prevent specific emojis from getting unlocked."
+                    "name": "emojis_ignorieren",
+                    "description": "Verhinder, dass bestimmte Emojis entsperrt werden."
                 }
             ]
         },
         {
-            "name": "lock_all",
-            "description": "Lock all emojis from a server to a role",
+            "name": "alle_sperren",
+            "description": "Sperre alle Emojis von einem Server zu einer Rolle",
             "options": [
                 {
-                    "description": "The role to be added to the emojis."
+                    "description": "Die Rolle, die den Emojis hinzugefügt werden soll."
                 },
                 {
-                    "description": "Prevent specific emojis from getting locked."
+                    "description": "Verhinder, dass bestimmte Emojis gesperrt werden."
                 }
             ]
         },
         {
-            "name": "locked",
-            "description": "List of which emojis are locked to which role"
+            "name": "gesperrt",
+            "description": "Eine liste von Emojis welche zu einer Rolle gesperrt sind"
         },
         {
-            "name": "stats",
-            "description": "See how many emojis you uploaded or how many emojis you locked",
+            "name": "statistiken",
+            "description": "Sieh wie viele Emojis du hochgeladen hast oder wie viele Emojis du gesperrt hast",
             "options": [
                 {
-                    "name": "hidden",
-                    "description": "Hide the message from other users"
+                    "name": "versteckt",
+                    "description": "Nachricht von anderen Benutzern verbergen"
                 }
             ]
         },
         {
-            "name": "add_multiple",
-            "description": "Add multiple emojis to the server by using emojis from other servers",
+            "name": "mehrere_hinzufügen",
+            "description": "Füge mehrere Emojis zum Server hinzu, indem du Emojis von anderen Servern verwendest",
             "options": [
                 {
-                    "description": "The emojis you want to add"
+                    "description": "Die Emojis, die du hinzufügen möchtest"
                 }
             ]
         },
         {
-            "name": "delete_multiple",
-            "description": "Delete multiple emojis at once from your server",
+            "name": "mehrere_löschen",
+            "description": "Lösche mehrere Emojis auf einmal von deinem Server",
             "options": [
                 {
-                    "description": "The emojis you want to delete"
+                    "description": "Die Emojis, die du löschen möchtest"
                 }
             ]
         },
         {
-            "name": "delete_latest",
-            "description": "Delete the latest emojis uploaded to your server",
+            "name": "zuletzt_erstellte_löschen",
+            "description": "Lösche die letzten Emojis die auf deinem Server hochgeladen",
             "options": [
                 {
-                    "name": "amount",
-                    "description": "The amount of emojis you want to delete"
+                    "name": "anzahl",
+                    "description": "Die anzahl von emojis die du löschen möchtest"
                 }
             ]
         },
         {
-            "description": "Reset the roles of every emoji from this server",
+            "description": "Die Rollen jedes Emoji von diesem Server zurücksetzen",
             "options": [
                 {
                     "description": "Prevent specific emojis from getting reset."
@@ -137,7 +137,7 @@
             "description": "Disable the auto update of the emoji list"
         },
         {
-            "name": "list",
+            "name": "liste",
             "description": "Create a list of the emojis from your server with the emoji ids",
             "options": [
                 {
