@@ -73,12 +73,12 @@
             "description": "Die Rollen jedes Emoji von diesem Server zurücksetzen",
             "options": [
                 {
-                    "description": "Prevent specific emojis from getting reset."
+                    "description": "Verhinder, dass bestimmte Emojis ihre Rollen zurückgesetzt bekommen."
                 }
             ]
         },
         {
-            "name": "lock_multiple",
+            "name": "mehrere_sperren",
             "description": "Lock multiple emojis to a role",
             "options": [
                 {
@@ -188,7 +188,7 @@
                     "description": "Choose if the message should be send with a webhook or not."
                 },
                 {
-                    "name": "divider",
+                    "name": "trenner",
                     "description": "Choose if you want to use a divider between the emojis or not"
                 },
                 {
