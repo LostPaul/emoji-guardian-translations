@@ -1,5 +1,5 @@
 {
-    "name": "emoji-preview",
+    "name": "{emoji}-preview",
     "description": "See how an emoji looks on darkmode and whitemode",
     "options": [
         {
