@@ -38,40 +38,40 @@
             "description": "Lösche ein Emoji von deinem Server.",
             "options": [
                 {
-                    "description": "The emoji you want to delete from your server."
+                    "description": "Das Emoji, das du von deinem Server löschen möchtest."
                 }
             ]
         },
         {
             "name": "bearbeiten",
-            "description": "Edit the name of emoji from a server",
+            "description": "Bearbeite den Namen eines Emoji von einem Server.",
             "options": [
                 {
-                    "description": "The emoji you want to edit."
+                    "description": "Das Emoji, das du bearbeiten möchtest."
                 }
             ]
         },
         {
-            "name": "lock",
-            "description": "Lock an emoji to a role.",
+            "name": "sperren",
+            "description": "Sperre ein Emoji an eine Rolle, damit nur die Rolle den Emoji benutzen kann.",
             "options": [
                 {
-                    "description": "The emoji you want to lock."
+                    "description": "Das Emoji, das du sperren möchtest."
                 },
                 {
-                    "description": "The role to be added to the emoji"
+                    "description": "Die Rolle, die den Emoji hinzugefügt werden soll."
                 }
             ]
         },
         {
-            "name": "unlock",
-            "description": "Unlock an emoji from a role.",
+            "name": "entsperren",
+            "description": "Entsperre einen Emoji von einer Rolle.",
             "options": [
                 {
-                    "description": "The emoji you want to unlock."
+                    "description": "Das Emoji, das du entsperren möchtest."
                 },
                 {
-                    "description": "The role to be removed from the emoji"
+                    "description": "Die Rolle, die von dem Emoji entfernt werden soll."
                 }
             ]
         }
