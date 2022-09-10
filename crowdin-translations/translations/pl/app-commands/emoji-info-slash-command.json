@@ -1,5 +1,5 @@
 {
-    "name": "information",
+    "name": "{emoji}-info",
     "description": "Uzyskaj informacje o emoji",
     "options": [
         {
