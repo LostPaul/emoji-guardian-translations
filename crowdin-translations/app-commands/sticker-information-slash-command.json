@@ -1,3 +1,9 @@
 {
-    
+    "name": "sticker-information",
+    "description": "Get information about a sticker",
+    "options": [
+        {
+            "description": "The sticker you want to get information about"
+        }
+    ]
 }
