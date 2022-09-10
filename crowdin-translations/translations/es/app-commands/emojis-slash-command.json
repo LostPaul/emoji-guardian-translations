@@ -73,7 +73,7 @@
             "description": "Reset the roles of every emoji from this server",
             "options": [
                 {
-                    "description": "Prevent specific emojis from getting reset."
+                    "description": "Prevent specific emojis from getting their roles reset."
                 }
             ]
         },
