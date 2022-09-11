@@ -149,76 +149,76 @@
                 },
                 {
                     "name": "sortiere_nach",
-                    "description": "Sort the emojis alphabetically or after the creation date"
+                    "description": "Emojis alphabetisch oder nach dem Erstellungsdatum sortieren"
                 },
                 {
-                    "name": "exclude_non_or_animated_emojis",
-                    "description": "Exclude animated or non animated emojis from the list",
+                    "name": "animierte_emojis_ausschließen",
+                    "description": "Animierte oder nicht animierte Emojis von der Liste ausschließen",
                     "choices": [
                         {
-                            "name": "Exclude animated emojis"
+                            "name": "Animierte Emojis ausschließen"
                         },
                         {
-                            "name": "Exclude non animated emojis"
+                            "name": "Nicht animierte Emojis ausschließen"
                         }
                     ]
                 },
                 {
                     "name": "gesperrte_emojis_aussschließen",
-                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                    "description": "Schließe Emojis aus die an einer Rolle gesperrt sind"
                 },
                 {
                     "name": "ganze_emoji_id_zeigen",
-                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                    "description": "Wähle ob du die ganze ID angezeigt haben willst oder nur den Namen vom Emoji"
                 },
                 {
-                    "name": "message_before_emojis",
-                    "description": "Add a custom message before the emojis list"
+                    "name": "nachricht_vor_den_emojis",
+                    "description": "Benutzerdefinierte Nachricht vor der Emoji-Liste hinzufügen"
                 },
                 {
                     "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "description": "Verwende einen benutzerdefinierten Namen für die Webhook Nachricht"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Benutze einen benutzerdefinierten Avatar für die Webhook-Nachricht"
                 },
                 {
                     "name": "webhook",
-                    "description": "Choose if the message should be send with a webhook or not."
+                    "description": "Wähle ob die Nachricht mit einem Webhook versendet werden soll."
                 },
                 {
                     "name": "trenner",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "description": "Wähle ob du einen Trenner zwischen den Emojis verwenden möchtest"
                 },
                 {
-                    "name": "update_timestamp",
-                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                    "name": "aktualisierungszeitstempel",
+                    "description": "Wähle ob du einen Zeitstempel unter der Emoji-liste haben möchtest"
                 },
                 {
-                    "name": "update_timestamp_type",
-                    "description": "Choose the type of timestamp you want to use",
+                    "name": "aktualisierungszeitstempel_art",
+                    "description": "Wähle die Art von Zeitstempel, die du benutzen willst",
                     "choices": [
                         {
-                            "name": "Short Time example 9:12 PM"
+                            "name": "Kurzzeit Beispiel 21:12"
                         },
                         {
-                            "name": "Long Time example 9:12:30 PM"
+                            "name": "Lange Zeit Beispiel 21:12:30"
                         },
                         {
-                            "name": "Short Date example 06/29/2022"
+                            "name": "Kurzes Datum Beispiel 06/29/2022"
                         },
                         {
-                            "name": "Long Date example June 29, 2022"
+                            "name": "Langes Datum Beispiel 29. Juni 2022"
                         },
                         {
-                            "name": "Short Date/Time example June 29, 2022 9:12 PM"
+                            "name": "Kurzes Datum/Zeit Beispiel 29. Juni 2022 21.12 Uhr"
                         },
                         {
-                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM"
+                            "name": "Langes Datum/Zeit Beispiel Mittwoch, 29. Juni 2022 9:12 Uhr"
                         },
                         {
-                            "name": "Relative Time example a few seconds ago"
+                            "name": "Relative Zeit Beispiel vor ein paar Sekunden"
                         }
                     ]
                 }
