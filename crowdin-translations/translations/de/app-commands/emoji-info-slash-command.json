@@ -3,7 +3,7 @@
     "description": "Erhalte Informationen über ein Emoji",
     "options": [
         {
-            "description": "The emoji you want to get information about."
+            "description": "Das Emoji, über das du Informationen erhalten möchtest."
         }
     ]
 }
