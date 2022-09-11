@@ -165,7 +165,7 @@
                 },
                 {
                     "name": "exclude_locked_emojis",
-                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                    "description": "Exclude emojis that are locked to a role"
                 },
                 {
                     "name": "show_full_emoji_id",
