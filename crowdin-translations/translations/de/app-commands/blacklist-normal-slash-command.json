@@ -10,7 +10,7 @@
                     "description": "Add the creator of the emojis people can see this if they try to add the emoji"
                 },
                 {
-                    "name": "extra_info",
+                    "name": "extra_informationen",
                     "description": "Add extra information about the emoji people can see this if they try to add the emoji"
                 }
             ]
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "name": "all_emojis",
+            "name": "alle_emojis",
             "description": "Blacklist all the emojis from this server from being added to other servers by using Emoji Guardian",
             "options": [
                 {
@@ -34,6 +34,14 @@
         },
         {
             "description": "See which emojis you blacklisted from this server"
+        },
+        {
+            "description": "Remove all emojis from the blacklist from this server",
+            "options": [
+                {
+                    "description": "Ignore specific emojis for the blacklist"
+                }
+            ]
         }
     ]
 }
