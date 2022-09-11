@@ -116,11 +116,11 @@
                 },
                 {
                     "name": "quote_before_emojis",
-                    "description": "Choose if you want to have the quote line before "
+                    "description": "Decide if you want the quote line to appear before the emojis. "
                 },
                 {
                     "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "description": "Choose if you want to use a divider between the emojis"
                 },
                 {
                     "name": "webhook_name",
