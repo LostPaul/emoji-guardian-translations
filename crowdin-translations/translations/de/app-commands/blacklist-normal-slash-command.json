@@ -6,7 +6,7 @@
             "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
             "options": [
                 {
-                    "name": "creator",
+                    "name": "ersteller",
                     "description": "Add the creator of the emojis people can see this if they try to add the emoji"
                 },
                 {
