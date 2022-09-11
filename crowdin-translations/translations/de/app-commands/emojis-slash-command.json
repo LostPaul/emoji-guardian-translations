@@ -79,18 +79,18 @@
         },
         {
             "name": "mehrere_sperren",
-            "description": "Lock multiple emojis to a role",
+            "description": "Sperre mehrere Emojis an einer Rolle.",
             "options": [
                 {
-                    "description": "The emojis you want to lock"
+                    "description": "Die Emojis, die du sperren möchtest"
                 },
                 {
-                    "description": "The role to be added to the emojis"
+                    "description": "Die Rolle, die den Emojis hinzugefügt werden soll"
                 }
             ]
         },
         {
-            "name": "unlock_multiple",
+            "name": "mehrere_entsperren",
             "description": "Unlock multiple emojis from a role",
             "options": [
                 {
@@ -119,7 +119,7 @@
                     "description": "Choose if you want to have the quote line before "
                 },
                 {
-                    "name": "divider",
+                    "name": "trenner",
                     "description": "Choose if you want to use a divider between the emojis or not"
                 },
                 {
