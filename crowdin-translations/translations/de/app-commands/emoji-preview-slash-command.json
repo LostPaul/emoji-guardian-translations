@@ -3,7 +3,7 @@
     "description": "Sieh wie ein Emoji im Dunkelmodus und im Whitemode aussieht",
     "options": [
         {
-            "description": "The emoji you want to preview"
+            "description": "Das Emoji, das du vorschauen möchtest"
         }
     ]
 }
