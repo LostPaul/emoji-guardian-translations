@@ -1,9 +1,9 @@
 {
     "name": "sticker-informationen",
-    "description": "Get information about a sticker",
+    "description": "Erhalte Informationen über ein Sticker",
     "options": [
         {
-            "description": "The sticker you want to get information about"
+            "description": "Der Sticker über den Informationen erhalten möchtest"
         }
     ]
 }
