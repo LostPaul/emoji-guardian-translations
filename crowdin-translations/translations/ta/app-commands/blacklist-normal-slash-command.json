@@ -1,6 +1,6 @@
 {
     "name": "blacklist",
-    "description": "lacklist your emojis from being added to other servers by using Emoji Guardian",
+    "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
     "options": [
         {
             "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
@@ -11,12 +11,12 @@
                 },
                 {
                     "name": "extra_info",
-                    "description": "Add extra information about the emoji people can see this if they try to add the emoji"
+                    "description": "Add extra information about the emoji, people can see this if they try to add the emoji"
                 }
             ]
         },
         {
-            "description": "Remove emojis from the emojis blacklist",
+            "description": "Remove emojis from the blacklist",
             "options": [
                 {
                     "description": "The emojis you want remove from the Blacklist"
@@ -34,6 +34,14 @@
         },
         {
             "description": "See which emojis you blacklisted from this server"
+        },
+        {
+            "description": "Remove all emojis from the blacklist from this server",
+            "options": [
+                {
+                    "description": "Ignore specific emojis for the blacklist"
+                }
+            ]
         }
     ]
 }
