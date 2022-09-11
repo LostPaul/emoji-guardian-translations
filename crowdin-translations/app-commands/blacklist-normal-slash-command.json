@@ -16,6 +16,7 @@
             ]
         },
         {
+            "name": "remove-emojis",
             "description": "Remove emojis from the blacklist",
             "options": [
                 {
