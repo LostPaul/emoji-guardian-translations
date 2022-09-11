@@ -1,224 +1,224 @@
 {
-    "description": "Commands that work with multiple emojis.",
+    "description": "Befehle, die mit mehreren Emojis funktionieren.",
     "options": [
         {
-            "name": "unlock_all",
-            "description": "Unlock all emojis from a server",
+            "name": "alle_entsperren",
+            "description": "Entsperre alle Emojis von einem Server",
             "options": [
                 {
-                    "name": "role",
-                    "description": "The role to be removed from the emojis."
+                    "name": "rolle",
+                    "description": "Die Rolle, die von dem Emojis entfernt werden soll."
                 },
                 {
-                    "name": "ignore_emojis",
-                    "description": "Prevent specific emojis from getting unlocked."
+                    "name": "emojis_ignorieren",
+                    "description": "Verhinder, dass bestimmte Emojis entsperrt werden."
                 }
             ]
         },
         {
-            "name": "lock_all",
-            "description": "Lock all emojis from a server to a role",
+            "name": "alle_sperren",
+            "description": "Sperre alle Emojis von einem Server zu einer Rolle",
             "options": [
                 {
-                    "description": "The role to be added to the emojis."
+                    "description": "Die Rolle, die den Emojis hinzugefügt werden soll."
                 },
                 {
-                    "description": "Prevent specific emojis from getting locked."
+                    "description": "Verhinder, dass bestimmte Emojis gesperrt werden."
                 }
             ]
         },
         {
-            "name": "locked",
-            "description": "List of which emojis are locked to which role"
+            "name": "gesperrt",
+            "description": "Eine liste von Emojis welche zu einer Rolle gesperrt sind"
         },
         {
-            "name": "stats",
-            "description": "See how many emojis you uploaded or how many emojis you locked",
+            "name": "statistiken",
+            "description": "Sieh wie viele Emojis du hochgeladen hast oder wie viele Emojis du gesperrt hast",
             "options": [
                 {
-                    "name": "hidden",
-                    "description": "Hide the message from other users"
+                    "name": "versteckt",
+                    "description": "Nachricht von anderen Benutzern verbergen"
                 }
             ]
         },
         {
-            "name": "add_multiple",
-            "description": "Add multiple emojis to the server by using emojis from other servers",
+            "name": "mehrere_hinzufügen",
+            "description": "Füge mehrere Emojis zum Server hinzu, indem du Emojis von anderen Servern verwendest",
             "options": [
                 {
-                    "description": "The emojis you want to add"
+                    "description": "Die Emojis, die du hinzufügen möchtest"
                 }
             ]
         },
         {
-            "name": "delete_multiple",
-            "description": "Delete multiple emojis at once from your server",
+            "name": "mehrere_löschen",
+            "description": "Lösche mehrere Emojis auf einmal von deinem Server",
             "options": [
                 {
-                    "description": "The emojis you want to delete"
+                    "description": "Die Emojis, die du löschen möchtest"
                 }
             ]
         },
         {
-            "name": "delete_latest",
-            "description": "Delete the latest emojis uploaded to your server",
+            "name": "zuletzt_erstellte_löschen",
+            "description": "Lösche die letzten Emojis die auf deinem Server hochgeladen",
             "options": [
                 {
-                    "name": "amount",
-                    "description": "The amount of emojis you want to delete"
+                    "name": "anzahl",
+                    "description": "Die anzahl von emojis die du löschen möchtest"
                 }
             ]
         },
         {
-            "description": "Reset the roles of every emoji from this server",
+            "description": "Die Rollen jedes Emoji von diesem Server zurücksetzen",
             "options": [
                 {
-                    "description": "Prevent specific emojis from getting reset."
+                    "description": "Verhinder, dass bestimmte Emojis ihre Rollen zurückgesetzt bekommen."
                 }
             ]
         },
         {
-            "name": "lock_multiple",
-            "description": "Lock multiple emojis to a role",
+            "name": "mehrere_sperren",
+            "description": "Sperre mehrere Emojis an einer Rolle.",
             "options": [
                 {
-                    "description": "The emojis you want to lock"
+                    "description": "Die Emojis, die du sperren möchtest"
                 },
                 {
-                    "description": "The role to be added to the emojis"
+                    "description": "Die Rolle, die den Emojis hinzugefügt werden soll"
                 }
             ]
         },
         {
-            "name": "unlock_multiple",
-            "description": "Unlock multiple emojis from a role",
+            "name": "mehrere_entsperren",
+            "description": "Entsperre mehrere Emojis von einr Rolle",
             "options": [
                 {
-                    "description": "The emojis you want to unlock"
+                    "description": "Die Emojis, die du entsperren möchtest"
                 },
                 {
-                    "description": "The role to be unlocked to the emojis"
+                    "description": "Die Rolle, die von den Emojis entsperrt werden soll"
                 }
             ]
         },
         {
-            "name": "list_category",
-            "description": "Create an emoji list with custom categories",
+            "name": "kategorie_liste",
+            "description": "Erstelle eine Emoji-Liste mit benutzerdefinierten Kategorien",
             "options": [
                 {
-                    "description": "The emojis that will be in the category list"
+                    "description": "Die Emojis, die in der Kategorieliste seien werden"
                 },
                 {
-                    "description": "The name for the category"
+                    "description": "Der Name der Kategorie"
                 },
                 {
-                    "description": "The channel where you want to create the emoji category"
+                    "description": "Der Kanal, in dem die Emoji-Kategorie erstellt werden soll"
                 },
                 {
-                    "name": "quote_before_emojis",
-                    "description": "Choose if you want to have the quote line before "
+                    "name": "quote_vor_emojis",
+                    "description": "Entscheide, ob der Zitat strich vor den Emojis angezeigt werden soll. "
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "name": "trenner",
+                    "description": "Wähle ob du einen Trenner zwischen den Emojis verwenden möchtest"
                 },
                 {
                     "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "description": "Verwende einen benutzerdefinierten Namen für die Webhook Nachricht"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Benutze einen benutzerdefinierten Avatar für die Webhook-Nachricht"
                 }
             ]
         },
         {
-            "name": "list_auto_update_remove",
-            "description": "Disable the auto update of the emoji list"
+            "name": "liste_auto_update_entfernen",
+            "description": "Deaktiviere das automatische Aktualisieren der Emoji-Liste"
         },
         {
-            "name": "list",
-            "description": "Create a list of the emojis from your server with the emoji ids",
+            "name": "liste",
+            "description": "Erstelle eine Liste der Emojis von deinem Server mit den Emoji-IDs",
             "options": [
                 {
-                    "name": "auto_update_list",
-                    "description": "Choose if you want to automatically update the list or not"
+                    "name": "liste_auto_aktualisieren",
+                    "description": "Wähle, ob die Liste automatisch aktualisiert werden soll"
                 },
                 {
-                    "description": "Ignore specific emojis in the list"
+                    "description": "Ignoriere bestimmte Emojis in der Liste"
                 },
                 {
-                    "name": "sort_after",
-                    "description": "Sort the emojis alphabetically or after the creation date"
+                    "name": "sortiere_nach",
+                    "description": "Emojis alphabetisch oder nach dem Erstellungsdatum sortieren"
                 },
                 {
-                    "name": "exclude_non_or_animated_emojis",
-                    "description": "Exclude animated or non animated emojis from the list",
+                    "name": "animierte_emojis_ausschließen",
+                    "description": "Animierte oder nicht animierte Emojis von der Liste ausschließen",
                     "choices": [
                         {
-                            "name": "Exclude animated emojis"
+                            "name": "Animierte Emojis ausschließen"
                         },
                         {
-                            "name": "Exclude non animated emojis"
+                            "name": "Nicht animierte Emojis ausschließen"
                         }
                     ]
                 },
                 {
-                    "name": "exclude_locked_emojis",
-                    "description": "Choose if want to list emojis that are locked to a role in the message or not"
+                    "name": "gesperrte_emojis_aussschließen",
+                    "description": "Schließe Emojis aus die an einer Rolle gesperrt sind"
                 },
                 {
-                    "name": "show_full_emoji_id",
-                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                    "name": "ganze_emoji_id_zeigen",
+                    "description": "Wähle ob du die ganze ID angezeigt haben willst oder nur den Namen vom Emoji"
                 },
                 {
-                    "name": "message_before_emojis",
-                    "description": "Add a custom message before the emojis list"
+                    "name": "nachricht_vor_den_emojis",
+                    "description": "Benutzerdefinierte Nachricht vor der Emoji-Liste hinzufügen"
                 },
                 {
                     "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "description": "Verwende einen benutzerdefinierten Namen für die Webhook Nachricht"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Benutze einen benutzerdefinierten Avatar für die Webhook-Nachricht"
                 },
                 {
                     "name": "webhook",
-                    "description": "Choose if the message should be send with a webhook or not."
+                    "description": "Wähle ob die Nachricht mit einem Webhook versendet werden soll."
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "name": "trenner",
+                    "description": "Wähle ob du einen Trenner zwischen den Emojis verwenden möchtest"
                 },
                 {
-                    "name": "update_timestamp",
-                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                    "name": "aktualisierungszeitstempel",
+                    "description": "Wähle ob du einen Zeitstempel unter der Emoji-liste haben möchtest"
                 },
                 {
-                    "name": "update_timestamp_type",
-                    "description": "Choose the type of timestamp you want to use",
+                    "name": "aktualisierungszeitstempel_art",
+                    "description": "Wähle die Art von Zeitstempel, die du benutzen willst",
                     "choices": [
                         {
-                            "name": "Short Time example 9:12 PM"
+                            "name": "Kurzzeit Beispiel 21:12"
                         },
                         {
-                            "name": "Long Time example 9:12:30 PM"
+                            "name": "Lange Zeit Beispiel 21:12:30"
                         },
                         {
-                            "name": "Short Date example 06/29/2022"
+                            "name": "Kurzes Datum Beispiel 06/29/2022"
                         },
                         {
-                            "name": "Long Date example June 29, 2022"
+                            "name": "Langes Datum Beispiel 29. Juni 2022"
                         },
                         {
-                            "name": "Short Date/Time example June 29, 2022 9:12 PM"
+                            "name": "Kurzes Datum/Zeit Beispiel 29. Juni 2022 21.12 Uhr"
                         },
                         {
-                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM"
+                            "name": "Langes Datum/Zeit Beispiel Mittwoch, 29. Juni 2022 9:12 Uhr"
                         },
                         {
-                            "name": "Relative Time example a few seconds ago"
+                            "name": "Relative Zeit Beispiel vor ein paar Sekunden"
                         }
                     ]
                 }

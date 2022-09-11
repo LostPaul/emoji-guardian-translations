@@ -44,7 +44,7 @@
         },
         {
             "name": "edit",
-            "description": "Edit the name of emoji from a server",
+            "description": "Edit the name of emoji from a server.",
             "options": [
                 {
                     "description": "The emoji you want to edit."
@@ -59,7 +59,7 @@
                     "description": "The emoji you want to lock."
                 },
                 {
-                    "description": "The role to be added to the emoji"
+                    "description": "The role to be added to the emoji."
                 }
             ]
         },
@@ -71,7 +71,7 @@
                     "description": "The emoji you want to unlock."
                 },
                 {
-                    "description": "The role to be removed from the emoji"
+                    "description": "The role to be removed from the emoji."
                 }
             ]
         }

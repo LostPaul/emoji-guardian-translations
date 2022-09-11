@@ -1,39 +1,47 @@
 {
     "name": "blacklist",
-    "description": "lacklist your emojis from being added to other servers by using Emoji Guardian",
+    "description": "Blacklist Emojis von deinem Server damit man sie nicht mehr mit Emoji Guardian hinzufügen kann",
     "options": [
         {
-            "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+            "description": "Blacklist Emojis von deinem Server damit man sie nicht mehr mit Emoji Guardian hinzufügen kann",
             "options": [
                 {
-                    "name": "creator",
-                    "description": "Add the creator of the emojis people can see this if they try to add the emoji"
+                    "name": "ersteller",
+                    "description": "Füge den Ersteller der Emojis hinzu"
                 },
                 {
-                    "name": "extra_info",
-                    "description": "Add extra information about the emoji people can see this if they try to add the emoji"
+                    "name": "extra_informationen",
+                    "description": "Füge zusätzliche Informationen über das Emoji hinzu"
                 }
             ]
         },
         {
-            "description": "Remove emojis from the emojis blacklist",
+            "description": "Entferne Emojis von der Blacklist",
             "options": [
                 {
-                    "description": "The emojis you want remove from the Blacklist"
+                    "description": "Die Emojis, die du von der Blacklist entfernen möchtest"
                 }
             ]
         },
         {
-            "name": "all_emojis",
-            "description": "Blacklist all the emojis from this server from being added to other servers by using Emoji Guardian",
+            "name": "alle_emojis",
+            "description": "Blacklist alle Emojis von deinem Server damit man sie nicht mehr mit Emoji Guardian hinzufügen kann",
             "options": [
                 {
-                    "description": "Ignore specific emojis for the blacklist"
+                    "description": "Ignoriere spezifische Emojis für die Blacklist"
                 }
             ]
         },
         {
-            "description": "See which emojis you blacklisted from this server"
+            "description": "Siehe, welche Emojis du von diesem Server geblacklisted hast"
+        },
+        {
+            "description": "Entferne alle Emojis von der Blacklist für diesen Server",
+            "options": [
+                {
+                    "description": "Ignoriere spezifische Emojis für die Blacklist"
+                }
+            ]
         }
     ]
 }

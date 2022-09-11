@@ -4,7 +4,7 @@
     "options": [
         {
             "name": "reset",
-            "description": "Reset the language of the bot to English"
+            "description": "Reset the language of the bot to English."
         },
         {
             "name": "set",

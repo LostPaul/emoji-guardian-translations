@@ -1,38 +1,48 @@
 {
     "name": "sticker",
-    "description": "Sticker related commands",
+    "description": "Sticker bezogene Befehle",
     "options": [
         {
-            "description": "Add a sticker to your server by using an emoji",
+            "description": "Füge einen Sticker deinem Server durch Verwendung eines Emojis hinzu",
             "options": [
                 {
-                    "description": "The emoji you want to add as sticker"
+                    "description": "Das Emoji, das du als Sticker hinzufügen möchtest"
                 },
                 {
-                    "name": "related_emoji",
-                    "description": "The unicode emoji which should be related to your sticker"
+                    "name": "zugehöriger_emoji",
+                    "description": "Das Unicode-Emoji, der mit deinem Sticker ähnlich sein sollte"
                 },
                 {
-                    "description": "The name you want for the sticker"
+                    "description": "Der Name für den Sticker"
                 },
                 {
-                    "description": "The description you want for the sticker"
+                    "name": "beschreibung",
+                    "description": "Die Beschreibung für den Sticker"
                 }
             ]
         },
         {
-            "description": "Delete a sticker from your server",
+            "description": "Lösche einen Sticker von deinem Server",
             "options": [
                 {
-                    "description": "The sticker you want to delete, use the name of the sticker"
+                    "name": "sticker",
+                    "description": "Der Aufkleber, den du löschen möchtest"
                 }
             ]
         },
         {
-            "description": "Edit a sticker from your server",
+            "description": "Bearbeite einen Sticker von deinem Server",
             "options": [
                 {
-                    "description": "The sticker you want to edit"
+                    "description": "Der Sticker, den du bearbeiten möchtest"
+                }
+            ]
+        },
+        {
+            "description": "Erstelle einen Sticker auf deinem Server mit einem Bild.",
+            "options": [
+                {
+                    "description": "Das Bild, das du als Sticker hinzufügen möchtest"
                 }
             ]
         }
