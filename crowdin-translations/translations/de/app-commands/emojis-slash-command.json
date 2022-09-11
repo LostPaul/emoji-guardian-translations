@@ -133,16 +133,16 @@
             ]
         },
         {
-            "name": "list_auto_update_remove",
-            "description": "Disable the auto update of the emoji list"
+            "name": "liste_auto_update_entfernen",
+            "description": "Deaktiviere das automatische Aktualisieren der Emoji-Liste"
         },
         {
             "name": "liste",
-            "description": "Create a list of the emojis from your server with the emoji ids",
+            "description": "Erstelle eine Liste der Emojis von deinem Server mit den Emoji-IDs",
             "options": [
                 {
-                    "name": "auto_update_list",
-                    "description": "Choose if you want to automatically update the list or not"
+                    "name": "liste_auto_aktualisieren",
+                    "description": "Wähle, ob die Liste automatisch aktualisiert werden soll"
                 },
                 {
                     "description": "Ignore specific emojis in the list"
