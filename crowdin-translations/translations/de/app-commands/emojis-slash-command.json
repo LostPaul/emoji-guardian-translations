@@ -106,29 +106,29 @@
             "description": "Erstelle eine Emoji-Liste mit benutzerdefinierten Kategorien",
             "options": [
                 {
-                    "description": "The emojis that will be in the category list"
+                    "description": "Die Emojis, die in der Kategorieliste seien werden"
                 },
                 {
-                    "description": "The name for the category"
+                    "description": "Der Name der Kategorie"
                 },
                 {
-                    "description": "The channel where you want to create the emoji category"
+                    "description": "Der Kanal, in dem die Emoji-Kategorie erstellt werden soll"
                 },
                 {
-                    "name": "quote_before_emojis",
-                    "description": "Choose if you want to have the quote line before "
+                    "name": "quote_vor_emojis",
+                    "description": "Entscheide, ob der Zitat strich vor den Emojis angezeigt werden soll. "
                 },
                 {
                     "name": "trenner",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "description": "Wähle ob du einen Trenner zwischen den Emojis verwenden möchtest"
                 },
                 {
                     "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "description": "Verwende einen benutzerdefinierten Namen für die Webhook Nachricht"
                 },
                 {
                     "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "description": "Benutze einen benutzerdefinierten Avatar für die Webhook-Nachricht"
                 }
             ]
         },
@@ -148,7 +148,7 @@
                     "description": "Ignore specific emojis in the list"
                 },
                 {
-                    "name": "sort_after",
+                    "name": "sortiere_nach",
                     "description": "Sort the emojis alphabetically or after the creation date"
                 },
                 {
@@ -164,11 +164,11 @@
                     ]
                 },
                 {
-                    "name": "exclude_locked_emojis",
+                    "name": "gesperrte_emojis_aussschließen",
                     "description": "Choose if want to list emojis that are locked to a role in the message or not"
                 },
                 {
-                    "name": "show_full_emoji_id",
+                    "name": "ganze_emoji_id_zeigen",
                     "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
                 },
                 {
