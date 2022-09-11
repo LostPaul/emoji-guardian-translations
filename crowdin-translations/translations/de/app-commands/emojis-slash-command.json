@@ -145,7 +145,7 @@
                     "description": "Wähle, ob die Liste automatisch aktualisiert werden soll"
                 },
                 {
-                    "description": "Ignore specific emojis in the list"
+                    "description": "Ignoriere bestimmte Emojis in der Liste"
                 },
                 {
                     "name": "sortiere_nach",
