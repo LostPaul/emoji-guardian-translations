@@ -91,19 +91,19 @@
         },
         {
             "name": "mehrere_entsperren",
-            "description": "Unlock multiple emojis from a role",
+            "description": "Entsperre mehrere Emojis von einr Rolle",
             "options": [
                 {
-                    "description": "The emojis you want to unlock"
+                    "description": "Die Emojis, die du entsperren möchtest"
                 },
                 {
-                    "description": "The role to be unlocked to the emojis"
+                    "description": "Die Rolle, die von den Emojis entsperrt werden soll"
                 }
             ]
         },
         {
-            "name": "list_category",
-            "description": "Create an emoji list with custom categories",
+            "name": "kategorie_liste",
+            "description": "Erstelle eine Emoji-Liste mit benutzerdefinierten Kategorien",
             "options": [
                 {
                     "description": "The emojis that will be in the category list"
