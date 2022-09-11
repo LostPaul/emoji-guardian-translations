@@ -6,6 +6,9 @@
             "description": "Blacklist Emojis von deinem Server damit man sie nicht mehr mit Emoji Guardian hinzufügen kann",
             "options": [
                 {
+                    "description": "Die Emojis, die du blacklisten möchtest"
+                },
+                {
                     "name": "ersteller",
                     "description": "Füge den Ersteller der Emojis hinzu"
                 },
@@ -16,6 +19,7 @@
             ]
         },
         {
+            "name": "emojis-entfernen",
             "description": "Entferne Emojis von der Blacklist",
             "options": [
                 {
