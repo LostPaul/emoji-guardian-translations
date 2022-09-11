@@ -1,9 +1,9 @@
 {
-    "name": "help",
-    "description": "Get information about the bot.",
+    "name": "hilfe",
+    "description": "Erhalte Informationen über den Bot.",
     "options": [
         {
-            "name": "command",
+            "name": "befehl",
             "description": "Get information about a command."
         }
     ]
