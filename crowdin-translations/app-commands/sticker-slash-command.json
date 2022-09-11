@@ -26,7 +26,7 @@
             "options": [
                 {
                     "name": "sticker",
-                    "description": "The sticker you want to delete, use the name of the sticker"
+                    "description": "The sticker you want to delete"
                 }
             ]
         },
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "description": "Create a sticker to your server by using a image url.",
+            "description": "Create a sticker to your server by using an image.",
             "options": [
                 {
                     "description": "The image you want to add as sticker"
