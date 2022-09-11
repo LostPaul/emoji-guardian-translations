@@ -9,14 +9,15 @@
                     "description": "The emoji you want to add as sticker"
                 },
                 {
-                    "name": "related_emoji",
+                    "name": "zugehöriger_emoji",
                     "description": "The unicode emoji which should be related to your sticker"
                 },
                 {
                     "description": "The name you want for the sticker"
                 },
                 {
-                    "description": "The description you want for the sticker"
+                    "name": "beschreibung",
+                    "description": "Die Beschreibung für den Sticker"
                 }
             ]
         },
@@ -24,6 +25,7 @@
             "description": "Delete a sticker from your server",
             "options": [
                 {
+                    "name": "sticker",
                     "description": "The sticker you want to delete, use the name of the sticker"
                 }
             ]
@@ -33,6 +35,14 @@
             "options": [
                 {
                     "description": "The sticker you want to edit"
+                }
+            ]
+        },
+        {
+            "description": "Create a sticker to your server by using a image url.",
+            "options": [
+                {
+                    "description": "The image you want to add as sticker"
                 }
             ]
         }
