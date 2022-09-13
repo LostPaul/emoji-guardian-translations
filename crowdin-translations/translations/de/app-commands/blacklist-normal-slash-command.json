@@ -37,15 +37,15 @@
             ]
         },
         {
-            "description": "Siehe, welche Emojis du von diesem Server geblacklisted hast"
-        },
-        {
             "description": "Entferne alle Emojis von der Blacklist für diesen Server",
             "options": [
                 {
                     "description": "Ignoriere spezifische Emojis für die Blacklist"
                 }
             ]
+        },
+        {
+            "description": "Siehe, welche Emojis du von diesem Server geblacklisted hast"
         }
     ]
 }
