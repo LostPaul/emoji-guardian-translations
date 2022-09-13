@@ -1,27 +1,27 @@
 {
     "info_content": "Вы можете видеть только это сообщение и не эмбед?\nТогда прочтите это https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Информация о \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Вы можете видеть только меню с выбором и кнопки?\nТогда прочтите это https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Страница помощи Emoji Guardian",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}О Emoji Guardian",
+                "value": "> Emoji Guardian - специальный бот для эмодзи серверов.\n> С ботом вы можете сделать многое с эмодзи, например как блокировать эмодзи роли и многое другое."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}Как я могу увидеть команды?",
+                "value": "> Нажмите по кнопкам в меню выбора и выберите категорию команд."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Как я могу получить поддержку?",
+                "value": "> Вы можете присоединиться к [серверу поддержки](https://discord.gg/EbBsuxVNYT) или вы можете написать в ЛС `Lost Paul#3453` или `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command {languageSet}\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Как я могу изменить язык бота?",
+                "value": "> Вы можете изменить язык бота, используя команду {languageSet}\n> Ваш язык отсутствует? Вы можете начать переводить бота на https://translate. mojiguardian.xyz/"
             }
         ]
     },
@@ -29,19 +29,19 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Страница помощи",
+                    "description": "Главная страница для помощи"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Одиночные команды эмодзи",
+                    "description": "Команды, которые работают только с одним эмодзи"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Команды, которые работают с многими эмодзи",
+                    "description": "Команда, которая работает с более чем одним эмодзи"
                 },
                 {
-                    "label": "Blacklist/Other commands",
+                    "label": "Черный список/Другие команды",
                     "description": "Blacklist commands and other commands than single and multiple emojis commands"
                 }
             ],
