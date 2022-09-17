@@ -57,7 +57,7 @@
             "label": "Website"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:"
+    "no_desc": "Keine Beschreibung verfügbar",
+    "no_perms": "Keine Berechtigungen erforderlich",
+    "perms": "Berechtigungen:"
 }
