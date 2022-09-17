@@ -56,5 +56,8 @@
         {
             "label": "Sitio web"
         }
-    ]
+    ],
+    "no_desc": "No description available",
+    "no_perms": "No permissions required",
+    "perms": "Permissions:"
 }

@@ -56,5 +56,8 @@
         {
             "label": "Strona internetowa"
         }
-    ]
+    ],
+    "no_desc": "Brak dostępnego opisu",
+    "no_perms": "Nie są wymagane żadne uprawnienia",
+    "perms": "Uprawnienia:"
 }

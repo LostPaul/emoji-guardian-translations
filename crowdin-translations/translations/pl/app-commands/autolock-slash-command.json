@@ -3,7 +3,7 @@
     "description": "Automatycznie blokuj nowe emotikony na serwerze do roli",
     "options": [
         {
-            "name": "disable",
+            "name": "wyłącz",
             "description": "Wyłącz automatyczne blokowanie"
         },
         {

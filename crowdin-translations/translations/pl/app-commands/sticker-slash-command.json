@@ -1,48 +1,48 @@
 {
-    "name": "sticker",
-    "description": "Sticker related commands",
+    "name": "naklejka",
+    "description": "Polecenia związane z naklejkami",
     "options": [
         {
-            "description": "Add a sticker to your server by using an emoji",
+            "description": "Dodaj naklejkę do swojego serwera używając emoji",
             "options": [
                 {
-                    "description": "The emoji you want to add as sticker"
+                    "description": "Emoji, które chcesz dodać jako naklejkę"
                 },
                 {
                     "name": "related_emoji",
-                    "description": "The unicode emoji which should be related to your sticker"
+                    "description": "Emoji unicode, które powinny być powiązane z Twoją naklejką"
                 },
                 {
-                    "description": "The name you want for the sticker"
+                    "description": "Nazwa, którą chcesz nadać naklejce"
                 },
                 {
-                    "name": "description",
-                    "description": "The description you want for the sticker"
+                    "name": "opis",
+                    "description": "Opis, który chcesz umieścić na naklejce"
                 }
             ]
         },
         {
-            "description": "Delete a sticker from your server",
+            "description": "Usuń naklejkę z serwera",
             "options": [
                 {
-                    "name": "sticker",
-                    "description": "The sticker you want to delete"
+                    "name": "naklejka",
+                    "description": "Naklejka, którą chcesz usunąć"
                 }
             ]
         },
         {
-            "description": "Edit a sticker from your server",
+            "description": "Edytuj naklejkę z Twojego serwera",
             "options": [
                 {
-                    "description": "The sticker you want to edit"
+                    "description": "Naklejka, którą chcesz edytować"
                 }
             ]
         },
         {
-            "description": "Create a sticker to your server by using an image.",
+            "description": "Stwórz naklejkę do swojego serwera za pomocą obrazu.",
             "options": [
                 {
-                    "description": "The image you want to add as sticker"
+                    "description": "Obraz, który chcesz dodać jako naklejkę"
                 }
             ]
         }
