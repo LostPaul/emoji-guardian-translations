@@ -57,7 +57,7 @@
             "label": "Strona internetowa"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:"
+    "no_desc": "Brak dostępnego opisu",
+    "no_perms": "Nie są wymagane żadne uprawnienia",
+    "perms": "Uprawnienia:"
 }
