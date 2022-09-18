@@ -1,48 +1,48 @@
 {
-    "name": "sticker",
-    "description": "Sticker related commands",
+    "name": "naljepnica",
+    "description": "Naredbe vezane uz naljepnice",
     "options": [
         {
-            "description": "Add a sticker to your server by using an emoji",
+            "description": "Dodajte naljepnicu na svoj server pomoću emojija",
             "options": [
                 {
-                    "description": "The emoji you want to add as sticker"
+                    "description": "Emoji koji želite dodati kao naljepnicu"
                 },
                 {
-                    "name": "related_emoji",
-                    "description": "The unicode emoji which should be related to your sticker"
+                    "name": "povezani_emoji",
+                    "description": "Unicode emoji koji bi trebao biti povezan s vašom naljepnicom"
                 },
                 {
-                    "description": "The name you want for the sticker"
+                    "description": "Ime koje želite za naljepnicu"
                 },
                 {
-                    "name": "description",
-                    "description": "The description you want for the sticker"
+                    "name": "opis",
+                    "description": "Opis koji želite za naljepnicu"
                 }
             ]
         },
         {
-            "description": "Delete a sticker from your server",
+            "description": "Izbrišite naljepnicu sa svog servera",
             "options": [
                 {
-                    "name": "sticker",
-                    "description": "The sticker you want to delete"
+                    "name": "naljepnica",
+                    "description": "Naljepnica koju želite izbrisati"
                 }
             ]
         },
         {
-            "description": "Edit a sticker from your server",
+            "description": "Uredite naljepnicu sa svog servera",
             "options": [
                 {
-                    "description": "The sticker you want to edit"
+                    "description": "Naljepnica koju želite urediti"
                 }
             ]
         },
         {
-            "description": "Create a sticker to your server by using an image.",
+            "description": "Napravite naljepnicu za svoj server pomoću slike.",
             "options": [
                 {
-                    "description": "The image you want to add as sticker"
+                    "description": "Slika koju želite dodati kao naljepnicu"
                 }
             ]
         }
