@@ -1,13 +1,13 @@
 {
     "name": "log",
-    "description": "Set or remove the log for Emoji Guardian for your server",
+    "description": "Postavite ili uklonite zapisnik za Emoji Guardiana za vašem serveru",
     "options": [
         {
-            "name": "remove",
-            "description": "Remove the log for Emoji Guardian for your server"
+            "name": "uklonite",
+            "description": "Uklonite zapisnik za Emoji Guardiana na svojem serveru"
         },
         {
-            "name": "set",
+            "name": "postavi",
             "description": "Set the log for Emoji Guardian for your server",
             "options": [
                 {
