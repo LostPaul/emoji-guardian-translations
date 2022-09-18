@@ -1,17 +1,17 @@
 {
-    "name": "autolock",
-    "description": "Automatically lock new created emojis on your server to an role",
+    "name": "autobloqueo",
+    "description": "Bloquear automáticamente los emojis nuevos creados en su servidor a un rol",
     "options": [
         {
-            "name": "disable",
-            "description": "Disable the autolock"
+            "name": "deshabilitar",
+            "description": "Deshabilitar autobloqueo"
         },
         {
-            "name": "enable",
-            "description": "Enable auto locking emojis to roles",
+            "name": "habilitar",
+            "description": "Habilitar el bloqueo automático de emojis a los roles",
             "options": [
                 {
-                    "description": "The role for the autolock"
+                    "description": "Rol para autobloqueo"
                 }
             ]
         }
