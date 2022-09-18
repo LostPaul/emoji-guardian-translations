@@ -1,224 +1,224 @@
 {
-    "description": "Commands that work with multiple emojis.",
+    "description": "Naredbe koje rade s više emojija.",
     "options": [
         {
-            "name": "unlock_all",
-            "description": "Unlock all emojis from a server",
+            "name": "otključaj_sve",
+            "description": "Otključajte sve emojije s servera",
             "options": [
                 {
-                    "name": "role",
-                    "description": "The role to be removed from the emojis."
+                    "name": "uloga",
+                    "description": "Uloga koju treba ukloniti iz emojija."
                 },
                 {
-                    "name": "ignore_emojis",
-                    "description": "Prevent specific emojis from getting unlocked."
+                    "name": "ignorirajte_emojije",
+                    "description": "Spriječite otključavanje određenih emojija."
                 }
             ]
         },
         {
-            "name": "lock_all",
-            "description": "Lock all emojis from a server to a role",
+            "name": "zaključaj_sve",
+            "description": "Zaključajte sve emojije s servera na ulogu",
             "options": [
                 {
-                    "description": "The role to be added to the emojis."
+                    "description": "Uloga koju treba dodati emojijima."
                 },
                 {
-                    "description": "Prevent specific emojis from getting locked."
+                    "description": "Spriječite zaključavanje određenih emojija."
                 }
             ]
         },
         {
-            "name": "locked",
-            "description": "List of which emojis are locked to which role"
+            "name": "zaključano",
+            "description": "Popis emojija koji su zaključani za koju ulogu"
         },
         {
-            "name": "stats",
-            "description": "See how many emojis you uploaded or how many emojis you locked",
+            "name": "statistika",
+            "description": "Pogledajte koliko ste emojija prenijeli ili koliko ste emojija zaključali",
             "options": [
                 {
-                    "name": "hidden",
-                    "description": "Hide the message from other users"
+                    "name": "skriveno",
+                    "description": "Sakrijte poruku od drugih korisnika"
                 }
             ]
         },
         {
-            "name": "add_multiple",
-            "description": "Add multiple emojis to the server by using emojis from other servers",
+            "name": "dodati_više",
+            "description": "Dodajte više emojija na server pomoću emojija s drugih servera",
             "options": [
                 {
-                    "description": "The emojis you want to add"
+                    "description": "Emojiji koje želite dodati"
                 }
             ]
         },
         {
-            "name": "delete_multiple",
-            "description": "Delete multiple emojis at once from your server",
+            "name": "izbrisati_više",
+            "description": "Izbrišite više emojija odjednom sa svog servera",
             "options": [
                 {
-                    "description": "The emojis you want to delete"
+                    "description": "Emojiji koje želite izbrisati"
                 }
             ]
         },
         {
-            "name": "delete_latest",
-            "description": "Delete the latest emojis uploaded to your server",
+            "name": "izbrisati_najnovije",
+            "description": "Izbrišite najnovije emojije prenesene na vaš server",
             "options": [
                 {
-                    "name": "amount",
-                    "description": "The amount of emojis you want to delete"
+                    "name": "iznos",
+                    "description": "Količina emojija koju želite izbrisati"
                 }
             ]
         },
         {
-            "description": "Reset the roles of every emoji from this server",
+            "description": "Ponovno postavite uloge svakog emojija s ovog servera",
             "options": [
                 {
-                    "description": "Prevent specific emojis from getting their roles reset."
+                    "description": "Spriječite resetiranje uloga određenih emojija."
                 }
             ]
         },
         {
-            "name": "lock_multiple",
-            "description": "Lock multiple emojis to a role",
+            "name": "zaključaj_više",
+            "description": "Zaključajte više emojija za ulogu",
             "options": [
                 {
-                    "description": "The emojis you want to lock"
+                    "description": "Zaključite više emojija za ulogu"
                 },
                 {
-                    "description": "The role to be added to the emojis"
+                    "description": "Uloga koju treba dodati emojijima"
                 }
             ]
         },
         {
-            "name": "unlock_multiple",
-            "description": "Unlock multiple emojis from a role",
+            "name": "otključaj_više",
+            "description": "Otključajte više emojija iz uloge",
             "options": [
                 {
-                    "description": "The emojis you want to unlock"
+                    "description": "Emojiji koje želite otključati"
                 },
                 {
-                    "description": "The role to be unlocked to the emojis"
+                    "description": "Uloga koja se otključava emojijima"
                 }
             ]
         },
         {
-            "name": "list_category",
-            "description": "Create an emoji list with custom categories",
+            "name": "popis_kategorija",
+            "description": "Napravite popis emotikona s prilagođenim kategorijama",
             "options": [
                 {
-                    "description": "The emojis that will be in the category list"
+                    "description": "Emojiji koji će biti na popisu kategorija"
                 },
                 {
-                    "description": "The name for the category"
+                    "description": "Naziv kategorije"
                 },
                 {
-                    "description": "The channel where you want to create the emoji category"
+                    "description": "Kanal na kojem želite stvoriti kategoriju emotikona"
                 },
                 {
-                    "name": "quote_before_emojis",
-                    "description": "Decide if you want the quote line to appear before the emojis. "
+                    "name": "citat_prije_emotikona",
+                    "description": "Odlučite želite li da se redak citata pojavi prije emojija. "
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis"
+                    "name": "razdjelnik",
+                    "description": "Odaberite želite li koristiti razdjelnik između emojija"
                 },
                 {
-                    "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "name": "ime_webhooka",
+                    "description": "Upotrijebite prilagođeni naziv za webhook poruku"
                 },
                 {
-                    "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "name": "avatar_webhooka",
+                    "description": "Upotrijebite prilagođeni avatar za webhook poruku"
                 }
             ]
         },
         {
-            "name": "list_auto_update_remove",
-            "description": "Disable the auto update of the emoji list"
+            "name": "ukloniti_popis_auto_ažuriranja",
+            "description": "Onemogućite automatsko ažuriranje popisa emotikona"
         },
         {
-            "name": "list",
-            "description": "Create a list of the emojis from your server with the emoji ids",
+            "name": "popis",
+            "description": "Napravite popis emojija sa svog servera s ID-ovima emojija",
             "options": [
                 {
-                    "name": "auto_update_list",
-                    "description": "Choose if you want to automatically update the list or not"
+                    "name": "automatski_ažurirajte_popis",
+                    "description": "Odaberite želite li automatski ažurirati popis ili ne"
                 },
                 {
-                    "description": "Ignore specific emojis in the list"
+                    "description": "Ignorirajte određene emojije na popisu"
                 },
                 {
-                    "name": "sort_after",
-                    "description": "Sort the emojis alphabetically or after the creation date"
+                    "name": "poredaj_nakon",
+                    "description": "Poredajte emojije po abecedi ili prema datumu izrade"
                 },
                 {
-                    "name": "exclude_non_or_animated_emojis",
-                    "description": "Exclude animated or non animated emojis from the list",
+                    "name": "isključi_ne_ili_animirane_emoji",
+                    "description": "Isključite animirane ili neanimirane emojije s popisa",
                     "choices": [
                         {
-                            "name": "Exclude animated emojis"
+                            "name": "Isključite animirane emojije"
                         },
                         {
-                            "name": "Exclude non animated emojis"
+                            "name": "Isključite neanimirane emojije"
                         }
                     ]
                 },
                 {
-                    "name": "exclude_locked_emojis",
-                    "description": "Exclude emojis that are locked to a role"
+                    "name": "isključi_zaključane_emojije",
+                    "description": "Isključite emojije koji su zaključani za ulogu"
                 },
                 {
-                    "name": "show_full_emoji_id",
-                    "description": "Choose if you want to show the full ID of the emoji next the emoji or only the name"
+                    "name": "prikaži_puni_id_emojija",
+                    "description": "Odaberite želite li prikazati cijeli ID emojija uz emoji ili samo ime"
                 },
                 {
-                    "name": "message_before_emojis",
-                    "description": "Add a custom message before the emojis list"
+                    "name": "poruka_prije_emotikona",
+                    "description": "Dodajte prilagođenu poruku prije popisa emojija"
                 },
                 {
-                    "name": "webhook_name",
-                    "description": "Use a custom name for the webhook message"
+                    "name": "ime_webhooka",
+                    "description": "Upotrijebite prilagođeni naziv za webhook poruku"
                 },
                 {
-                    "name": "webhook_avatar",
-                    "description": "Use a custom avatar for the webhook message"
+                    "name": "avatar_webhooka",
+                    "description": "Upotrijebite prilagođeni avatar za webhook poruku"
                 },
                 {
                     "name": "webhook",
-                    "description": "Choose if the message should be send with a webhook or not."
+                    "description": "Odaberite treba li se poruka poslati s webhookom ili ne."
                 },
                 {
-                    "name": "divider",
-                    "description": "Choose if you want to use a divider between the emojis or not"
+                    "name": "razdjelnik",
+                    "description": "Odaberite želite li koristiti razdjelnik između emojija ili ne"
                 },
                 {
-                    "name": "update_timestamp",
-                    "description": "Choose if you want to have a timestamp under the emojis list or not"
+                    "name": "ažuriranje_vremenske_oznake",
+                    "description": "Odaberite želite li imati vremensku oznaku ispod popisa emojija ili ne"
                 },
                 {
-                    "name": "update_timestamp_type",
-                    "description": "Choose the type of timestamp you want to use",
+                    "name": "ažuriraj_vrstu_vremenske_oznake",
+                    "description": "Odaberite vrstu vremenske oznake koju želite koristiti",
                     "choices": [
                         {
-                            "name": "Short Time example 9:12 PM"
+                            "name": "Primjer kratkog vremena 9:12 PM"
                         },
                         {
-                            "name": "Long Time example 9:12:30 PM"
+                            "name": "Primjer dugog vremena 9:12:30 PM"
                         },
                         {
-                            "name": "Short Date example 06/29/2022"
+                            "name": "Primjer kratkog datuma 29/06/2022"
                         },
                         {
-                            "name": "Long Date example June 29, 2022"
+                            "name": "Primjer dugog datuma Lipanj 29, 2022"
                         },
                         {
-                            "name": "Short Date/Time example June 29, 2022 9:12 PM"
+                            "name": "Primjer kratkog datuma/vremena Lipanj 29, 2022 9:12 PM"
                         },
                         {
-                            "name": "Long Date/Time example Wednesday, June 29, 2022 9:12 PM"
+                            "name": "Primjer dugog datuma/vremena Srijeda, Lipanj 29, 2022 9:12 PM"
                         },
                         {
-                            "name": "Relative Time example a few seconds ago"
+                            "name": "Primjer relativnog vremena prije nekoliko sekundi"
                         }
                     ]
                 }
