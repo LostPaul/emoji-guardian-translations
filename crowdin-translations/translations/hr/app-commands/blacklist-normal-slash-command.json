@@ -1,51 +1,51 @@
 {
-    "name": "blacklist",
-    "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+    "name": "crna_lista",
+    "description": "Postavite vaše emojije na crnu listu kako ih ne biste dodali na druge servere pomoću Emoji Guardiana",
     "options": [
         {
-            "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+            "description": "Postavite vaše emojije na crnu listu kako ih ne biste dodali na druge servere pomoću Emoji Guardiana",
             "options": [
                 {
-                    "description": "The emojis you want to blacklist from being added to other servers"
+                    "description": "Emojiji koje želite staviti na crnu listu da se ne dodaju na druge servere"
                 },
                 {
-                    "name": "creator",
-                    "description": "Add the creator of the emojis people can see this if they try to add the emoji"
+                    "name": "kreator",
+                    "description": "Dodajte kreatora emotikona koji ljudi mogu vidjeti ako pokušaju dodati emoji"
                 },
                 {
-                    "name": "extra_info",
-                    "description": "Add extra information about the emoji, people can see this if they try to add the emoji"
+                    "name": "dodatne_informacije",
+                    "description": "Dodajte dodatne informacije o emojijima, ljudi to mogu vidjeti ako pokušaju dodati emoji"
                 }
             ]
         },
         {
-            "name": "remove-emojis",
-            "description": "Remove emojis from the blacklist",
+            "name": "uklanjanje-emotikona",
+            "description": "Uklonite emojije s crne liste",
             "options": [
                 {
-                    "description": "The emojis you want remove from the Blacklist"
+                    "description": "Emojije koje želite ukloniti s crne liste"
                 }
             ]
         },
         {
-            "name": "all_emojis",
-            "description": "Blacklist all the emojis from this server from being added to other servers by using Emoji Guardian",
+            "name": "svi_emojiji",
+            "description": "Zabranite sve emojije s ovog servera kako ih se ne bi dodalo na druge servere pomoću Emoji Guardiana",
             "options": [
                 {
-                    "description": "Ignore specific emojis for the blacklist"
+                    "description": "Ignorirajte određene emojije za crnu listu"
                 }
             ]
         },
         {
-            "description": "Remove all emojis from the blacklist from this server",
+            "description": "Uklonite sve emojije s crne liste s ovog servera",
             "options": [
                 {
-                    "description": "Ignore specific emojis for the blacklist"
+                    "description": "Ignorirajte određene emojije za crnu listu"
                 }
             ]
         },
         {
-            "description": "See which emojis you blacklisted from this server"
+            "description": "Pogledajte koje ste emojije stavili na crnu listu s ovog servera"
         }
     ]
 }
