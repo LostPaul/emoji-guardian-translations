@@ -2,7 +2,7 @@
 "await client.language.getCommandContent('emoji-edited', 'commonly-used', interaction, { 'type': 'content', 'interaction': interaction, 'currentEmoji': emoji})",
 
 
-checkEmoji(options, client.config.emojis.error, await client.language.getCommandContent(this.name.replaceAll(' ', '-'), ['interactions', 'slash_commands'], interaction, { 'type': 'content', 'interaction': interaction, 'autoLockRoles': roles}))
+checkEmoji(options, client.replyEmojis['error'], await client.language.getCommandContent(this.name.replaceAll(' ', '-'), ['interactions', 'slash_commands'], interaction, { 'type': 'content', 'interaction': interaction, 'autoLockRoles': roles}))
  
  interaction.editReply({
     content: checkEmoji(options, client.replyEmojis["success"],
