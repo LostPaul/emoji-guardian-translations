@@ -10,7 +10,7 @@ checkEmoji(options, client.config.emojis.error, await client.language.getCommand
             ["interactions", "slash_commands"], interaction, { "type": "content", "interaction": interaction, "autoLockRoles": roles })), ephemeral: true
 })
 
-cooldown.delete(`${this.name.replaceAll(/\s/g, '')}${interaction.user.id}`)
+client.cooldown.delete(`${this.name.replaceAll(/\s/g, '')}${interaction.user.id}`)
                 interaction.editReply({
                     content: checkEmoji(options, client.replyEmojis["error"],
                         await client.language.getCommandContent("autolock-not-enabled",
