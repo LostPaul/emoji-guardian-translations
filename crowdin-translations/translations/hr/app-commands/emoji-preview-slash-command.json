@@ -1,9 +1,9 @@
 {
-    "name": "{emoji}-preview",
-    "description": "See how an emoji looks on darkmode and whitemode",
+    "name": "{emoji}-pregled",
+    "description": "Pogledajte kako emoji izgleda na darkmodeu i whitemodeu",
     "options": [
         {
-            "description": "The emoji you want to preview"
+            "description": "Emojiji koje želite pregledati"
         }
     ]
 }
