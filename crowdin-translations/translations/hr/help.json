@@ -57,7 +57,7 @@
             "label": "Web stranica"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
+    "no_desc": "Opis nije dostupan",
+    "no_perms": "Nisu potrebne nikakve dozvole",
     "perms": "Permissions:"
 }
