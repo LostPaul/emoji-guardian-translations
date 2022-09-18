@@ -1,17 +1,17 @@
 {
-    "name": "autolock",
-    "description": "Automatically lock new created emojis on your server to an role",
+    "name": "automatsko_zaključavanje",
+    "description": "Automatski zaključajte nove stvorene emojije na svom serveru za ulogu",
     "options": [
         {
-            "name": "disable",
-            "description": "Disable the autolock"
+            "name": "onemogući",
+            "description": "Onemogućite automatsko zaključavanje"
         },
         {
-            "name": "enable",
-            "description": "Enable auto locking emojis to roles",
+            "name": "omogući",
+            "description": "Omogućite automatsko zaključavanje emojija za uloge",
             "options": [
                 {
-                    "description": "The role for the autolock"
+                    "description": "Uloga za automatsko zaključavanje"
                 }
             ]
         }

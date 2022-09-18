@@ -2,76 +2,76 @@
     "description": "Naredbe povezane s emojijima koje rade s jednim emojijem.",
     "options": [
         {
-            "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "name": "resetiraj_uloge",
+            "description": "Ponovno postavite uloge emojija.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "Emojiji iz kojih želite poništiti uloge."
                 }
             ]
         },
         {
-            "name": "add",
-            "description": "Add an emoji to your server by using an existing emoji.",
+            "name": "dodaj",
+            "description": "Dodajte emoji na svoj server koristeći postojeći emoji.",
             "options": [
                 {
-                    "description": "The emoji you want to add to your server."
+                    "description": "Emoji koji želite dodati na svoj server."
                 },
                 {
-                    "name": "name",
-                    "description": "The name you want for the emoji."
+                    "name": "ime",
+                    "description": "Ime koje želite za emoji."
                 }
             ]
         },
         {
-            "name": "create",
-            "description": "Create an emoji on your server by using an image.",
+            "name": "stvori",
+            "description": "Stvorite emoji na svom serveru pomoću slike.",
             "options": [
                 {
-                    "name": "image",
-                    "description": "The image you want to use for the emoji."
+                    "name": "slika",
+                    "description": "Slika koju želite upotrijebiti za emoji."
                 }
             ]
         },
         {
-            "name": "delete",
-            "description": "Delete an emoji from your server.",
+            "name": "izbrisati",
+            "description": "Izbrišite emoji sa svog servera.",
             "options": [
                 {
-                    "description": "The emoji you want to delete from your server."
+                    "description": "Emoji koji želite izbrisati sa svog servera."
                 }
             ]
         },
         {
-            "name": "edit",
-            "description": "Edit the name of emoji from a server.",
+            "name": "uredi",
+            "description": "Uredite naziv emojija s servera.",
             "options": [
                 {
-                    "description": "The emoji you want to edit."
+                    "description": "Emoji koji želite urediti."
                 }
             ]
         },
         {
-            "name": "lock",
-            "description": "Lock an emoji to a role.",
+            "name": "zakljucaj",
+            "description": "Zaključajte emoji za ulogu.",
             "options": [
                 {
-                    "description": "The emoji you want to lock."
+                    "description": "Emoji koji želite zaključati."
                 },
                 {
-                    "description": "The role to be added to the emoji."
+                    "description": "Uloga koju treba dodati emojiju."
                 }
             ]
         },
         {
-            "name": "unlock",
-            "description": "Unlock an emoji from a role.",
+            "name": "otkljucaj",
+            "description": "Otključajte emoji iz uloge.",
             "options": [
                 {
-                    "description": "The emoji you want to unlock."
+                    "description": "Emoji koji želite otključati."
                 },
                 {
-                    "description": "The role to be removed from the emoji."
+                    "description": "Uloga koju treba ukloniti iz emojija."
                 }
             ]
         }

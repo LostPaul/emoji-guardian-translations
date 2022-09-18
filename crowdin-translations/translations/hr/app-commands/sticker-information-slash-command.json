@@ -1,9 +1,9 @@
 {
-    "name": "sticker-information",
-    "description": "Get information about a sticker",
+    "name": "informacije-o-naljepnici",
+    "description": "Dobijte informacije o naljepnici",
     "options": [
         {
-            "description": "The sticker you want to get information about"
+            "description": "Naljepnica o kojoj želite dobiti informacije"
         }
     ]
 }

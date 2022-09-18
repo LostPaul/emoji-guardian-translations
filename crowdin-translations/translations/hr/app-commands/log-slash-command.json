@@ -1,22 +1,22 @@
 {
     "name": "log",
-    "description": "Set or remove the log for Emoji Guardian for your server",
+    "description": "Postavite ili uklonite zapisnik za Emoji Guardiana za vašem serveru",
     "options": [
         {
-            "name": "remove",
-            "description": "Remove the log for Emoji Guardian for your server"
+            "name": "uklonite",
+            "description": "Uklonite zapisnik za Emoji Guardiana na svojem serveru"
         },
         {
-            "name": "set",
-            "description": "Set the log for Emoji Guardian for your server",
+            "name": "postavi",
+            "description": "Postavite zapisnik za Emoji Guardiana na svoj server",
             "options": [
                 {
-                    "name": "channel",
-                    "description": "The channel in which the log will be located"
+                    "name": "kanal",
+                    "description": "Kanal u kojem će se bilježenje nalaziti"
                 },
                 {
-                    "name": "compact_mode",
-                    "description": "Whether the log should be compact or not"
+                    "name": "kompaktni_nacin",
+                    "description": "Treba li bilježenje biti kompaktno ili ne"
                 }
             ]
         }
