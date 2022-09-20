@@ -4,15 +4,15 @@
         "components": [
             {
                 "label": "Matrica neve",
-                "placeholder": "Insert the new name for the sticker here."
+                "placeholder": "Illessze be a matrica új nevét ide."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "Matrica leírása",
+                "placeholder": "Adja meg a matrica új leírását."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "Kapcsolódó hangulatjel (unicode hangulatjel)",
+                "placeholder": "Illessze be az új hozzátartozó hangulatjelet a matricához."
             }
         ]
     }
