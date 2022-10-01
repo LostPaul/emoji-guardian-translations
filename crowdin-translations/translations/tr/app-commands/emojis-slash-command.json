@@ -3,11 +3,11 @@
     "options": [
         {
             "name": "unlock_all",
-            "description": "Unlock all emojis from a server",
+            "description": "Sunucudaki bütün emojilerin kilidini aç",
             "options": [
                 {
-                    "name": "role",
-                    "description": "The role to be removed from the emojis."
+                    "name": "rol",
+                    "description": "Emojilerden kaldırılacak rol."
                 },
                 {
                     "name": "ignore_emojis",
@@ -17,7 +17,7 @@
         },
         {
             "name": "lock_all",
-            "description": "Lock all emojis from a server to a role",
+            "description": "Sunucudaki emojileri bir rol'e kilitle",
             "options": [
                 {
                     "description": "The role to be added to the emojis."
