@@ -29,12 +29,12 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "صفحة المساعدة",
+                    "description": "صفحة المساعدة الرئيسية\n"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "أوامر الرموز التعبيرية الفردية",
+                    "description": "الأوامر التي تعمل مع رمز تعبيري واحد فقط"
                 },
                 {
                     "label": "Commands that work multiple emojis",
