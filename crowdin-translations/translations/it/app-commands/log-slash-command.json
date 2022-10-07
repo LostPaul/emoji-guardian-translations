@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "modalità_compatta",
-                    "description": "Indica se il registro deve essere compatto o no"
+                    "description": "Se il log deve essere compatto o no"
                 }
             ]
         }

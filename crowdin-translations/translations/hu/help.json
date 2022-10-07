@@ -57,7 +57,7 @@
             "label": "Weboldal"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:"
+    "no_desc": "Leírás nem elérhető",
+    "no_perms": "Nem igényel jogosultságot",
+    "perms": "Jogosultságok:"
 }

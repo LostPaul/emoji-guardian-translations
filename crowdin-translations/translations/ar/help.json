@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "يمكنك فقط رؤية هذه الرسالة وليس المضمنة؟\nثم اقرأ هذا https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "معلومات عن \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "يمكنك فقط رؤية هذه الرسالة وليس المضمنة؟\nثم اقرأ هذا https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "صفحة تعليمات Emoji Guardian \n",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}حول Emoji Guardian",
+                "value": "> Emoji Guardian هو بوت خاص لخوادم الرموز التعبيرية.\n> مع البوت، يمكنك فعل الكثير مع الرموز التعبيرية مثل تأمين الرموز التعبيرية على دور وأكثر من ذلك بكثير."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}كيف يمكنني رؤية الأوامر؟",
+                "value": "> انقر أسفل الأزرار في قائمة التحديد وحدد فئة الأمر.\n"
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}كيف يمكنني الحصول على الدعم؟",
+                "value": "> يمكنك الانضمام إلى [خادم الدعم](https://discord.gg/EbBsuxVNYT) أو يمكنك التواصل بالخاص مع`Lost Paul#3453' أو `Danu#4421`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command {languageSet}\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}كيف يمكنني تغيير لغة البوت؟",
+                "value": "> يمكنك تغيير لغة البوت باستخدام الأمر {languageSet}\n> لغتك غير موجودة؟ ثم يمكنك البدء بترجمته على https://translate. Mojiguardian.xyz/"
             }
         ]
     },
@@ -29,35 +29,35 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "صفحة المساعدة",
+                    "description": "صفحة المساعدة الرئيسية\n"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "أوامر الرموز التعبيرية الفردية",
+                    "description": "الأوامر التي تعمل مع رمز تعبيري واحد فقط"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "الأوامر التي تعمل برموز تعبيرية متعددة\n",
+                    "description": "الأوامر التي تعمل مع رمز تعبيري واحد فقط"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "القائمة السوداء/أوامر أخرى",
+                    "description": "أوامر القائمة السوداء وأوامر أخرى غير أوامر الرموز التعبيرية الفردية والمتعددة\n"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "اختر فئة"
         },
         {
-            "label": "Support server"
+            "label": "سيرفر الدعم"
         },
         {
-            "label": "Invite link"
+            "label": "رابط الدعوة"
         },
         {
-            "label": "Website"
+            "label": "الموقع"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:"
+    "no_desc": "لا يوجد وصف متاح",
+    "no_perms": "لا توجد أذونات مطلوبة",
+    "perms": "الصلاحيات:"
 }
