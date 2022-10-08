@@ -1,5 +1,5 @@
 {
-    "name": "autolock",
+    "name": "قفل تلقائي",
     "description": "Automatically lock new created emojis on your server to an role",
     "options": [
         {
