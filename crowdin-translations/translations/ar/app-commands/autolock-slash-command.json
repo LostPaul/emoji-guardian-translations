@@ -1,17 +1,17 @@
 {
-    "name": "autolock",
-    "description": "Automatically lock new created emojis on your server to an role",
+    "name": "قفل تلقائي",
+    "description": "قفل الرموز التعبيرية الجديدة التي تم إنشاؤها تلقائيًا على خادمك لدور ما\n",
     "options": [
         {
-            "name": "disable",
-            "description": "Disable the autolock"
+            "name": "تعطيل",
+            "description": "تعطيل القفل التلقائي"
         },
         {
-            "name": "enable",
-            "description": "Enable auto locking emojis to roles",
+            "name": "تمكين",
+            "description": "تفعيل القفل التلقائي للرموز التعبيرية للأدوار\n",
             "options": [
                 {
-                    "description": "The role for the autolock"
+                    "description": "دور القفل الآلي\n"
                 }
             ]
         }

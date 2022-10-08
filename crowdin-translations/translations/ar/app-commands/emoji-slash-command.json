@@ -1,40 +1,40 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "أوامر الرموز التعبيرية ذات الصلة التي تعمل مع رمز تعبيري واحد.",
     "options": [
         {
-            "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "name": "مجموعة الأدوار\n",
+            "description": "إعادة تعيين أدوار الرموز التعبيرية.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "الرمز التعبيري الذي تريد إعادة تعيين الأدوار منه.\n"
                 }
             ]
         },
         {
-            "name": "add",
+            "name": "إضافة",
             "description": "Add an emoji to your server by using an existing emoji.",
             "options": [
                 {
                     "description": "The emoji you want to add to your server."
                 },
                 {
-                    "name": "name",
+                    "name": "الاسم",
                     "description": "The name you want for the emoji."
                 }
             ]
         },
         {
-            "name": "create",
+            "name": "إنشاء",
             "description": "Create an emoji on your server by using an image.",
             "options": [
                 {
-                    "name": "image",
+                    "name": "صورة",
                     "description": "The image you want to use for the emoji."
                 }
             ]
         },
         {
-            "name": "delete",
+            "name": "حذف",
             "description": "Delete an emoji from your server.",
             "options": [
                 {
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "name": "edit",
+            "name": "تعديل",
             "description": "Edit the name of emoji from a server.",
             "options": [
                 {
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "name": "lock",
+            "name": "قفل",
             "description": "Lock an emoji to a role.",
             "options": [
                 {
@@ -64,8 +64,8 @@
             ]
         },
         {
-            "name": "unlock",
-            "description": "Unlock an emoji from a role.",
+            "name": "فتح",
+            "description": "فتح رمز تعبيري من دور.",
             "options": [
                 {
                     "description": "The emoji you want to unlock."

@@ -1,9 +1,9 @@
 {
-    "name": "{emoji}-preview",
-    "description": "See how an emoji looks on darkmode and whitemode",
+    "name": "{emoji}-معاينة",
+    "description": "انظر كيف تبدو الرموز التعبيرية على الوضع المظلم والوضع الأبيض",
     "options": [
         {
-            "description": "The emoji you want to preview"
+            "description": "الرموز التعبيرية التي تريد معاينتها\n"
         }
     ]
 }

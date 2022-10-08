@@ -1,51 +1,51 @@
 {
-    "name": "blacklist",
-    "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+    "name": "القائمة السوداء",
+    "description": "ضع الرموز التعبيرية في القائمة السوداء بحيث لا تتم إضافتها إلى خوادم أخرى باستخدام Emoji Guardian\n",
     "options": [
         {
-            "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+            "description": "ضع الرموز التعبيرية في القائمة السوداء بحيث لا تتم إضافتها إلى خوادم أخرى باستخدام Emoji Guardian\n",
             "options": [
                 {
-                    "description": "The emojis you want to blacklist from being added to other servers"
+                    "description": "الرموز التعبيرية التي تريد وضعها في القائمة السوداء لعدم إضافتها إلى خوادم أخرى\n"
                 },
                 {
-                    "name": "creator",
-                    "description": "Add the creator of the emojis people can see this if they try to add the emoji"
+                    "name": "المنشئ",
+                    "description": "أضف منشئ الرموز التعبيرية التي يمكن للأشخاص رؤيتها إذا حاولوا إضافة الرموز التعبيرية\n"
                 },
                 {
-                    "name": "extra_info",
-                    "description": "Add extra information about the emoji, people can see this if they try to add the emoji"
+                    "name": "معلومات اضافية\n",
+                    "description": "أضف منشئ الرموز التعبيرية التي يمكن للأشخاص رؤيتها إذا حاولوا إضافة الرموز التعبيرية\n"
                 }
             ]
         },
         {
-            "name": "remove-emojis",
-            "description": "Remove emojis from the blacklist",
+            "name": "إزالة-إيموجي",
+            "description": "إزالة الرموز التعبيرية من القائمة السوداء",
             "options": [
                 {
-                    "description": "The emojis you want remove from the Blacklist"
+                    "description": "الرموز التعبيرية التي تريد إزالتها من القائمة السوداء\n"
                 }
             ]
         },
         {
-            "name": "all_emojis",
-            "description": "Blacklist all the emojis from this server from being added to other servers by using Emoji Guardian",
+            "name": "كل الرموز التعبيرية\n",
+            "description": "ضع الرموز التعبيرية في القائمة السوداء بحيث لا تتم إضافتها إلى خوادم أخرى باستخدام Emoji Guardian\n",
             "options": [
                 {
-                    "description": "Ignore specific emojis for the blacklist"
+                    "description": "تجاهل الرموز التعبيرية المحددة للقائمة السوداء"
                 }
             ]
         },
         {
-            "description": "Remove all emojis from the blacklist from this server",
+            "description": "إزالة جميع الرموز التعبيرية من القائمة السوداء من هذا الخادم",
             "options": [
                 {
-                    "description": "Ignore specific emojis for the blacklist"
+                    "description": "تجاهل الرموز التعبيرية المحددة للقائمة السوداء"
                 }
             ]
         },
         {
-            "description": "See which emojis you blacklisted from this server"
+            "description": "شاهد أي الرموز التعبيرية التي قمت بقائمة سوداء من هذا الخادم"
         }
     ]
 }
