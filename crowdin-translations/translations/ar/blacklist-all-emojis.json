@@ -1,7 +1,7 @@
 {
     "content": "لقد أدرجت جميع الرموز التعبيرية من هذا الخادم في القائمة السوداء بحيث لا تتم إضافتها باستخدام Emoji Guardian.\n",
     "log": {
-        "title": "All Emojis got blacklisted",
-        "description": "Blacklisted by\nUser Tag: {user_tag}\nUser ID: {interaction_user_id}\nComment: {interaction_options_comment}\nCreator: {interaction_options_creator}"
+        "title": "جميع الرموز التعبيرية حصلت على القائمة السوداء",
+        "description": "القائمة السوداء بواسطة\nوسم المستخدم: {user_tag}\nمعرف المستخدم: {interaction_user_id}\nالتعليق: {interaction_options_comment}\nمنشئ: {interaction_options_creator}"
     }
 }
