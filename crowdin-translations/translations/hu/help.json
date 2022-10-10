@@ -59,5 +59,6 @@
     ],
     "no_desc": "Leírás nem elérhető",
     "no_perms": "Nem igényel jogosultságot",
-    "perms": "Jogosultságok:"
+    "perms": "Jogosultságok:",
+    "mention": "Hey {user_mention}, the bot only works with slash commands, click on {help} to get started.\nChange the language of the bot to your preferred language with {languageSet}!\nLearn more about slash commands at <https://emojiguardian.xyz/slash>"
 }
