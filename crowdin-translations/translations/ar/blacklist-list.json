@@ -1,9 +1,9 @@
 {
-    "reply": "These emojis from this server are blacklisted from being added by using Emoji Guardian.",
+    "reply": "تم وضع هذه الرموز التعبيرية من هذا الخادم في القائمة السوداء بحيث لا يمكن إضافتها باستخدام Emoji Guardian.\n",
     "embed": {
-        "title": "{interaction_guild_name_blacklist}'s blacklisted emojis",
+        "title": "الرموز التعبيرية القائمة السوداء {interaction_guild_name_blacklist}",
         "footer": {
-            "text": "Used by {user_tag}"
+            "text": "مستخدم بواسطة {user_tag}"
         }
     }
 }
