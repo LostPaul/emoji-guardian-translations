@@ -60,5 +60,5 @@
     "no_desc": "Keine Beschreibung verfügbar",
     "no_perms": "Keine Berechtigungen erforderlich",
     "perms": "Berechtigungen:",
-    "mention": "Hey {user_mention}, the bot only works with slash commands, click on {help} to get started.\nChange the language of the bot to your preferred language with {languageSet}!\nLearn more about slash commands at <https://emojiguardian.xyz/slash>"
+    "mention": "Hallo {user_mention}, der Bot funktioniert nur mit Slash Befehlen, klicke auf {help}, um loszulegen.\nVeränder die Sprache des Bots mit {languageSet} zu deiner bevorzugten Sprache!\nErfahre mehr über die Slash Befehle hier: <https://emojiguardian.xyz/slash>"
 }
