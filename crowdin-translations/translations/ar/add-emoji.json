@@ -1,13 +1,13 @@
 {
-    "content": "You created the emoji {placeholder}",
-    "reason": "Created by {user_tag} ({user_id})",
+    "content": "قمت بإنشاء الرموز التعبيرية {placeholder}",
+    "reason": "تم إنشاؤها بواسطة {user_tag} ({user_id})",
     "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
     "components": [
         {
-            "label": "First emoji"
+            "label": "الرمز التعبيري الأول"
         },
         {
-            "label": "All emojis"
+            "label": "كل الرموز التعبيرية"
         }
     ]
 }
