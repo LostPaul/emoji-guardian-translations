@@ -5,7 +5,7 @@
         "title": "client.language.get(locale, 'emoji-got-blacklisted', 'log.title')",
         "color": "de3163",
         "thumbnail": {
-            "url": "{current_emoji_url}"
+            "url": "{blacklisted_emoji_url}"
         },
         "description": "client.language.get(locale, 'emoji-got-blacklisted', 'log.description')",
         "timestamp": "{timestamp}"
