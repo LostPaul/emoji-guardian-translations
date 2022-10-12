@@ -1,77 +1,77 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "Commandes liées aux émoticônes fonctionnent avec un emoji.",
     "options": [
         {
             "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "description": "Réinitialiser les rôles d'un emoji.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "L'emoji depuis lequel vous voulez réinitialiser les rôles."
                 }
             ]
         },
         {
-            "name": "add",
-            "description": "Add an emoji to your server by using an existing emoji.",
+            "name": "ajouter",
+            "description": "Ajoutez un emoji à votre serveur en utilisant un emoji existant.",
             "options": [
                 {
-                    "description": "The emoji you want to add to your server."
+                    "description": "L'emoji que vous voulez ajouter à votre serveur."
                 },
                 {
-                    "name": "name",
-                    "description": "The name you want for the emoji."
+                    "name": "nom",
+                    "description": "Le nom que vous voulez pour l'émoji."
                 }
             ]
         },
         {
-            "name": "create",
-            "description": "Create an emoji on your server by using an image.",
+            "name": "créer",
+            "description": "Créez un emoji sur votre serveur en utilisant une image.",
             "options": [
                 {
                     "name": "image",
-                    "description": "The image you want to use for the emoji."
+                    "description": "L'image que vous voulez utiliser pour votre émoji."
                 }
             ]
         },
         {
-            "name": "delete",
-            "description": "Delete an emoji from your server.",
+            "name": "supprimer",
+            "description": "Supprimer un émoji de votre serveur.",
             "options": [
                 {
-                    "description": "The emoji you want to delete from your server."
+                    "description": "L'émoji que vous voulez supprimer de votre serveur."
                 }
             ]
         },
         {
-            "name": "edit",
-            "description": "Edit the name of emoji from a server.",
+            "name": "modifier",
+            "description": "Modifier le nom des émojis d'un serveur.",
             "options": [
                 {
-                    "description": "The emoji you want to edit."
+                    "description": "L'emoji que vous voulez modifier."
                 }
             ]
         },
         {
-            "name": "lock",
-            "description": "Lock an emoji to a role.",
+            "name": "verrouiller",
+            "description": "Verrouiller un émoji à un rôle.",
             "options": [
                 {
-                    "description": "The emoji you want to lock."
+                    "description": "L'émoji que vous voulez verrouiller."
                 },
                 {
-                    "description": "The role to be added to the emoji."
+                    "description": "Le rôle à ajouter à l'émoji."
                 }
             ]
         },
         {
-            "name": "unlock",
-            "description": "Unlock an emoji from a role.",
+            "name": "déverrouiller",
+            "description": "Déverrouillez un émoji à partir d'un rôle.",
             "options": [
                 {
-                    "description": "The emoji you want to unlock."
+                    "description": "L'émoji que vous voulez déverrouiller."
                 },
                 {
-                    "description": "The role to be removed from the emoji."
+                    "description": "Le rôle à être retiré de l'émoji."
                 }
             ]
         }
