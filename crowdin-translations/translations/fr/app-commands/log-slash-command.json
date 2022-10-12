@@ -1,22 +1,22 @@
 {
     "name": "log",
-    "description": "Set or remove the log for Emoji Guardian for your server",
+    "description": "Définissez ou supprimez le journal des Emoji Guardian pour votre serveur",
     "options": [
         {
-            "name": "remove",
-            "description": "Remove the log for Emoji Guardian for your server"
+            "name": "supprimer",
+            "description": "Retirer le journal des Emoji Guardian pour votre serveur"
         },
         {
-            "name": "set",
-            "description": "Set the log for Emoji Guardian for your server",
+            "name": "définir",
+            "description": "Définir le journal pour le gardien d'émoji pour votre serveur",
             "options": [
                 {
-                    "name": "channel",
-                    "description": "The channel in which the log will be located"
+                    "name": "salon",
+                    "description": "Le canal dans lequel le log sera situé"
                 },
                 {
-                    "name": "compact_mode",
-                    "description": "Whether the log should be compact or not"
+                    "name": "mode_compact",
+                    "description": "Si le log doit être compact ou non"
                 }
             ]
         }
