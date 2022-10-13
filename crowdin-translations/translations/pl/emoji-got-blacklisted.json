@@ -3,6 +3,6 @@
     "content_with_creator": "Emoji {emoji} został umieszczony na czarnej liście, a najprawdopodobniej został utworzony przez {user_tag_or_mention}\nJeśli uważasz, że to jest błąd, skontaktuj się z moderacją na [Serwerze Wsparcia](https://discord. g/EbBsuxVNYT)\n**Komentarz od użytkownika:**\n{blacklisted_emoji_comment}",
     "log": {
         "title": "Nieudana próba kradzieży emoji",
-        "description": "Ktoś próbował dodać emoji z tego serwera z Emoji Guardian\n\nNieudana próba przez: {user_tag_or_mention}\nEmoji: {emoji}"
+        "description": "Ktoś próbował dodać emoji z tego serwera z Emoji Guardian\n\nNieudana próba przez: {user_tag_or_mention}"
     }
 }

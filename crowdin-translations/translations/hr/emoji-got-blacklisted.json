@@ -3,6 +3,6 @@
     "content_with_creator": "Emoji {emoji} dospio je na crnu listu i najvjerojatnije ga je stvorio {user_tag_or_mention}\nAko mislite da to nije u redu, možete poslati mod na [server za podršku](https://discord.gg/EbBsuxVNYT)\n**Komentar korisnika:**\n{blacklisted_emoji_comment}",
     "log": {
         "title": "Neuspjeli pokušaj krađe emojija",
-        "description": "Netko je pokušao dodati emoji s ovog servera s Emoji Guardianom\n\nNeuspjeli pokušaj: {user_tag_or_mention}\nEmoji: {emoji}"
+        "description": "Netko je pokušao dodati emoji s ovog servera s Emoji Guardianom\n\nNeuspjeli pokušaj: {user_tag_or_mention}"
     }
 }
