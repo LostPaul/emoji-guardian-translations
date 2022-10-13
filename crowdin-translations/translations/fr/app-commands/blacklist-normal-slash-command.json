@@ -1,26 +1,26 @@
 {
-    "name": "blacklist",
-    "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+    "name": "liste noire",
+    "description": "Empêchez vos émojis d'être ajoutés à d'autres serveurs en utilisant Émoji Guardian",
     "options": [
         {
-            "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
+            "description": "Empêchez vos émojis d'être ajoutés à d'autres serveurs en utilisant Émoji Guardian",
             "options": [
                 {
-                    "description": "The emojis you want to blacklist from being added to other servers"
+                    "description": "Les émojis que vous voulez empêcher d'être ajoutés à d'autres serveurs"
                 },
                 {
-                    "name": "creator",
-                    "description": "Add the creator of the emojis people can see this if they try to add the emoji"
+                    "name": "créateur",
+                    "description": "Ajoutez le créateur des émojis que les gens peuvent voir s'ils essaient d'ajouter l'émoji"
                 },
                 {
                     "name": "extra_info",
-                    "description": "Add extra information about the emoji, people can see this if they try to add the emoji"
+                    "description": "Ajoutez des infos supplémentaires sur l'émoji, les gens peuvent les voir s'ils essaient de l'ajouter"
                 }
             ]
         },
         {
-            "name": "remove-emojis",
-            "description": "Remove emojis from the blacklist",
+            "name": "supprimer-émojis",
+            "description": "Retirer les émojis de la liste noire",
             "options": [
                 {
                     "description": "The emojis you want remove from the Blacklist"
