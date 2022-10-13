@@ -3,6 +3,6 @@
     "content_with_creator": "El emoji {emoji} ha sido puesto en la lista negra por {user_tag_or_mention}\nSi crees que esto está mal puedes enviar un mensaje directo a un mod en el [servidor de ayuda](https://discord. g/EbBsuxVNYT).\n**Comentario del usuario:**\n{blacklisted_emoji_comment}",
     "log": {
         "title": "Error al intentar robar un emoji",
-        "description": "Alguien intentó añadir un emoji de este servidor con Emoji Guardian\n\nIntento fallido por: {user_tag_or_mention}\nEmoji: {emoji}"
+        "description": "Alguien intentó añadir un emoji de este servidor con Emoji Guardian\n\nIntento fallido por: {user_tag_or_mention}"
     }
 }
