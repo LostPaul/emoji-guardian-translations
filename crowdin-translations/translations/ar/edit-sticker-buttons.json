@@ -1,18 +1,18 @@
 {
     "modal": {
-        "title": "Edit the sticker",
+        "title": "تحرير هذا الملصق",
         "components": [
             {
-                "label": "Sticker name",
-                "placeholder": "Insert the new name for the sticker here."
+                "label": "اسم الملصق",
+                "placeholder": "أدخل الاسم الجديد للملصق هنا."
             },
             {
-                "label": "Sticker description",
-                "placeholder": "Insert the new description for the sticker here."
+                "label": "وصف الملصق",
+                "placeholder": "أدخل الوصف الجديد للملصق هنا."
             },
             {
-                "label": "Related emoji (unicode emoji)",
-                "placeholder": "Insert the new related emoji for the sticker here."
+                "label": "الرموز التعبيرية ذات الصلة (unicode emoji)",
+                "placeholder": "أدخل الرموز التعبيرية الجديدة ذات الصلة للملصق هنا.\n"
             }
         ]
     }
