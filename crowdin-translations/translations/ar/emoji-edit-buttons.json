@@ -1,10 +1,10 @@
 {
     "modal": {
-        "title": "Choose a new name for the emoji",
+        "title": "اختر اسما جديدا للرموز التعبيرية",
         "components": [
             {
-                "label": "Emoji Name",
-                "placeholder": "Insert the new name for the emoji here."
+                "label": "اسم الإيموجي",
+                "placeholder": "أدخل الاسم الجديد للرموز التعبيرية هنا."
             }
         ]
     }
