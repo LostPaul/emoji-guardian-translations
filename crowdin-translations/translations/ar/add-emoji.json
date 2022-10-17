@@ -1,7 +1,7 @@
 {
     "content": "قمت بإنشاء الرموز التعبيرية {placeholder}",
     "reason": "تم إنشاؤها بواسطة {user_tag} ({user_id})",
-    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
+    "choice": "هل تريد إضافة الرموز التعبيرية الأولى من الرسالة إلى الخادم الخاص بك أو جميع الرموز التعبيرية من الرسالة إلى الخادم الخاص بك؟\n",
     "components": [
         {
             "label": "الرمز التعبيري الأول"
