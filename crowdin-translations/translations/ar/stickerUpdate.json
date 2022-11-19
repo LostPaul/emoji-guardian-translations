@@ -1,14 +1,14 @@
 {
     "components": [
         {
-            "label": "Delete Sticker"
+            "label": "حذف ملصق"
         },
         {
-            "label": "Edit Sticker"
+            "label": "تعديل الملصق"
         }
     ],
     "embed": {
-        "title": "Sticker updated",
-        "description": "[{sticker_old_name_option}Old name: {current_sticker_name}\nNew name: {new_sticker_name}][{sticker_old_related_emoji_option}\nOld related emoji: {current_sticker_tags}\nNew related emoji: {new_sticker_tags}][{sticker_new_description_option}\nOld description: {current_sticker_description}\nNew description: {new_sticker_description}]\nSticker ID: {current_sticker_id}\nUpdated by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "تحديث الملصق",
+        "description": "[{sticker_old_name_option} الاسم القديم: {current_sticker_name}\nالاسم الجديد: {new_sticker_name}] [{sticker_old_related_emoji_option}\nالرموز التعبيرية القديمة ذات الصلة: {current_sticker_tags}\nالرموز التعبيرية الجديدة ذات الصلة: {new_sticker_tags}] [{sticker_new_description_option}\nالوصف القديم: {current_sticker_description}\nالوصف الجديد: {new_sticker_description}]\nمعرّف الملصق: {current_sticker_id}\nتم التحديث بواسطة {text} [{reason_option}\nالسبب:] {reason}"
     }
 }
