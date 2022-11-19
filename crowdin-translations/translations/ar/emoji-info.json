@@ -1,11 +1,11 @@
 {
-    "true": "True",
-    "false": "False",
+    "true": "صحيح",
+    "false": "خطأ",
     "embed": {
-        "title": "Emoji info",
+        "title": "معلومات عن {Emoji}",
         "fields": [
             {
-                "name": "Name:"
+                "name": "الاسم:"
             },
             {
                 "name": "ID:"
@@ -14,16 +14,16 @@
                 "name": "Managed:"
             },
             {
-                "name": "Roles that have access to the emoji:"
+                "name": "الأدوار التي يمكنها الوصول إلى الرموز التعبيرية:"
             },
             {
-                "name": "Uploaded at:"
+                "name": "تم الرفع في:"
             },
             {
-                "name": "Uploaded by:"
+                "name": "تم الرفع بواسطة:\n"
             },
             {
-                "name": "Download link:"
+                "name": "رابط التحميل:"
             }
         ]
     }
