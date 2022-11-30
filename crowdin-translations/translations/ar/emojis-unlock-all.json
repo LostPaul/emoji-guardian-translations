@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to unlock all emojis from a role?",
+    "content": "هل أنت متأكد من أنك تريد فتح جميع الرموز التعبيرية من دور؟",
     "components": [
         {
-            "label": "Confirm"
+            "label": "تأكيد"
         },
         {
-            "label": "Cancel"
+            "label": "إلغاء"
         }
     ]
 }
