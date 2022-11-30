@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "حذف الرمز التعبيري"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "تحرير اسم الرموز التعبيرية"
         }
     ],
-    "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
+    "compact": "{emoji} `({current_emoji_name})` تم إنشاؤه من قبل {text} [{reason_option}بسبب ]{reason}",
     "embed": {
-        "title": "Emoji created",
-        "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
+        "title": "تم إنشاء الرموز التعبيرية",
+        "description": "`{emoji}` \nأضيفت من قبل {text}[{reason_option}\nالسبب: ]{reason}"
     }
 }
