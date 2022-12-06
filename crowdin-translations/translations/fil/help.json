@@ -1,18 +1,18 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Itong mensahe lang ba ang nakikita mo at hindi ang embed?\nBasahin ang https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Impormasyon tungkol sa \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Ang dropdown at mga boton lang ba ang nakikita?\nBasahin ang https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Pahina ng Tulong ng Emoji Guardian",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}Tungkol sa Emoji Guardian",
+                "value": "> Ang Emoji Guardian ay isang bot para sa mga emoji servers.\n> Pwede mong limitahin ang iyong mga emojis sa espesipikong roles at iba pa, gamit ang bot."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
+                "name": "{emoji_tools}Paano ko makikita ang mga commands?",
                 "value": "> Click under the buttons on the select menu and select a command category."
             },
             {

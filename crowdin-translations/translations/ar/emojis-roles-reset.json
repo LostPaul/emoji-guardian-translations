@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to reset the roles of all the emojis?",
+    "content": "هل أنت متأكد أنك تريد إعادة تعيين أدوار جميع الرموز التعبيرية؟\n",
     "components": [
         {
-            "label": "Confirm"
+            "label": "تأكيد"
         },
         {
-            "label": "Cancel"
+            "label": "إلغاء"
         }
     ]
 }

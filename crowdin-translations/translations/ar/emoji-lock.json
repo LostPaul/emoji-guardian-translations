@@ -1,3 +1,3 @@
 {
-    "content": "You locked the emoji {emoji} to {lock_roles} that means every user that has one of the roles can access the emoji."
+    "content": "لقد أغلقت الرموز التعبيرية {emoji} إلى {lock_roles} مما يعني أن كل مستخدم لديه أحد الأدوار يمكنه الوصول إلى الرموز التعبيرية."
 }
