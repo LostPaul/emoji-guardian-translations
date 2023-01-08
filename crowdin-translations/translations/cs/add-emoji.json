@@ -1,6 +1,6 @@
 {
-    "content": "You created the emoji {placeholder}",
-    "reason": "Created by {user_tag} ({user_id})",
+    "content": "Vytvořil/a jsi emoji {placeholder}",
+    "reason": "Vytvořil/a {user_tag} ({user_id})",
     "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
     "components": [
         {
