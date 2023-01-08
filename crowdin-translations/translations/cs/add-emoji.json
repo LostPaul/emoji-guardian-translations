@@ -1,13 +1,13 @@
 {
     "content": "Vytvořil/a jsi emoji {placeholder}",
     "reason": "Vytvořil/a {user_tag} ({user_id})",
-    "choice": "Do you want to add the first emoji from the message to your server or all emojis from the message to your server?",
+    "choice": "Chceš přidat první emoji ze zprávy na tvůj server nebo všechny emoji ze zprávy na tvůj server?",
     "components": [
         {
-            "label": "First emoji"
+            "label": "První emoji"
         },
         {
-            "label": "All emojis"
+            "label": "Všechny emoji"
         }
     ]
 }
