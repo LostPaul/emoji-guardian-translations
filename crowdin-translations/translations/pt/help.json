@@ -1,9 +1,9 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Você pode ver apenas esta mensagem e não a embed? Então leia este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Informação sobre \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Você só consegue ver a lista e os botões? Então leia este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
         "title": "Emoji Guardian Help Page",
         "fields": [
