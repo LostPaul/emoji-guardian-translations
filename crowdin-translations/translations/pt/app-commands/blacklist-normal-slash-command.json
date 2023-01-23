@@ -1,5 +1,5 @@
 {
-    "name": "blacklist",
+    "name": "lista negra",
     "description": "Blacklist your emojis from being added to other servers by using Emoji Guardian",
     "options": [
         {
