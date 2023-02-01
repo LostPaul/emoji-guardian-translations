@@ -1,49 +1,49 @@
 {
-    "description": "Emoji related commands that works with one emoji.",
+    "description": "Comandos relacionados a emojis que funcionam com um emoji.",
     "options": [
         {
-            "name": "roles_reset",
-            "description": "Reset the roles of an emoji.",
+            "name": "redefinir-funções",
+            "description": "Redefinir as funções de um emoji.",
             "options": [
                 {
-                    "description": "The emoji you want to reset the roles from."
+                    "description": "O emoji do qual você deseja redefinir as funções."
                 }
             ]
         },
         {
-            "name": "add",
-            "description": "Add an emoji to your server by using an existing emoji.",
+            "name": "adicionar",
+            "description": "Adicione um emoji ao seu servidor usando um emoji existente.",
             "options": [
                 {
-                    "description": "The emoji you want to add to your server."
+                    "description": "O emoji que você quer adicionar ao seu servidor."
                 },
                 {
-                    "name": "name",
-                    "description": "The name you want for the emoji."
+                    "name": "nome",
+                    "description": "O nome que você quer para o emoji."
                 }
             ]
         },
         {
-            "name": "create",
-            "description": "Create an emoji on your server by using an image.",
+            "name": "criar",
+            "description": "Crie um emoji em seu servidor usando uma imagem.",
             "options": [
                 {
-                    "name": "image",
-                    "description": "The image you want to use for the emoji."
+                    "name": "imagem",
+                    "description": "A imagem que você deseja usar para o emoji."
                 }
             ]
         },
         {
-            "name": "delete",
-            "description": "Delete an emoji from your server.",
+            "name": "excluir",
+            "description": "Exclua um emoji do seu servidor.",
             "options": [
                 {
-                    "description": "The emoji you want to delete from your server."
+                    "description": "O emoji que você quer excluir do seu servidor."
                 }
             ]
         },
         {
-            "name": "edit",
+            "name": "editar",
             "description": "Edit the name of emoji from a server.",
             "options": [
                 {
