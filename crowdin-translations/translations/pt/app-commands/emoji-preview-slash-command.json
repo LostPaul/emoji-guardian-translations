@@ -1,9 +1,9 @@
 {
-    "name": "{emoji}-preview",
-    "description": "See how an emoji looks on darkmode and whitemode",
+    "name": "{emoji}-prévia",
+    "description": "Veja como um emoji fica no modo escuro e no modo branco",
     "options": [
         {
-            "description": "The emoji you want to preview"
+            "description": "O emoji que você deseja visualizar"
         }
     ]
 }
