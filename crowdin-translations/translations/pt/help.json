@@ -1,27 +1,27 @@
 {
-    "info_content": "You can only see this message and not the embed?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "info_content": "Você pode ver apenas esta mensagem e não a embed? Então leia este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "info": {
-        "title": "Information about \"{placeholder}\""
+        "title": "Informação sobre \"{placeholder}\""
     },
-    "content": "You can only see the dropdown and the buttons?\nThen read this https://docs.emojiguardian.xyz/troubleshooting",
+    "content": "Você só consegue ver a lista e os botões? Então leia este documento: https://docs.emojiguardian.xyz/troubleshooting",
     "embed": {
-        "title": "Emoji Guardian Help Page",
+        "title": "Página de ajuda do Emoji Guardian",
         "fields": [
             {
-                "name": "{emoji_bot}About Emoji Guardian",
-                "value": "> Emoji Guardian is a bot especially for emoji servers.\n> With the Bot, you can do a lot with emojis like locking an emoji to a role and much more."
+                "name": "{emoji_bot}Sobre o Guardião de Emoji",
+                "value": "> Emoji Guardian é um bot especialmente para servidores de emoji.\n> Com o bot, você pode fazer muitas coisas com os emojis, como bloquear um emoji para uma função e muito mais."
             },
             {
-                "name": "{emoji_tools}How can I see the commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools}Como posso ver os comandos?",
+                "value": "> Clique nos botões do menu de seleção e selecione uma categoria de comandos."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support}Como posso obter suporte?",
+                "value": "> Você pode se juntar ao [servidor de suporte](https://discord.gg/EbBsuxVNYT) ou pode enviar uma mensagem direta para `Lost Paul#3453` ou `Danúbio#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command {languageSet}\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate}Como posso mudar o idioma do bot?",
+                "value": "> Você pode alterar o idioma do bot usando o comando {languageSet}\n> Seu idioma não está? Então você pode começar a traduzi-lo em https://translate. girardian.xyz/"
             }
         ]
     },
@@ -29,36 +29,36 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Página de ajuda",
+                    "description": "A página principal de ajuda"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Comandos de emoji individuais",
+                    "description": "Comandos que funcionam apenas com um emoji"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Comandos que funcionam com vários emojis",
+                    "description": "Comando que funcionam com mais de um emoji"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Lista negra/Outros comandos",
+                    "description": "Comandos da lista negra e outros comandos além de comandos individuais e múltiplos emojis"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Selecione uma categoria"
         },
         {
-            "label": "Support server"
+            "label": "Servidor de suporte"
         },
         {
-            "label": "Invite link"
+            "label": "Link do convite"
         },
         {
-            "label": "Website"
+            "label": "Site"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:",
-    "mention": "Hey {user_mention}, the bot only works with slash commands, click on {help} to get started.\nChange the language of the bot to your preferred language with {languageSet}!\nLearn more about slash commands at <https://emojiguardian.xyz/slash>"
+    "no_desc": "Não há descrição disponível",
+    "no_perms": "Nenhuma permissão necessária",
+    "perms": "Permissões:",
+    "mention": "Ei {user_mention}, o bot funciona apenas com comandos de barra, clique em {help} para começar.\nMude o idioma do bot para o idioma preferido com {languageSet}!\nSaiba mais sobre comandos de barra em <https://emojiguardian.xyz/slash>"
 }

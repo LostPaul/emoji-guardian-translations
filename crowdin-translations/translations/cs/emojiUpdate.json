@@ -2,19 +2,19 @@
     "compact": "{emoji} `({current_emoji_name})`[{new_name_option} Changed it's name from {current_emoji_name} to {new_emoji_name}][{lock_emoji_roles} Changed it's roles from {old_roles} to {new_roles}]",
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Smazat emoji"
         },
         {
-            "label": "Edit Emoji Name"
+            "label": "Upravit název emoji"
         }
     ],
     "components_with_unlock": [
         {
-            "label": "Unlock Emoji"
+            "label": "Odemknout emoji"
         }
     ],
     "embed": {
-        "title": "Emoji updated",
-        "description": "[{old_name_option}Old name: {current_emoji_name}][{new_name_option}\nNew name: {new_emoji_name}][{lock_emoji_roles}Name: `{current_emoji_name}`\nOld roles: {old_roles}\nNew roles: {new_roles}]\nEmoji ID: {current_emoji_id}[{reason_option}\nReason: ]{reason}"
+        "title": "Emoji aktualizováno",
+        "description": "[{old_name_option}Staré jméno: {current_emoji_name}][{new_name_option}\nNové jméno: {new_emoji_name}][{lock_emoji_roles}Jméno: `{current_emoji_name}`\nStaré role: {old_roles}\nNové role: {new_roles}]\nID Emoji: {current_emoji_id}[{reason_option}\nDůvod: ]{reason}"
     }
 }

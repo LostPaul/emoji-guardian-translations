@@ -1,9 +1,9 @@
 {
-    "name": "{emoji}-enlarge",
-    "description": "Enlarge an emoji",
+    "name": "{emoji}-ampliar",
+    "description": "Ampliar um emoji",
     "options": [
         {
-            "description": "The emoji you want to enlarge"
+            "description": "O emoji que você deseja ampliar"
         }
     ]
 }
