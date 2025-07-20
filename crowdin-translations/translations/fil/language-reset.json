@@ -3,10 +3,10 @@
     "not-enough-perms": "You reset the language of the bot to English.",
     "components": [
         {
-            "label": "This server"
+            "label": "Itong serbidor"
         },
         {
-            "label": "Every server"
+            "label": "Kada serbidor"
         }
     ]
 }

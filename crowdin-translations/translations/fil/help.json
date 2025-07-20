@@ -9,19 +9,19 @@
         "fields": [
             {
                 "name": "{emoji_bot}Tungkol sa Emoji Guardian",
-                "value": "> Ang Emoji Guardian ay isang bot para sa mga emoji servers.\n> Pwede mong limitahin ang iyong mga emojis sa espesipikong roles at iba pa, gamit ang bot."
+                "value": "> Ang Emoji Guardian ay isang bot para sa mga emoji servers.\n> Puwede mong limitahin ang iyong mga emoji sa espesipikong roles at iba pa, gamit ang bot."
             },
             {
-                "name": "{emoji_tools}Paano ko makikita ang mga commands?",
-                "value": "> Click under the buttons on the select menu and select a command category."
+                "name": "{emoji_tools} Paano ko makikita ang mga commands?",
+                "value": "> I-klik ang mga boton sa menu at piliin ang kategoriya ng command."
             },
             {
-                "name": "{emoji_support}How can I get support?",
-                "value": "> You can join [support server](https://discord.gg/EbBsuxVNYT) or you can DM `Lost Paul#3453` or `Danu#4422`"
+                "name": "{emoji_support} Paano ako makakuha ng suporta?",
+                "value": "> Puwede kang sumali sa [support server](https://discord.gg/EbBsuxVNYT) o padalhan ng mensahe sina `Lost Paul#3453` o `Danu#4422`"
             },
             {
-                "name": "{emoji_translate}How can I change the language of the bot?",
-                "value": "> You can change the language of the bot by using the command {languageSet}\n> Your language isn't there? Then you can start translating it at https://translate.emojiguardian.xyz/"
+                "name": "{emoji_translate} Paano ko palitan ang wika ng bot?",
+                "value": "> Puwede mong palitan ang wika ng bot gamit ang command na {languageSet}\n> Wala rito ang wika mo? Puwede kang tumulong sa pagsasalin sa \nhttps://translate.emojiguardian.xyz/"
             }
         ]
     },
@@ -29,36 +29,36 @@
         {
             "options": [
                 {
-                    "label": "Help Page",
-                    "description": "The main help page"
+                    "label": "Pahina ng tulong",
+                    "description": "Ang pangunahing pahina ng tulong"
                 },
                 {
-                    "label": "Single emoji commands",
-                    "description": "Commands which work with only one emoji"
+                    "label": "Mga commands para sa isang emoji",
+                    "description": "Mga commands na para sa isang emoji"
                 },
                 {
-                    "label": "Commands that work multiple emojis",
-                    "description": "Command which work with more than one emoji"
+                    "label": "Mga commands para sa pangkaramihang emojis",
+                    "description": "Mga commands na para sa higit pa sa isang emoji"
                 },
                 {
-                    "label": "Blacklist/Other commands",
-                    "description": "Blacklist commands and other commands than single and multiple emojis commands"
+                    "label": "Talaang-itim/Iba pang commands",
+                    "description": "Ikansela ang ibang commands para sa mga commands para sa isa at mga pangkaramihang emojis"
                 }
             ],
-            "placeholder": "Select a category"
+            "placeholder": "Pumili ng kategorya"
         },
         {
-            "label": "Support server"
+            "label": "Support Server"
         },
         {
-            "label": "Invite link"
+            "label": "Link na Pang-imbita"
         },
         {
-            "label": "Website"
+            "label": "Pahinarya"
         }
     ],
-    "no_desc": "No description available",
-    "no_perms": "No permissions required",
-    "perms": "Permissions:",
-    "mention": "Hey {user_mention}, the bot only works with slash commands, click on {help} to get started.\nChange the language of the bot to your preferred language with {languageSet}!\nLearn more about slash commands at <https://emojiguardian.xyz/slash>"
+    "no_desc": "Walang deskripsyong maipapakita",
+    "no_perms": "Walang permisong kinakailangan",
+    "perms": "Mga Permiso:",
+    "mention": "Hey {user_mention}, gagana lang ang bot kapag gagamit ang slash commands, i-klik ang {help} para magsimula.\nPalitan ang wika ng bot sa iyong kagustuhan gamit ang {languageSet}!\nMatuto pa tungkol sa slash commands sa <https://emojiguardian.xyz/slash>"
 }

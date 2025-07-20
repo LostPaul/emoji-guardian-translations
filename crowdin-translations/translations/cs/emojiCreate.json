@@ -1,15 +1,15 @@
 {
     "components": [
         {
-            "label": "Delete Emoji"
+            "label": "Smazat emoji"
         },
         {
-            "label": "Edit Emoji name"
+            "label": "Upravit název emoji"
         }
     ],
     "compact": "{emoji} `({current_emoji_name})` Has been created by {text} [{reason_option}with the reason ]{reason}",
     "embed": {
-        "title": "Emoji created",
+        "title": "Emoji vytvořeno",
         "description": "`{emoji}` \nAdded by {text}[{reason_option}\nReason: ]{reason}"
     }
 }

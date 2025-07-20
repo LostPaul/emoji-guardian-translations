@@ -3,8 +3,8 @@
         "title": "Choose a new name for the emoji",
         "components": [
             {
-                "label": "Emoji Name",
-                "placeholder": "Insert the new name for the emoji here."
+                "label": "Jméno emoji",
+                "placeholder": "Zde vlož nový název pro emoji."
             }
         ]
     }

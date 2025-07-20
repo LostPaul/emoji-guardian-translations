@@ -1,11 +1,11 @@
 {
-    "content": "Are you sure that you want to lock all emojis to a role?",
+    "content": "Jsi si jist/á, že chceš uzamknout všechny emoji na roli?",
     "components": [
         {
-            "label": "Confirm"
+            "label": "Potvrdit"
         },
         {
-            "label": "Cancel"
+            "label": "Zrušit"
         }
     ]
 }

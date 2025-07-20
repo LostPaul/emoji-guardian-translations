@@ -2,7 +2,7 @@
     "reason": "Deleted by {user_tag} ({user_id})",
     "components": [
         {
-            "label": "Deleted"
+            "label": "Smazáno"
         }
     ]
 }

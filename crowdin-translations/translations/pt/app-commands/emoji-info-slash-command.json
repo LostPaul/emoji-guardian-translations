@@ -1,9 +1,9 @@
 {
-    "name": "{emoji}-info",
-    "description": "Get information about an emoji",
+    "name": "{emoji}-informação",
+    "description": "Obtém informações sobre um emoji",
     "options": [
         {
-            "description": "The emoji you want to get information about."
+            "description": "O emoji sobre o qual você deseja obter informações."
         }
     ]
 }
